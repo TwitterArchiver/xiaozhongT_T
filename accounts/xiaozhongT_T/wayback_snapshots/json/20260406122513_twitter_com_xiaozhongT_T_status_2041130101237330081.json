@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634191700712390657",
+    "conversation_id": "2040137353705181666",
+    "created_at": "2026-04-06T12:25:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T13:25:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041130101237330081"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2039696881647857664",
+          "start": 0,
+          "username": "guwihu192679"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041130101237330081",
+    "in_reply_to_user_id": "2039696881647857664",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040391968619106565",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guwihu192679 也差不多等同于这样吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634191700712390657",
+        "conversation_id": "2040137353705181666",
+        "created_at": "2026-04-06T12:25:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T13:25:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041130101237330081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2039696881647857664",
+              "start": 0,
+              "username": "guwihu192679"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041130101237330081",
+        "in_reply_to_user_id": "2039696881647857664",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040391968619106565",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guwihu192679 也差不多等同于这样吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039696881647857664",
+        "conversation_id": "2040137353705181666",
+        "created_at": "2026-04-04T11:32:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T12:32:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040391968619106565"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1634191700712390657",
+              "start": 0,
+              "username": "xiaozhongT_T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040391968619106565",
+        "in_reply_to_user_id": "1634191700712390657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040137353705181666",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaozhongT_T 我还以为你妈撕了呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "08已成年已退学/欢迎收看家里蹲挂壁生活/焦虑焦虑焦虑/ed/od/你能碰到清醒的我该庆幸/单机搞oc",
+        "id": "1634191700712390657",
+        "location": "月亮",
+        "name": "柊凜川",
+        "pinned_tweet_id": "2038056405970657570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038818955574542336/QZb1rWM0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 255,
+          "like_count": 1470,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 728
+        },
+        "username": "xiaozhongT_T",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-02T13:30:26.000Z",
+        "description": "",
+        "id": "2039696881647857664",
+        "name": "自信的阿伟",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039728949434150912/OC94hUAz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 15,
+          "like_count": 2,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 23
+        },
+        "username": "guwihu192679",
+        "verified": false
+      }
+    ]
+  }
+}

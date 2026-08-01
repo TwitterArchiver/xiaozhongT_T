@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634191700712390657",
+    "conversation_id": "2041492033815388544",
+    "created_at": "2026-04-07T12:42:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T13:42:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041496832807985161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2031995714000302080",
+          "start": 0,
+          "username": "Thalyabdlp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041496832807985161",
+    "in_reply_to_user_id": "2031995714000302080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041492033815388544",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Thalyabdlp 宝宝上方舟健客买不用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634191700712390657",
+        "conversation_id": "2041492033815388544",
+        "created_at": "2026-04-07T12:42:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T13:42:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041496832807985161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2031995714000302080",
+              "start": 0,
+              "username": "Thalyabdlp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041496832807985161",
+        "in_reply_to_user_id": "2031995714000302080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041492033815388544",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Thalyabdlp 宝宝上方舟健客买不用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2031995714000302080",
+        "conversation_id": "2041492033815388544",
+        "created_at": "2026-04-07T12:23:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T13:23:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041492033815388544"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041492033815388544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "求一个prbl的处方单…🥲🥲"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "08已成年已退学/欢迎收看家里蹲挂壁生活/焦虑焦虑焦虑/ed/od/你能碰到清醒的我该庆幸/单机搞oc",
+        "id": "1634191700712390657",
+        "location": "月亮",
+        "name": "柊檩川",
+        "pinned_tweet_id": "2038056405970657570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038818955574542336/QZb1rWM0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 294,
+          "like_count": 1535,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 749
+        },
+        "username": "xiaozhongT_T",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-12T07:30:30.000Z",
+        "description": "全网最爱思诺思的用户｜只想交点朋友再发点碎碎念｜精神病很严重｜直fo是喜欢你",
+        "id": "2031995714000302080",
+        "name": "Landiaros",
+        "pinned_tweet_id": "2041237013995880617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035480046002130944/Qdu3g_A5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 19,
+          "like_count": 177,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 34
+        },
+        "username": "Thalyabdlp",
+        "verified": false
+      }
+    ]
+  }
+}

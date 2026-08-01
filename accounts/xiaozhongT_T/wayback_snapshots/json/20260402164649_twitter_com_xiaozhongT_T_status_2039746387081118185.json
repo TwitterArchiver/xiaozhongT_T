@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634191700712390657",
+    "conversation_id": "2039741032162832711",
+    "created_at": "2026-04-02T16:46:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T17:46:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039746387081118185"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1536368818477465602",
+          "start": 0,
+          "username": "O817Xiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039746387081118185",
+    "in_reply_to_user_id": "1536368818477465602",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039741032162832711",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@O817Xiao 感觉凉席比深的还痒。。。。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634191700712390657",
+        "conversation_id": "2039741032162832711",
+        "created_at": "2026-04-02T16:46:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T17:46:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039746387081118185"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1536368818477465602",
+              "start": 0,
+              "username": "O817Xiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039746387081118185",
+        "in_reply_to_user_id": "1536368818477465602",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039741032162832711",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@O817Xiao 感觉凉席比深的还痒。。。。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536368818477465602",
+        "conversation_id": "2039741032162832711",
+        "created_at": "2026-04-02T16:25:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T17:25:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039741032162832711"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039741032162832711",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我我那个凉席印快痒炸了痒炸了对"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "「我不奢求你会说爱我，只要轻轻抱着我就好」",
+        "id": "1634191700712390657",
+        "location": "月亮",
+        "name": "柊凜川",
+        "pinned_tweet_id": "2038056405970657570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038818955574542336/QZb1rWM0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 250,
+          "like_count": 1346,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 662
+        },
+        "username": "xiaozhongT_T",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-13T15:24:17.000Z",
+        "description": "小Z/疹 随便发一些什么乱七八糟的 专心经营自己的懵b生活 互fo看见就回",
+        "id": "1536368818477465602",
+        "name": "不可解的小小Z",
+        "pinned_tweet_id": "2038893440323166710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1588504246085124097/6RNZTony_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 83,
+          "like_count": 126,
+          "listed_count": 1,
+          "media_count": 23,
+          "tweet_count": 147
+        },
+        "username": "O817Xiao",
+        "verified": false
+      }
+    ]
+  }
+}

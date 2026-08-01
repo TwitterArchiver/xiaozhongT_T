@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634191700712390657",
+    "conversation_id": "2038819157194793298",
+    "created_at": "2026-03-31T03:27:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T04:27:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038820434238652814"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1358666452945965057",
+          "start": 0,
+          "username": "luoaa_072"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038820434238652814",
+    "in_reply_to_user_id": "1358666452945965057",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038819439932739783",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luoaa_072 (*/∇＼*)喜欢你"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634191700712390657",
+        "conversation_id": "2038819157194793298",
+        "created_at": "2026-03-31T03:27:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T04:27:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038820434238652814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1358666452945965057",
+              "start": 0,
+              "username": "luoaa_072"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038820434238652814",
+        "in_reply_to_user_id": "1358666452945965057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038819439932739783",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoaa_072 (*/∇＼*)喜欢你"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1358666452945965057",
+        "conversation_id": "2038819157194793298",
+        "created_at": "2026-03-31T03:23:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T04:23:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038819439932739783"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1634191700712390657",
+              "start": 0,
+              "username": "xiaozhongT_T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038819439932739783",
+        "in_reply_to_user_id": "1634191700712390657",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038819157194793298",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaozhongT_T 好看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "「我不奢求你会说爱我，只要轻轻抱着我就好」",
+        "id": "1634191700712390657",
+        "location": "月亮",
+        "name": "柊凜川",
+        "pinned_tweet_id": "2038056405970657570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038818955574542336/QZb1rWM0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 142,
+          "following_count": 191,
+          "like_count": 869,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 405
+        },
+        "username": "xiaozhongT_T",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-08T06:38:23.000Z",
+        "description": "18↑｜2%药物和98%酒精构成",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/zh-tw/luoaa0723",
+                "end": 23,
+                "expanded_url": "https://lit.link/zh-tw/luoaa0723",
+                "start": 0,
+                "url": "https://t.co/lYSdLqiNfy"
+              }
+            ]
+          }
+        },
+        "id": "1358666452945965057",
+        "name": "点点O3O",
+        "pinned_tweet_id": "2035397873001763247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021891596166533120/vhvmZmEi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 518,
+          "following_count": 465,
+          "like_count": 11196,
+          "listed_count": 2,
+          "media_count": 164,
+          "tweet_count": 2449
+        },
+        "url": "https://t.co/lYSdLqiNfy",
+        "username": "luoaa_072",
+        "verified": false
+      }
+    ]
+  }
+}

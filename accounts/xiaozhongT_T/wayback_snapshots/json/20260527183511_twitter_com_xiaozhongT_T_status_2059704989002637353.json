@@ -1,0 +1,125 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634191700712390657",
+    "conversation_id": "2059704989002637353",
+    "created_at": "2026-05-27T18:35:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T19:35:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2059704989002637353"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2059704989002637353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "群友你们不要自杀了好不好，，开玩笑的我只希望你们要幸福啊在哪里都是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634191700712390657",
+        "conversation_id": "2059704989002637353",
+        "created_at": "2026-05-27T18:35:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T19:35:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2059704989002637353"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059704989002637353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "群友你们不要自杀了好不好，，开玩笑的我只希望你们要幸福啊在哪里都是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "向死而生\n我喜欢我的群友 @Alistai33955292 @luoaa_072 @meiiiTVT @O817Xiao @usiisjkj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 13,
+                "username": "Alistai33955292"
+              },
+              {
+                "end": 40,
+                "start": 30,
+                "username": "luoaa_072"
+              },
+              {
+                "end": 50,
+                "start": 41,
+                "username": "meiiiTVT"
+              },
+              {
+                "end": 60,
+                "start": 51,
+                "username": "O817Xiao"
+              },
+              {
+                "end": 70,
+                "start": 61,
+                "username": "usiisjkj"
+              }
+            ]
+          }
+        },
+        "id": "1634191700712390657",
+        "location": "月亮",
+        "name": "柊檩川",
+        "pinned_tweet_id": "2038056405970657570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045797211447971840/iX7ajiBl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 519,
+          "following_count": 404,
+          "like_count": 2198,
+          "listed_count": 1,
+          "media_count": 124,
+          "tweet_count": 1238
+        },
+        "username": "xiaozhongT_T",
+        "verified": true
+      }
+    ]
+  }
+}

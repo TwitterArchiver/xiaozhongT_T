@@ -1,0 +1,125 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634191700712390657",
+    "conversation_id": "2045190511183475068",
+    "created_at": "2026-04-17T17:19:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T18:19:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045190511183475068"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2045190511183475068",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我想瘦了出蕾塞"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634191700712390657",
+        "conversation_id": "2045190511183475068",
+        "created_at": "2026-04-17T17:19:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T18:19:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045190511183475068"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045190511183475068",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想瘦了出蕾塞"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "向死而生\n我喜欢我的群友 @Alistai33955292 @luoaa_072 @bloodmeiii @O817Xiao @usiisjkj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 13,
+                "username": "Alistai33955292"
+              },
+              {
+                "end": 40,
+                "start": 30,
+                "username": "luoaa_072"
+              },
+              {
+                "end": 52,
+                "start": 41,
+                "username": "bloodmeiii"
+              },
+              {
+                "end": 62,
+                "start": 53,
+                "username": "O817Xiao"
+              },
+              {
+                "end": 72,
+                "start": 63,
+                "username": "usiisjkj"
+              }
+            ]
+          }
+        },
+        "id": "1634191700712390657",
+        "location": "月亮",
+        "name": "柊檩川",
+        "pinned_tweet_id": "2038056405970657570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043360211638104064/3rfknD6o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 369,
+          "like_count": 2133,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 1083
+        },
+        "username": "xiaozhongT_T",
+        "verified": true
+      }
+    ]
+  }
+}

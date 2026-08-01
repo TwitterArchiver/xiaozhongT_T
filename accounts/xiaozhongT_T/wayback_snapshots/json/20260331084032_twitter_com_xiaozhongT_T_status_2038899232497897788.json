@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634191700712390657",
+    "conversation_id": "2038899232497897788",
+    "created_at": "2026-03-31T08:40:32.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T09:40:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038899232497897788"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1900087922235428864",
+          "start": 3,
+          "username": "HosinoKaede0717"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038899232497897788",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2034500539346735214",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @HosinoKaede0717: 〖星星の轉生置頂6.0〗\n🖊️這裡是Esterlla✨/Start⭐/星星\n💫一點印象：enfp-T/07/女♀/泛性戀/精神病/寫手畫師/物質依賴/自傷\n❗推文包括：日常/無預警血圖/od/自傷/個人作品/負能碎碎唸等\n⭕入🚪僅接受讚…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2034500529712484352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDv_c9jbUAArjU0.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634191700712390657",
+        "conversation_id": "2038899232497897788",
+        "created_at": "2026-03-31T08:40:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T09:40:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038899232497897788"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1900087922235428864",
+              "start": 3,
+              "username": "HosinoKaede0717"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038899232497897788",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2034500539346735214",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @HosinoKaede0717: 〖星星の轉生置頂6.0〗\n🖊️這裡是Esterlla✨/Start⭐/星星\n💫一點印象：enfp-T/07/女♀/泛性戀/精神病/寫手畫師/物質依賴/自傷\n❗推文包括：日常/無預警血圖/od/自傷/個人作品/負能碎碎唸等\n⭕入🚪僅接受讚…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2034500529712484352"
+          ]
+        },
+        "author_id": "1900087922235428864",
+        "conversation_id": "2034500539346735214",
+        "created_at": "2026-03-19T05:21:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-19T06:21:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2034500539346735214"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hL9Hi1PqQy",
+              "end": 191,
+              "expanded_url": "https://x.com/HosinoKaede0717/status/2034500539346735214/photo/1",
+              "media_key": "3_2034500529712484352",
+              "start": 168,
+              "url": "https://t.co/hL9Hi1PqQy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2034500539346735214",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 298,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "〖星星の轉生置頂6.0〗\n🖊️這裡是Esterlla✨/Start⭐/星星\n💫一點印象：enfp-T/07/女♀/泛性戀/精神病/寫手畫師/物質依賴/自傷\n❗推文包括：日常/無預警血圖/od/自傷/個人作品/負能碎碎唸等\n⭕入🚪僅接受讚賞碼及口令紅包\n其他業務請小窗哦~\n❌IP保密，請國門再詢問！未過門請勿騷擾！\n💎互轉互fo大歡迎 https://t.co/hL9Hi1PqQy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "「我不奢求你会说爱我，只要轻轻抱着我就好」",
+        "id": "1634191700712390657",
+        "location": "月亮",
+        "name": "柊凜川",
+        "pinned_tweet_id": "2038056405970657570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038818955574542336/QZb1rWM0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 201,
+          "like_count": 923,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 436
+        },
+        "username": "xiaozhongT_T",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-13T07:34:17.000Z",
+        "description": "你好( ´ ▽ ` )ノ\n這裡是start/Esterlla，你也可以叫我星星！\n刻板印象（推文也會包含這些）\n🚪55/77/111\n07/女♀/泛性戀/ENFP-T/ 精神病 /od割手/畫手/文手/同人女/oc人（更多請看主頁自行解鎖）\n喜歡的東西很多，混的圈子也是雜七雜八的！\n總之請多多指教♪~",
+        "id": "1900087922235428864",
+        "name": "Esterlla✨start⭐",
+        "pinned_tweet_id": "2034500539346735214",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900088146173513728/JAGoqpXJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 112,
+          "like_count": 752,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 358
+        },
+        "username": "HosinoKaede0717",
+        "verified": false
+      }
+    ]
+  }
+}

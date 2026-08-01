@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634191700712390657",
+    "conversation_id": "2045903223219700146",
+    "created_at": "2026-04-19T23:31:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T00:31:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046008766554857771"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1937505497143517184",
+          "start": 0,
+          "username": "ksbdksbje"
+        },
+        {
+          "end": 20,
+          "id": "3028335709",
+          "start": 11,
+          "username": "4136kulm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046008766554857771",
+    "in_reply_to_user_id": "1937505497143517184",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045905095246922096",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ksbdksbje @4136kulm 小柊特别开心w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634191700712390657",
+        "conversation_id": "2045903223219700146",
+        "created_at": "2026-04-19T23:31:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T00:31:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046008766554857771"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1937505497143517184",
+              "start": 0,
+              "username": "ksbdksbje"
+            },
+            {
+              "end": 20,
+              "id": "3028335709",
+              "start": 11,
+              "username": "4136kulm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046008766554857771",
+        "in_reply_to_user_id": "1937505497143517184",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045905095246922096",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ksbdksbje @4136kulm 小柊特别开心w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1937505497143517184",
+        "conversation_id": "2045903223219700146",
+        "created_at": "2026-04-19T16:39:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T17:39:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045905095246922096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1634191700712390657",
+              "start": 0,
+              "username": "xiaozhongT_T"
+            },
+            {
+              "end": 23,
+              "id": "3028335709",
+              "start": 14,
+              "username": "4136kulm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045905095246922096",
+        "in_reply_to_user_id": "1634191700712390657",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 37,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045903223219700146",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaozhongT_T @4136kulm 👏👏👏👏👏👏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "向死而生\n我喜欢我的群友 @Alistai33955292 @luoaa_072 @bloodmeiii @O817Xiao @usiisjkj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 13,
+                "username": "Alistai33955292"
+              },
+              {
+                "end": 40,
+                "start": 30,
+                "username": "luoaa_072"
+              },
+              {
+                "end": 52,
+                "start": 41,
+                "username": "bloodmeiii"
+              },
+              {
+                "end": 62,
+                "start": 53,
+                "username": "O817Xiao"
+              },
+              {
+                "end": 72,
+                "start": 63,
+                "username": "usiisjkj"
+              }
+            ]
+          }
+        },
+        "id": "1634191700712390657",
+        "location": "月亮",
+        "name": "柊檩川",
+        "pinned_tweet_id": "2038056405970657570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045797211447971840/iX7ajiBl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 470,
+          "following_count": 390,
+          "like_count": 2256,
+          "listed_count": 0,
+          "media_count": 121,
+          "tweet_count": 1177
+        },
+        "username": "xiaozhongT_T",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-24T13:38:12.000Z",
+        "description": "若我果真能冲破世间的至暗……我们就在那鲜花芬芳的西风尽头重聚吧。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hsr.hoyoverse.com",
+                "end": 23,
+                "expanded_url": "https://hsr.hoyoverse.com/",
+                "start": 0,
+                "url": "https://t.co/8cUL1e076M"
+              }
+            ]
+          }
+        },
+        "id": "1937505497143517184",
+        "location": "翁法罗斯",
+        "name": "我也要爆仓吗",
+        "pinned_tweet_id": "2044623878463569924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2044023703017771008/iY9jI8vF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 87,
+          "like_count": 351,
+          "listed_count": 0,
+          "media_count": 61,
+          "tweet_count": 458
+        },
+        "url": "https://t.co/8cUL1e076M",
+        "username": "ksbdksbje",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-19T02:34:34.000Z",
+        "description": "ニート専攻、窓際エンジニア",
+        "id": "3028335709",
+        "name": "チバナ",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045680324139683840/TmDN_AP2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 837,
+          "like_count": 505,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 8
+        },
+        "username": "4136kulm",
+        "verified": false
+      }
+    ]
+  }
+}

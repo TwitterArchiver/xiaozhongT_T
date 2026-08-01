@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1276845574424162304"
+      ],
+      "media_source_tweet_id": [
+        "1276845770017107969"
+      ]
+    },
+    "author_id": "1634191700712390657",
+    "conversation_id": "1822176886736171306",
+    "created_at": "2024-08-10T07:43:18.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-10T08:43:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1822176886736171306"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "3112919876",
+          "start": 3,
+          "username": "30_voca_music"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jiagpck9vm",
+          "end": 51,
+          "expanded_url": "https://twitter.com/30_voca_music/status/1276845770017107969/video/1",
+          "media_key": "13_1276845574424162304",
+          "start": 28,
+          "url": "https://t.co/Jiagpck9VM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822176886736171306",
+    "lang": "pt",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 71
+    },
+    "referenced_tweets": [
+      {
+        "id": "1821881240854671870",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @30_voca_music: flos / R\nhttps://t.co/Jiagpck9VM"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 35700,
+        "height": 1080,
+        "media_key": "13_1276845574424162304",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1276845574424162304/img/jI-eX7Yu37hprTbq.jpg",
+        "public_metrics": {
+          "view_count": 161978
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1276845574424162304/vid/480x270/zunsDxiytDCSjTOm.mp4?tag=13"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1276845574424162304/vid/640x360/JQqhNV_BjKZ8RMWe.mp4?tag=13"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1276845574424162304/vid/1280x720/yYkC3yoRnCKgq1QD.mp4?tag=13"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1276845574424162304/pl/lW13pyKA_guTzuf2.m3u8?tag=13&v=176"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1276845574424162304"
+          ],
+          "media_source_tweet_id": [
+            "1276845770017107969"
+          ]
+        },
+        "author_id": "1634191700712390657",
+        "conversation_id": "1822176886736171306",
+        "created_at": "2024-08-10T07:43:18.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-10T08:43:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1822176886736171306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "3112919876",
+              "start": 3,
+              "username": "30_voca_music"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jiagpck9vm",
+              "end": 51,
+              "expanded_url": "https://twitter.com/30_voca_music/status/1276845770017107969/video/1",
+              "media_key": "13_1276845574424162304",
+              "start": 28,
+              "url": "https://t.co/Jiagpck9VM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1822176886736171306",
+        "lang": "pt",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 71
+        },
+        "referenced_tweets": [
+          {
+            "id": "1821881240854671870",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @30_voca_music: flos / R\nhttps://t.co/Jiagpck9VM"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1276845574424162304"
+          ],
+          "media_source_tweet_id": [
+            "1276845770017107969"
+          ]
+        },
+        "author_id": "3112919876",
+        "conversation_id": "1821881240854671870",
+        "created_at": "2024-08-09T12:08:31.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-09T13:08:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1821881240854671870"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jiagpck9vm",
+              "end": 32,
+              "expanded_url": "https://twitter.com/30_voca_music/status/1276845770017107969/video/1",
+              "media_key": "13_1276845574424162304",
+              "start": 9,
+              "url": "https://t.co/Jiagpck9VM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821881240854671870",
+        "lang": "pt",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 7496,
+          "like_count": 223,
+          "quote_count": 3,
+          "reply_count": 0,
+          "retweet_count": 71
+        },
+        "reply_settings": "everyone",
+        "text": "flos / R\nhttps://t.co/Jiagpck9VM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "@ragno404把我杀掉了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "ragno404"
+              }
+            ]
+          }
+        },
+        "id": "1634191700712390657",
+        "location": "月亮",
+        "name": "小柊",
+        "pinned_tweet_id": "1821884366450270637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821858196006547456/9fV5LbJh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 96,
+          "like_count": 466,
+          "listed_count": 0,
+          "tweet_count": 134
+        },
+        "username": "xiaozhongT_T",
+        "verified": false
+      },
+      {
+        "created_at": "2015-03-28T13:05:48.000Z",
+        "description": "ボーカロイド(たまにUTAU まれにCeVIO等)の楽曲を30秒くらいにして流します。",
+        "id": "3112919876",
+        "name": "30秒ボカロbot",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/903257944392732672/JZWhJls2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100138,
+          "following_count": 3,
+          "like_count": 294,
+          "listed_count": 433,
+          "tweet_count": 36734
+        },
+        "username": "30_voca_music",
+        "verified": false
+      }
+    ]
+  }
+}

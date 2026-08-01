@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634191700712390657",
+    "conversation_id": "2039548872725606789",
+    "created_at": "2026-04-02T03:59:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T04:59:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039553177998307487"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1839085606573637632",
+          "start": 0,
+          "username": "qii1969243"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039553177998307487",
+    "in_reply_to_user_id": "1839085606573637632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039548872725606789",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qii1969243 紧紧贴着—"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2039548868363436032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE3u48jaQAAiaJm.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634191700712390657",
+        "conversation_id": "2039548872725606789",
+        "created_at": "2026-04-02T03:59:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T04:59:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039553177998307487"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1839085606573637632",
+              "start": 0,
+              "username": "qii1969243"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039553177998307487",
+        "in_reply_to_user_id": "1839085606573637632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039548872725606789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qii1969243 紧紧贴着—"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039548868363436032"
+          ]
+        },
+        "author_id": "1839085606573637632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2039548872725606789",
+        "created_at": "2026-04-02T03:41:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T04:41:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039548872725606789"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2038324114537271296/BDCA_d_l?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2038324114537271296/BDCA_d_l?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/DuEJjLxfHo"
+            },
+            {
+              "display_url": "pic.x.com/mUz7UzhA9P",
+              "end": 64,
+              "expanded_url": "https://x.com/qii1969243/status/2039548872725606789/photo/1",
+              "media_key": "3_2039548868363436032",
+              "start": 41,
+              "url": "https://t.co/mUz7UzhA9P"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039548872725606789",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/DuEJjLxfHo https://t.co/mUz7UzhA9P"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "「我不奢求你会说爱我，只要轻轻抱着我就好」",
+        "id": "1634191700712390657",
+        "location": "月亮",
+        "name": "柊凜川",
+        "pinned_tweet_id": "2038056405970657570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038818955574542336/QZb1rWM0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 217,
+          "like_count": 1199,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 596
+        },
+        "username": "xiaozhongT_T",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "叫我之壇^岐^山支^之之^壇都可以/津/友跨/泛性恋/我割我抽/诞生2010.12.21/长期请假中/最最好:青椰皮 od持开放态度 不一定碰但是不会反感 不喜欢讨论政治话题 想扩私私我好不好 喜欢直fo别人 喜欢萌妹子",
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "之壇",
+        "pinned_tweet_id": "2039519460286177545",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039490693140549632/hYgO0Ks5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 99,
+          "like_count": 84,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 233
+        },
+        "username": "qii1969243",
+        "verified": false
+      }
+    ]
+  }
+}

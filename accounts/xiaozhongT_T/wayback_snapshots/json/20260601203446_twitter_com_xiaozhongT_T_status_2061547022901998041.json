@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2061547016530898944",
+        "3_2061547015369084929"
+      ]
+    },
+    "author_id": "1634191700712390657",
+    "conversation_id": "2061547022901998041",
+    "created_at": "2026-06-01T20:34:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T21:34:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2061547022901998041"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/GzSQsX7g3K",
+          "end": 39,
+          "expanded_url": "https://x.com/xiaozhongT_T/status/2061547022901998041/photo/1",
+          "media_key": "3_2061547016530898944",
+          "start": 16,
+          "url": "https://t.co/GzSQsX7g3K"
+        },
+        {
+          "display_url": "pic.x.com/GzSQsX7g3K",
+          "end": 39,
+          "expanded_url": "https://x.com/xiaozhongT_T/status/2061547022901998041/photo/1",
+          "media_key": "3_2061547015369084929",
+          "start": 16,
+          "url": "https://t.co/GzSQsX7g3K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061547022901998041",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "孩子，你是不是想开普瑞巴林呢？ https://t.co/GzSQsX7g3K"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2061547016530898944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJwWFsgXMAAb7GB.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2061547015369084929",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJwWFoLXUAEf5wl.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061547016530898944",
+            "3_2061547015369084929"
+          ]
+        },
+        "author_id": "1634191700712390657",
+        "conversation_id": "2061547022901998041",
+        "created_at": "2026-06-01T20:34:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T21:34:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061547022901998041"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GzSQsX7g3K",
+              "end": 39,
+              "expanded_url": "https://x.com/xiaozhongT_T/status/2061547022901998041/photo/1",
+              "media_key": "3_2061547016530898944",
+              "start": 16,
+              "url": "https://t.co/GzSQsX7g3K"
+            },
+            {
+              "display_url": "pic.x.com/GzSQsX7g3K",
+              "end": 39,
+              "expanded_url": "https://x.com/xiaozhongT_T/status/2061547022901998041/photo/1",
+              "media_key": "3_2061547015369084929",
+              "start": 16,
+              "url": "https://t.co/GzSQsX7g3K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061547022901998041",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "孩子，你是不是想开普瑞巴林呢？ https://t.co/GzSQsX7g3K"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "向死而生\n我喜欢我的群友 @Alistai33955292 @luoaa_072 @meiiiTVT @O817Xiao @usiisjkj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 13,
+                "username": "Alistai33955292"
+              },
+              {
+                "end": 40,
+                "start": 30,
+                "username": "luoaa_072"
+              },
+              {
+                "end": 50,
+                "start": 41,
+                "username": "meiiiTVT"
+              },
+              {
+                "end": 60,
+                "start": 51,
+                "username": "O817Xiao"
+              },
+              {
+                "end": 70,
+                "start": 61,
+                "username": "usiisjkj"
+              }
+            ]
+          }
+        },
+        "id": "1634191700712390657",
+        "location": "月亮",
+        "name": "柊檩川",
+        "pinned_tweet_id": "2038056405970657570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045797211447971840/iX7ajiBl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 516,
+          "following_count": 403,
+          "like_count": 2199,
+          "listed_count": 1,
+          "media_count": 127,
+          "tweet_count": 1246
+        },
+        "username": "xiaozhongT_T",
+        "verified": true
+      }
+    ]
+  }
+}

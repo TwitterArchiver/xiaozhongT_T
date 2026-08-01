@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2040027194735616000",
+        "3_2040027195008241664"
+      ],
+      "media_source_tweet_id": [
+        "2040027202755125314",
+        "2040027202755125314"
+      ]
+    },
+    "author_id": "1634191700712390657",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2045524060243906970",
+    "created_at": "2026-04-18T15:25:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-18T16:25:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045524060243906970"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1914994498440253440",
+          "start": 3,
+          "username": "WeiJackal69885"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/NRfae5SCbo",
+          "end": 77,
+          "expanded_url": "https://x.com/WeiJackal69885/status/2040027202755125314/photo/1",
+          "media_key": "3_2040027194735616000",
+          "start": 54,
+          "url": "https://t.co/NRfae5SCbo"
+        },
+        {
+          "display_url": "pic.x.com/NRfae5SCbo",
+          "end": 77,
+          "expanded_url": "https://x.com/WeiJackal69885/status/2040027202755125314/photo/1",
+          "media_key": "3_2040027195008241664",
+          "start": 54,
+          "url": "https://t.co/NRfae5SCbo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045524060243906970",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040027202755125314",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @WeiJackal69885: 同類互of ！| ip 台灣\n可以叫我夏天,鹹魚 | 愛好自傷od https://t.co/NRfae5SCbo"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2045524060243906970].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2045524060243906970",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2045524060243906970"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 667,
+        "media_key": "3_2040027194735616000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE-h7NJaYAAe1BD.jpg",
+        "width": 445
+      },
+      {
+        "height": 2190,
+        "media_key": "3_2040027195008241664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE-h7OKaUAAUdPr.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2040027194735616000",
+            "3_2040027195008241664"
+          ]
+        },
+        "author_id": "1914994498440253440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2040027202755125314",
+        "created_at": "2026-04-03T11:22:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-03T12:22:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2040027202755125314"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NRfae5SCbo",
+              "end": 57,
+              "expanded_url": "https://x.com/WeiJackal69885/status/2040027202755125314/photo/1",
+              "media_key": "3_2040027194735616000",
+              "start": 34,
+              "url": "https://t.co/NRfae5SCbo"
+            },
+            {
+              "display_url": "pic.x.com/NRfae5SCbo",
+              "end": 57,
+              "expanded_url": "https://x.com/WeiJackal69885/status/2040027202755125314/photo/1",
+              "media_key": "3_2040027195008241664",
+              "start": 34,
+              "url": "https://t.co/NRfae5SCbo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040027202755125314",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 219,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "同類互of ！| ip 台灣\n可以叫我夏天,鹹魚 | 愛好自傷od https://t.co/NRfae5SCbo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "向死而生\n我喜欢我的群友 @Alistai33955292 @luoaa_072 @bloodmeiii @O817Xiao @usiisjkj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 13,
+                "username": "Alistai33955292"
+              },
+              {
+                "end": 40,
+                "start": 30,
+                "username": "luoaa_072"
+              },
+              {
+                "end": 52,
+                "start": 41,
+                "username": "bloodmeiii"
+              },
+              {
+                "end": 62,
+                "start": 53,
+                "username": "O817Xiao"
+              },
+              {
+                "end": 72,
+                "start": 63,
+                "username": "usiisjkj"
+              }
+            ]
+          }
+        },
+        "id": "1634191700712390657",
+        "location": "月亮",
+        "name": "柊檩川",
+        "pinned_tweet_id": "2038056405970657570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043360211638104064/3rfknD6o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 383,
+          "like_count": 2213,
+          "listed_count": 0,
+          "media_count": 115,
+          "tweet_count": 1130
+        },
+        "username": "xiaozhongT_T",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-23T10:50:19.000Z",
+        "description": "世界怎麼這麼壞 我一直在哭   🗑️                               Luca ♡|看成分互of💌|自傷🩸|od|12                                                          \n  網路世界是我的歸宿\n小帳@YanRu21718",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 146,
+                "username": "YanRu21718"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yeuhelw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yeuhelw",
+                "start": 0,
+                "url": "https://t.co/kMK4AqHjrI"
+              }
+            ]
+          }
+        },
+        "id": "1914994498440253440",
+        "name": "甘い",
+        "pinned_tweet_id": "2040027202755125314",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041456384471154688/-nqGuXGo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 303,
+          "like_count": 8611,
+          "listed_count": 1,
+          "media_count": 83,
+          "tweet_count": 580
+        },
+        "url": "https://t.co/kMK4AqHjrI",
+        "username": "WeiJackal69885",
+        "verified": false
+      }
+    ]
+  }
+}

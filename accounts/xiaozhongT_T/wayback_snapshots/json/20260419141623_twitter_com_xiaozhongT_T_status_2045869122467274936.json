@@ -1,0 +1,127 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634191700712390657",
+    "conversation_id": "2045869122467274936",
+    "created_at": "2026-04-19T14:16:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T15:16:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045869122467274936"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2045869122467274936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "过年住在妈妈家里，她喊了男性朋友和老相好晚上来喝酒，我出房间路过的时候被我妈硬生生按在座位上，给我灌酒，让我喊人，让我说好话。\n迷迷糊糊中我只问到闷臭的酒味，只看见对面中年男人们粘腻的目光。\n他夸我越长大越好看了，我只觉得恶心。\n小时候妈妈喝醉了坐在相好腿上，让我喊那个男人爸爸，我哭得好伤心，但是这种事在饭桌上被我妈当成笑话讲了出来。\n我讨厌他们所有人，讨厌，我不想忤逆妈妈，我还想做的听话的孩子，想妈妈的心依旧偏爱我。但是真的，好恶心啊，我借口上厕所，然后直接吐在了洗手台里，水龙头冲走了呕吐物，我想，如果我也能这样消失就好了。\n妈妈也好爸爸也好，把我当听话的人偶，因为爱着前妻所以爱屋及乌，为什么爱的永远不是我本身。"
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "过年住在妈妈家里，她喊了男性朋友和老相好晚上来喝酒，我出房间路过的时候被我妈硬生生按在座位上，给我灌酒，让我喊人，让我说好话。\n迷迷糊糊中我只问到闷臭的酒味，只看见对面中年男人们粘腻的目光。\n他夸我越长大越好看了，我只觉得恶心。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634191700712390657",
+        "conversation_id": "2045869122467274936",
+        "created_at": "2026-04-19T14:16:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T15:16:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045869122467274936"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2045869122467274936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "过年住在妈妈家里，她喊了男性朋友和老相好晚上来喝酒，我出房间路过的时候被我妈硬生生按在座位上，给我灌酒，让我喊人，让我说好话。\n迷迷糊糊中我只问到闷臭的酒味，只看见对面中年男人们粘腻的目光。\n他夸我越长大越好看了，我只觉得恶心。\n小时候妈妈喝醉了坐在相好腿上，让我喊那个男人爸爸，我哭得好伤心，但是这种事在饭桌上被我妈当成笑话讲了出来。\n我讨厌他们所有人，讨厌，我不想忤逆妈妈，我还想做的听话的孩子，想妈妈的心依旧偏爱我。但是真的，好恶心啊，我借口上厕所，然后直接吐在了洗手台里，水龙头冲走了呕吐物，我想，如果我也能这样消失就好了。\n妈妈也好爸爸也好，把我当听话的人偶，因为爱着前妻所以爱屋及乌，为什么爱的永远不是我本身。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "过年住在妈妈家里，她喊了男性朋友和老相好晚上来喝酒，我出房间路过的时候被我妈硬生生按在座位上，给我灌酒，让我喊人，让我说好话。\n迷迷糊糊中我只问到闷臭的酒味，只看见对面中年男人们粘腻的目光。\n他夸我越长大越好看了，我只觉得恶心。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "向死而生\n我喜欢我的群友 @Alistai33955292 @luoaa_072 @bloodmeiii @O817Xiao @usiisjkj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 13,
+                "username": "Alistai33955292"
+              },
+              {
+                "end": 40,
+                "start": 30,
+                "username": "luoaa_072"
+              },
+              {
+                "end": 52,
+                "start": 41,
+                "username": "bloodmeiii"
+              },
+              {
+                "end": 62,
+                "start": 53,
+                "username": "O817Xiao"
+              },
+              {
+                "end": 72,
+                "start": 63,
+                "username": "usiisjkj"
+              }
+            ]
+          }
+        },
+        "id": "1634191700712390657",
+        "location": "月亮",
+        "name": "柊檩川",
+        "pinned_tweet_id": "2038056405970657570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045797211447971840/iX7ajiBl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 385,
+          "like_count": 2250,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 1161
+        },
+        "username": "xiaozhongT_T",
+        "verified": true
+      }
+    ]
+  }
+}

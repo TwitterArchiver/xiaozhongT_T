@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634191700712390657",
+    "conversation_id": "2039731008292147218",
+    "created_at": "2026-04-02T16:19:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T17:19:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039739400331145634"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1505767450385690625",
+          "start": 0,
+          "username": "Alistai33955292"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039739400331145634",
+    "in_reply_to_user_id": "1505767450385690625",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039731008292147218",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Alistai33955292 爸爸妈妈我出生了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_2039731001900113920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE6Uig2boAA2fM9.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634191700712390657",
+        "conversation_id": "2039731008292147218",
+        "created_at": "2026-04-02T16:19:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T17:19:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039739400331145634"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1505767450385690625",
+              "start": 0,
+              "username": "Alistai33955292"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039739400331145634",
+        "in_reply_to_user_id": "1505767450385690625",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039731008292147218",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Alistai33955292 爸爸妈妈我出生了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039731001900113920"
+          ]
+        },
+        "author_id": "1505767450385690625",
+        "conversation_id": "2039731008292147218",
+        "created_at": "2026-04-02T15:45:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T16:45:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039731008292147218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 38,
+              "id": "2021200224388341760",
+              "start": 22,
+              "username": "pet843801211906"
+            },
+            {
+              "end": 51,
+              "id": "1687566770763071489",
+              "start": 39,
+              "username": "Olebe179131"
+            },
+            {
+              "end": 72,
+              "id": "1634143760690057216",
+              "start": 58,
+              "username": "Akiscara_6484"
+            },
+            {
+              "end": 92,
+              "id": "1634191700712390657",
+              "start": 79,
+              "username": "xiaozhongT_T"
+            },
+            {
+              "end": 103,
+              "id": "2007104134466736129",
+              "start": 93,
+              "username": "peipeimao"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Meet your Twitter family: parents, spouse, and children! 🌳 This fun feature uses a secret algorithm to predict your closest Twitter connections, representing your parents, spouse, and children 👨‍👩‍👧‍👦",
+              "display_url": "infinitetweet.me/family-tree?la…",
+              "end": 131,
+              "expanded_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2039126085452046336/gVYkyw19?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2039126085452046336/gVYkyw19?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 108,
+              "status": 200,
+              "title": "Family Tree • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/family-tree?lang=zh",
+              "url": "https://t.co/ZYKl2xA5Nl"
+            },
+            {
+              "display_url": "pic.x.com/rJVQ4FGdtP",
+              "end": 155,
+              "expanded_url": "https://x.com/Alistai33955292/status/2039731008292147218/photo/1",
+              "media_key": "3_2039731001900113920",
+              "start": 132,
+              "url": "https://t.co/rJVQ4FGdtP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039731008292147218",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @pet843801211906 @Olebe179131\n👰 配偶: @Akiscara_6484\n👶 孩子: @xiaozhongT_T @peipeimao\n\n➡️ https://t.co/ZYKl2xA5Nl https://t.co/rJVQ4FGdtP"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "「我不奢求你会说爱我，只要轻轻抱着我就好」",
+        "id": "1634191700712390657",
+        "location": "月亮",
+        "name": "柊凜川",
+        "pinned_tweet_id": "2038056405970657570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038818955574542336/QZb1rWM0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 249,
+          "like_count": 1337,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 656
+        },
+        "username": "xiaozhongT_T",
+        "verified": false
+      },
+      {
+        "created_at": "2022-03-21T04:45:18.000Z",
+        "description": "06丨重焦重抑丨餐券丨同性有浪漫倾向无性恋丨全性别友好丨社交极度恐惧……欢迎互fo！",
+        "id": "1505767450385690625",
+        "location": "0.1km",
+        "name": "🌰",
+        "pinned_tweet_id": "2038240720558186875",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038590475792510976/EraPdm2o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 292,
+          "like_count": 261,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 270
+        },
+        "username": "Alistai33955292",
+        "verified": false
+      }
+    ]
+  }
+}

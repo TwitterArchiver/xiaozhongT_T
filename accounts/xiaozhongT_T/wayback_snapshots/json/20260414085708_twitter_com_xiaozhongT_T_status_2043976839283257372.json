@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2043976836682788867"
+      ]
+    },
+    "author_id": "1634191700712390657",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2043976839283257372",
+    "created_at": "2026-04-14T08:57:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T09:57:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2043976839283257372"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/alGIknCl2G",
+          "end": 23,
+          "expanded_url": "https://x.com/xiaozhongT_T/status/2043976839283257372/photo/1",
+          "media_key": "3_2043976836682788867",
+          "start": 0,
+          "url": "https://t.co/alGIknCl2G"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043976839283257372",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/alGIknCl2G"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1031,
+        "media_key": "3_2043976836682788867",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF2qGn-asAM7yqb.jpg",
+        "width": 1039
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2043976836682788867"
+          ]
+        },
+        "author_id": "1634191700712390657",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2043976839283257372",
+        "created_at": "2026-04-14T08:57:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T09:57:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043976839283257372"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/alGIknCl2G",
+              "end": 23,
+              "expanded_url": "https://x.com/xiaozhongT_T/status/2043976839283257372/photo/1",
+              "media_key": "3_2043976836682788867",
+              "start": 0,
+              "url": "https://t.co/alGIknCl2G"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043976839283257372",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/alGIknCl2G"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "向死而生\n我喜欢我的群友 @Alistai33955292 @luoaa_072  @bloodmeiii @O817Xiao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 13,
+                "username": "Alistai33955292"
+              },
+              {
+                "end": 40,
+                "start": 30,
+                "username": "luoaa_072"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "bloodmeiii"
+              },
+              {
+                "end": 63,
+                "start": 54,
+                "username": "O817Xiao"
+              }
+            ]
+          }
+        },
+        "id": "1634191700712390657",
+        "location": "月亮",
+        "name": "柊檩川",
+        "pinned_tweet_id": "2038056405970657570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043360211638104064/3rfknD6o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 316,
+          "like_count": 1955,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 901
+        },
+        "username": "xiaozhongT_T",
+        "verified": false
+      }
+    ]
+  }
+}

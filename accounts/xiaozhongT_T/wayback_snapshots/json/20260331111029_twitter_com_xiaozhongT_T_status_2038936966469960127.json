@@ -1,0 +1,253 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634191700712390657",
+    "conversation_id": "2038651686819094758",
+    "created_at": "2026-03-31T11:10:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T12:10:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038936966469960127"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1358666452945965057",
+          "start": 0,
+          "username": "luoaa_072"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038936966469960127",
+    "in_reply_to_user_id": "1358666452945965057",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038651686819094758",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@luoaa_072 准备加入中。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2038651682897510400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEq-54PbwAAs2EE.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634191700712390657",
+        "conversation_id": "2038651686819094758",
+        "created_at": "2026-03-31T11:10:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T12:10:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038936966469960127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1358666452945965057",
+              "start": 0,
+              "username": "luoaa_072"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038936966469960127",
+        "in_reply_to_user_id": "1358666452945965057",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038651686819094758",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@luoaa_072 准备加入中。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038651682897510400"
+          ]
+        },
+        "author_id": "1358666452945965057",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2038651686819094758",
+        "created_at": "2026-03-30T16:16:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T17:16:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038651686819094758"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2038324114537271296/BDCA_d_l?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2038324114537271296/BDCA_d_l?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/bPllwdQ1FL"
+            },
+            {
+              "display_url": "pic.x.com/R6AiqXOSJz",
+              "end": 64,
+              "expanded_url": "https://x.com/luoaa_072/status/2038651686819094758/photo/1",
+              "media_key": "3_2038651682897510400",
+              "start": 41,
+              "url": "https://t.co/R6AiqXOSJz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038651686819094758",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 236,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/bPllwdQ1FL https://t.co/R6AiqXOSJz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "「我不奢求你会说爱我，只要轻轻抱着我就好」",
+        "id": "1634191700712390657",
+        "location": "月亮",
+        "name": "柊凜川",
+        "pinned_tweet_id": "2038056405970657570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038818955574542336/QZb1rWM0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 202,
+          "like_count": 953,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 459
+        },
+        "username": "xiaozhongT_T",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-08T06:38:23.000Z",
+        "description": "18↑｜2%药物和98%酒精构成",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/zh-tw/luoaa0723",
+                "end": 23,
+                "expanded_url": "https://lit.link/zh-tw/luoaa0723",
+                "start": 0,
+                "url": "https://t.co/lYSdLqiNfy"
+              }
+            ]
+          }
+        },
+        "id": "1358666452945965057",
+        "name": "点点O3O",
+        "pinned_tweet_id": "2035397873001763247",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021891596166533120/vhvmZmEi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 537,
+          "following_count": 478,
+          "like_count": 11366,
+          "listed_count": 2,
+          "media_count": 166,
+          "tweet_count": 2490
+        },
+        "url": "https://t.co/lYSdLqiNfy",
+        "username": "luoaa_072",
+        "verified": false
+      }
+    ]
+  }
+}

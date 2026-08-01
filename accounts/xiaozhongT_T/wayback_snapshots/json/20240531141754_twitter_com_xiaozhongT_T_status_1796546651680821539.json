@@ -1,0 +1,143 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1634191700712390657",
+    "conversation_id": "1796546534978506914",
+    "created_at": "2024-05-31T14:17:54.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-31T15:17:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1796546651680821539"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1796546651680821539",
+    "in_reply_to_user_id": "1634191700712390657",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1796546534978506914",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对不起 心情有点糟糕所以没打敏感 被恶心到的请屏蔽我吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1634191700712390657",
+        "conversation_id": "1796546534978506914",
+        "created_at": "2024-05-31T14:17:54.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-31T15:17:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1796546651680821539"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1796546651680821539",
+        "in_reply_to_user_id": "1634191700712390657",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1796546534978506914",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对不起 心情有点糟糕所以没打敏感 被恶心到的请屏蔽我吧"
+      },
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1796546504238546944"
+          ]
+        },
+        "author_id": "1634191700712390657",
+        "conversation_id": "1796546534978506914",
+        "created_at": "2024-05-31T14:17:26.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-31T15:17:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1796546534978506914"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/kwuXSElrBN",
+              "end": 23,
+              "expanded_url": "https://twitter.com/xiaozhongT_T/status/1796546534978506914/video/1",
+              "media_key": "7_1796546504238546944",
+              "start": 0,
+              "url": "https://t.co/kwuXSElrBN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796546534978506914",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/kwuXSElrBN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "三文魚是世界上最好吃的東西",
+        "id": "1634191700712390657",
+        "location": "月亮",
+        "name": "小柊",
+        "pinned_tweet_id": "1781353543435444261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784271167748292608/5ESxNbC6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 96,
+          "like_count": 406,
+          "listed_count": 0,
+          "tweet_count": 102
+        },
+        "username": "xiaozhongT_T",
+        "verified": false
+      }
+    ]
+  }
+}

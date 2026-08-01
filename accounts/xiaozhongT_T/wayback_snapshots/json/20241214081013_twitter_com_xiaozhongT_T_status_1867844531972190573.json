@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634191700712390657",
+    "conversation_id": "1867844531972190573",
+    "created_at": "2024-12-14T08:10:13.000Z",
+    "edit_controls": {
+      "editable_until": "2024-12-14T09:10:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1867844531972190573"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1733183818960633856",
+          "start": 3,
+          "username": "whitething05"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1867844531972190573",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "1867463612203511828",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @whitething05: 人都是要死的，自杀不过是提前交卷了而已。考场的其他人也会投来羡慕的目光吧。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634191700712390657",
+        "conversation_id": "1867844531972190573",
+        "created_at": "2024-12-14T08:10:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-14T09:10:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1867844531972190573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1733183818960633856",
+              "start": 3,
+              "username": "whitething05"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1867844531972190573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "1867463612203511828",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @whitething05: 人都是要死的，自杀不过是提前交卷了而已。考场的其他人也会投来羡慕的目光吧。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1733183818960633856",
+        "conversation_id": "1867463612203511828",
+        "created_at": "2024-12-13T06:56:35.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-13T07:56:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1867463612203511828"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1867463612203511828",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2556,
+          "like_count": 89,
+          "quote_count": 1,
+          "reply_count": 12,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "人都是要死的，自杀不过是提前交卷了而已。考场的其他人也会投来羡慕的目光吧。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "ed/双相/重度焦虑/自伤/od\nbmi17 谢谢你来看我 感到不适自行屏蔽",
+        "id": "1634191700712390657",
+        "location": "月亮",
+        "name": "小柊",
+        "pinned_tweet_id": "1821884366450270637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821858196006547456/9fV5LbJh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 101,
+          "like_count": 588,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 169
+        },
+        "username": "xiaozhongT_T",
+        "verified": false
+      },
+      {
+        "created_at": "2023-12-08T17:56:55.000Z",
+        "description": "我的脑子缺了一块 丨INFP-T丨双相情感障碍丨overdose丨泛性恋丨药理学丨文学丨友🏳️‍⚧️丨照顾好自己丨一般会回fo",
+        "id": "1733183818960633856",
+        "location": "死无葬身之地",
+        "name": "有机化学",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1861474547872210945/aqttihVs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 185,
+          "following_count": 205,
+          "like_count": 5149,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 293
+        },
+        "username": "whitething05",
+        "verified": false
+      }
+    ]
+  }
+}

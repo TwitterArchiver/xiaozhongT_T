@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634191700712390657",
+    "conversation_id": "2039343927497793577",
+    "created_at": "2026-04-01T14:12:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T15:12:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039345212401885691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1961388090670653440",
+          "start": 0,
+          "username": "usiisjkj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039345212401885691",
+    "in_reply_to_user_id": "1961388090670653440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039344419846189103",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@usiisjkj 我好荣幸！！（//// v ////）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634191700712390657",
+        "conversation_id": "2039343927497793577",
+        "created_at": "2026-04-01T14:12:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T15:12:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039345212401885691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1961388090670653440",
+              "start": 0,
+              "username": "usiisjkj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039345212401885691",
+        "in_reply_to_user_id": "1961388090670653440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039344419846189103",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@usiisjkj 我好荣幸！！（//// v ////）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1961388090670653440",
+        "conversation_id": "2039343927497793577",
+        "created_at": "2026-04-01T14:09:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T15:09:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039344419846189103"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1634191700712390657",
+              "start": 0,
+              "username": "xiaozhongT_T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039344419846189103",
+        "in_reply_to_user_id": "1634191700712390657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039344196184944832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaozhongT_T 我永远爱你呦小柊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "「我不奢求你会说爱我，只要轻轻抱着我就好」",
+        "id": "1634191700712390657",
+        "location": "月亮",
+        "name": "柊凜川",
+        "pinned_tweet_id": "2038056405970657570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038818955574542336/QZb1rWM0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 216,
+          "like_count": 1123,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 554
+        },
+        "username": "xiaozhongT_T",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-29T11:19:09.000Z",
+        "description": "爱我的人 我爱你",
+        "id": "1961388090670653440",
+        "name": "寒蝉鸣泣之时幸福才会来临",
+        "pinned_tweet_id": "2035409782270836906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035410153865146369/q9BQ4lA1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 204,
+          "like_count": 437,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 362
+        },
+        "username": "usiisjkj",
+        "verified": false
+      }
+    ]
+  }
+}

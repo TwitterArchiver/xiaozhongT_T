@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634191700712390657",
+    "conversation_id": "2049274476391723365",
+    "created_at": "2026-04-28T23:48:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-29T00:48:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2049274476391723365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2048703548184219649",
+          "start": 3,
+          "username": "ichiai_love"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2049274476391723365",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 15
+    },
+    "referenced_tweets": [
+      {
+        "id": "2048790735110205863",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @ichiai_love: =苺爱／ねね\n\n06 休学中 家里蹲 无职\nOD 自伤 血图请注意(＞人＜;)\nOC厨 家里什么取向都有 投喂约稿感谢♡\n很温良 请跟我交朋友 互转互fo大欢迎꒰ ྀི ∩⸝⸝∩ ꒱♥︎\n\n以下是苺爱的门槛表跟投喂码\n感谢投喂～苺爱会拿去好好生…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2048790728533499904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG7EUAlaYAALHyp.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2048790728533577728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG7EUAlbkAAhBpe.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1110,
+        "media_key": "3_2048790728529334272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG7EUAka0AAcI0m.jpg",
+        "width": 1200
+      },
+      {
+        "height": 736,
+        "media_key": "3_2048790728567050241",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HG7EUAtaUAE9KGF.jpg",
+        "width": 736
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634191700712390657",
+        "conversation_id": "2049274476391723365",
+        "created_at": "2026-04-28T23:48:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T00:48:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049274476391723365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2048703548184219649",
+              "start": 3,
+              "username": "ichiai_love"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049274476391723365",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "referenced_tweets": [
+          {
+            "id": "2048790735110205863",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @ichiai_love: =苺爱／ねね\n\n06 休学中 家里蹲 无职\nOD 自伤 血图请注意(＞人＜;)\nOC厨 家里什么取向都有 投喂约稿感谢♡\n很温良 请跟我交朋友 互转互fo大欢迎꒰ ྀི ∩⸝⸝∩ ꒱♥︎\n\n以下是苺爱的门槛表跟投喂码\n感谢投喂～苺爱会拿去好好生…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2048790728533499904",
+            "3_2048790728533577728",
+            "3_2048790728529334272",
+            "3_2048790728567050241"
+          ]
+        },
+        "author_id": "2048703548184219649",
+        "conversation_id": "2048790735110205863",
+        "created_at": "2026-04-27T15:45:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-27T16:45:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2048790735110205863"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C9BM9tf1K6",
+              "end": 160,
+              "expanded_url": "https://x.com/ichiai_love/status/2048790735110205863/photo/1",
+              "media_key": "3_2048790728533499904",
+              "start": 137,
+              "url": "https://t.co/C9BM9tf1K6"
+            },
+            {
+              "display_url": "pic.x.com/C9BM9tf1K6",
+              "end": 160,
+              "expanded_url": "https://x.com/ichiai_love/status/2048790735110205863/photo/1",
+              "media_key": "3_2048790728533577728",
+              "start": 137,
+              "url": "https://t.co/C9BM9tf1K6"
+            },
+            {
+              "display_url": "pic.x.com/C9BM9tf1K6",
+              "end": 160,
+              "expanded_url": "https://x.com/ichiai_love/status/2048790735110205863/photo/1",
+              "media_key": "3_2048790728529334272",
+              "start": 137,
+              "url": "https://t.co/C9BM9tf1K6"
+            },
+            {
+              "display_url": "pic.x.com/C9BM9tf1K6",
+              "end": 160,
+              "expanded_url": "https://x.com/ichiai_love/status/2048790735110205863/photo/1",
+              "media_key": "3_2048790728567050241",
+              "start": 137,
+              "url": "https://t.co/C9BM9tf1K6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2048790735110205863",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2937,
+          "like_count": 53,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "=苺爱／ねね\n\n06 休学中 家里蹲 无职\nOD 自伤 血图请注意(＞人＜;)\nOC厨 家里什么取向都有 投喂约稿感谢♡\n很温良 请跟我交朋友 互转互fo大欢迎꒰ ྀི ∩⸝⸝∩ ꒱♥︎\n\n以下是苺爱的门槛表跟投喂码\n感谢投喂～苺爱会拿去好好生活的૮ ◞ ⸝⸝ ◟ ྀིა https://t.co/C9BM9tf1K6"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "向死而生\n我喜欢我的群友 @Alistai33955292 @luoaa_072 @bloodmeiii @O817Xiao @usiisjkj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 13,
+                "username": "Alistai33955292"
+              },
+              {
+                "end": 40,
+                "start": 30,
+                "username": "luoaa_072"
+              },
+              {
+                "end": 52,
+                "start": 41,
+                "username": "bloodmeiii"
+              },
+              {
+                "end": 62,
+                "start": 53,
+                "username": "O817Xiao"
+              },
+              {
+                "end": 72,
+                "start": 63,
+                "username": "usiisjkj"
+              }
+            ]
+          }
+        },
+        "id": "1634191700712390657",
+        "location": "月亮",
+        "name": "柊檩川",
+        "pinned_tweet_id": "2038056405970657570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045797211447971840/iX7ajiBl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 527,
+          "following_count": 422,
+          "like_count": 2269,
+          "listed_count": 1,
+          "media_count": 123,
+          "tweet_count": 1214
+        },
+        "username": "xiaozhongT_T",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-27T10:00:47.000Z",
+        "description": "06｜苺爱／ねね｜休学 自伤 OD｜互fo大欢迎♡",
+        "id": "2048703548184219649",
+        "location": "🚪52",
+        "name": "苺愛ねね",
+        "pinned_tweet_id": "2048790735110205863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048792581128261632/LiBKuXIj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 83,
+          "following_count": 78,
+          "like_count": 26,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 22
+        },
+        "username": "ichiai_love",
+        "verified": false
+      }
+    ]
+  }
+}

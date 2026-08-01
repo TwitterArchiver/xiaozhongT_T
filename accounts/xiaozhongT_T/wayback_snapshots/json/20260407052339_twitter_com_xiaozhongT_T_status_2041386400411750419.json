@@ -1,0 +1,162 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2041386397203107840"
+      ]
+    },
+    "author_id": "1634191700712390657",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2041386400411750419",
+    "created_at": "2026-04-07T05:23:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T06:23:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2041386400411750419"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5UkwGxA0jc",
+          "end": 141,
+          "expanded_url": "https://x.com/xiaozhongT_T/status/2041386400411750419/photo/1",
+          "media_key": "3_2041386397203107840",
+          "start": 118,
+          "url": "https://t.co/5UkwGxA0jc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041386400411750419",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "嗯大概就是我想300fo了吧\n这是我的很满意的一张画 餐券妹od妹ed妹找我互fo谢谢喵ᯠ_   ̫ _ᯄ Ⳋ\n关注转发评论这一条抽三个宝宝\n一等奖：35r \n二等奖：20r \n三等奖：8.88r\n开奖时间为到300fo时 谢谢支持喵 https://t.co/5UkwGxA0jc"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2041386397203107840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFR2HM6bEAA-mTX.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041386397203107840"
+          ]
+        },
+        "author_id": "1634191700712390657",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2041386400411750419",
+        "created_at": "2026-04-07T05:23:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T06:23:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041386400411750419"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5UkwGxA0jc",
+              "end": 141,
+              "expanded_url": "https://x.com/xiaozhongT_T/status/2041386400411750419/photo/1",
+              "media_key": "3_2041386397203107840",
+              "start": 118,
+              "url": "https://t.co/5UkwGxA0jc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041386400411750419",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "嗯大概就是我想300fo了吧\n这是我的很满意的一张画 餐券妹od妹ed妹找我互fo谢谢喵ᯠ_   ̫ _ᯄ Ⳋ\n关注转发评论这一条抽三个宝宝\n一等奖：35r \n二等奖：20r \n三等奖：8.88r\n开奖时间为到300fo时 谢谢支持喵 https://t.co/5UkwGxA0jc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "08已成年已退学/欢迎收看家里蹲挂壁生活/焦虑焦虑焦虑/ed/od/你能碰到清醒的我该庆幸/单机搞oc",
+        "id": "1634191700712390657",
+        "location": "月亮",
+        "name": "柊檩川",
+        "pinned_tweet_id": "2038056405970657570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038818955574542336/QZb1rWM0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 267,
+          "like_count": 1523,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 737
+        },
+        "username": "xiaozhongT_T",
+        "verified": false
+      }
+    ]
+  }
+}

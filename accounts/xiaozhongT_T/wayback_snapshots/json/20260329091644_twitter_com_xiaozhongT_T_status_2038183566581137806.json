@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634191700712390657",
+    "conversation_id": "2038056405970657570",
+    "created_at": "2026-03-29T09:16:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T10:16:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038183566581137806"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2028925492351647745",
+          "start": 0,
+          "username": "Xue03g"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038183566581137806",
+    "in_reply_to_user_id": "2028925492351647745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038164982731510160",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Xue03g 主人我来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634191700712390657",
+        "conversation_id": "2038056405970657570",
+        "created_at": "2026-03-29T09:16:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T10:16:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038183566581137806"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2028925492351647745",
+              "start": 0,
+              "username": "Xue03g"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038183566581137806",
+        "in_reply_to_user_id": "2028925492351647745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038164982731510160",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xue03g 主人我来了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028925492351647745",
+        "conversation_id": "2038056405970657570",
+        "created_at": "2026-03-29T08:02:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T09:02:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038164982731510160"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1634191700712390657",
+              "start": 0,
+              "username": "xiaozhongT_T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038164982731510160",
+        "in_reply_to_user_id": "1634191700712390657",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038056405970657570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaozhongT_T 礼貌申请"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "「我不奢求你会说爱我，只要轻轻抱着我就好」",
+        "id": "1634191700712390657",
+        "location": "月亮",
+        "name": "柊凜川",
+        "pinned_tweet_id": "2038056405970657570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008184978421456896/6a-QtTVc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 144,
+          "like_count": 675,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 299
+        },
+        "username": "xiaozhongT_T",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-03T20:08:51.000Z",
+        "description": "总而言之你特别可爱",
+        "id": "2028925492351647745",
+        "location": "Taiwan",
+        "name": "Clementine03g",
+        "pinned_tweet_id": "2033219724889206977",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035943845591130112/AmfCT4hY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 144,
+          "following_count": 130,
+          "like_count": 569,
+          "listed_count": 0,
+          "media_count": 29,
+          "tweet_count": 229
+        },
+        "username": "Xue03g",
+        "verified": false
+      }
+    ]
+  }
+}

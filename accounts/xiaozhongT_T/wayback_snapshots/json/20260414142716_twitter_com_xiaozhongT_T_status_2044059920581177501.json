@@ -1,0 +1,307 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044059906362486785",
+        "3_2044059901010616320"
+      ]
+    },
+    "author_id": "1634191700712390657",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2044053937880272954",
+    "created_at": "2026-04-14T14:27:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T15:27:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044059920581177501"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1537009225716576257",
+          "start": 0,
+          "username": "JINPINGslutflop"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Z1h3NUekmq",
+          "end": 59,
+          "expanded_url": "https://x.com/xiaozhongT_T/status/2044059920581177501/photo/1",
+          "media_key": "3_2044059906362486785",
+          "start": 36,
+          "url": "https://t.co/Z1h3NUekmq"
+        },
+        {
+          "display_url": "pic.x.com/Z1h3NUekmq",
+          "end": 59,
+          "expanded_url": "https://x.com/xiaozhongT_T/status/2044059920581177501/photo/1",
+          "media_key": "3_2044059901010616320",
+          "start": 36,
+          "url": "https://t.co/Z1h3NUekmq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044059920581177501",
+    "in_reply_to_user_id": "1537009225716576257",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044053937880272954",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JINPINGslutflop 然后这个是我企划的oc）也是自设吧！ https://t.co/Z1h3NUekmq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1165,
+        "media_key": "3_2044059906362486785",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF31p6pasAExQQZ.jpg",
+        "width": 2071
+      },
+      {
+        "height": 647,
+        "media_key": "3_2044059901010616320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF31pmtboAAL93p.jpg",
+        "width": 1029
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044059906362486785",
+            "3_2044059901010616320"
+          ]
+        },
+        "author_id": "1634191700712390657",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2044053937880272954",
+        "created_at": "2026-04-14T14:27:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T15:27:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044059920581177501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1537009225716576257",
+              "start": 0,
+              "username": "JINPINGslutflop"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Z1h3NUekmq",
+              "end": 59,
+              "expanded_url": "https://x.com/xiaozhongT_T/status/2044059920581177501/photo/1",
+              "media_key": "3_2044059906362486785",
+              "start": 36,
+              "url": "https://t.co/Z1h3NUekmq"
+            },
+            {
+              "display_url": "pic.x.com/Z1h3NUekmq",
+              "end": 59,
+              "expanded_url": "https://x.com/xiaozhongT_T/status/2044059920581177501/photo/1",
+              "media_key": "3_2044059901010616320",
+              "start": 36,
+              "url": "https://t.co/Z1h3NUekmq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044059920581177501",
+        "in_reply_to_user_id": "1537009225716576257",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044053937880272954",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JINPINGslutflop 然后这个是我企划的oc）也是自设吧！ https://t.co/Z1h3NUekmq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1537009225716576257",
+        "conversation_id": "2044053937880272954",
+        "created_at": "2026-04-14T14:03:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T15:03:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044053937880272954"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2044053937880272954",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 39,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不知道画什么好 卢关们有oc自设什么的吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "向死而生\n我喜欢我的群友 @Alistai33955292 @luoaa_072  @bloodmeiii @O817Xiao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 13,
+                "username": "Alistai33955292"
+              },
+              {
+                "end": 40,
+                "start": 30,
+                "username": "luoaa_072"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "bloodmeiii"
+              },
+              {
+                "end": 63,
+                "start": 54,
+                "username": "O817Xiao"
+              }
+            ]
+          }
+        },
+        "id": "1634191700712390657",
+        "location": "月亮",
+        "name": "柊檩川",
+        "pinned_tweet_id": "2038056405970657570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043360211638104064/3rfknD6o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 359,
+          "following_count": 319,
+          "like_count": 1980,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 925
+        },
+        "username": "xiaozhongT_T",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-15T09:49:00.000Z",
+        "description": "我是咩╭(°ㅂ°`)╮逃生舱@goumoyimei",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "goumoyimei"
+              }
+            ]
+          }
+        },
+        "id": "1537009225716576257",
+        "name": "（ゝ。∂）（已黑化）",
+        "pinned_tweet_id": "2036118695387480065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043588276389322752/v3VfQHO7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 974,
+          "following_count": 2414,
+          "like_count": 102681,
+          "listed_count": 3,
+          "media_count": 1426,
+          "tweet_count": 11102
+        },
+        "username": "JINPINGslutflop",
+        "verified": false
+      }
+    ]
+  }
+}

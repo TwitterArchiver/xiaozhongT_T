@@ -1,0 +1,274 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634191700712390657",
+    "conversation_id": "2039344100147917068",
+    "created_at": "2026-04-01T14:09:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T15:09:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039344479384252709"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1814174084617666560",
+          "start": 0,
+          "username": "MianXue525"
+        },
+        {
+          "end": 27,
+          "id": "1916096142359810048",
+          "start": 12,
+          "username": "Manning0119ovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039344479384252709",
+    "in_reply_to_user_id": "1814174084617666560",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039344100147917068",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MianXue525 @Manning0119ovo 如此美萌。。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2039344038256730112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE00mQ8aYAAAq-T.jpg",
+        "width": 1710
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2039344038256775168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE00mQ8bEAA9b7-.jpg",
+        "width": 1304
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634191700712390657",
+        "conversation_id": "2039344100147917068",
+        "created_at": "2026-04-01T14:09:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T15:09:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039344479384252709"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1814174084617666560",
+              "start": 0,
+              "username": "MianXue525"
+            },
+            {
+              "end": 27,
+              "id": "1916096142359810048",
+              "start": 12,
+              "username": "Manning0119ovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039344479384252709",
+        "in_reply_to_user_id": "1814174084617666560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039344100147917068",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MianXue525 @Manning0119ovo 如此美萌。。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039344038256730112",
+            "3_2039344038256775168"
+          ]
+        },
+        "author_id": "1814174084617666560",
+        "conversation_id": "2039344100147917068",
+        "created_at": "2026-04-01T14:08:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T15:08:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039344100147917068"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 21,
+              "id": "1916096142359810048",
+              "start": 6,
+              "username": "Manning0119ovo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uTAgbg02dM",
+              "end": 76,
+              "expanded_url": "https://x.com/MianXue525/status/2039344100147917068/photo/1",
+              "media_key": "3_2039344038256730112",
+              "start": 53,
+              "url": "https://t.co/uTAgbg02dM"
+            },
+            {
+              "display_url": "pic.x.com/uTAgbg02dM",
+              "end": 76,
+              "expanded_url": "https://x.com/MianXue525/status/2039344100147917068/photo/1",
+              "media_key": "3_2039344038256775168",
+              "start": 53,
+              "url": "https://t.co/uTAgbg02dM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039344100147917068",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很幸运抽到了@Manning0119ovo 一等奖的小裙子(´･ω･`)好开心！就是不知道有没有穿对嘿嘿 https://t.co/uTAgbg02dM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "「我不奢求你会说爱我，只要轻轻抱着我就好」",
+        "id": "1634191700712390657",
+        "location": "月亮",
+        "name": "柊凜川",
+        "pinned_tweet_id": "2038056405970657570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038818955574542336/QZb1rWM0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 175,
+          "following_count": 215,
+          "like_count": 1122,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 552
+        },
+        "username": "xiaozhongT_T",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-19T05:43:11.000Z",
+        "description": "❄️♡⋰ ⋱♱⋰ ⋱♡⋰ ⋱♱⋰ ⋱♡⋰ ⋱♱⋰ ⋱♡ ❄️\n💉od｜双向｜精分｜餐劵｜无性别❄️\n❄️一个冰雪国度失眠的孩子若逃离了这里请收留我❄️\n❄️不眠雪 09休学 回fo餐劵od.跨妹.女孩子❄️ \n❄️网站链接提问箱欢迎来玩🫶🏻❄️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E4%B8%8D%E7%9…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E4%B8%8D%E7%9C%A0%E9%9B%AA",
+                "start": 0,
+                "url": "https://t.co/lJEWqJRiAE"
+              }
+            ]
+          }
+        },
+        "id": "1814174084617666560",
+        "location": "距离你520米",
+        "name": "不眠雪❄️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032010530718904320/bue0uZZ-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1065,
+          "following_count": 318,
+          "like_count": 486,
+          "listed_count": 1,
+          "media_count": 114,
+          "tweet_count": 543
+        },
+        "url": "https://t.co/lJEWqJRiAE",
+        "username": "MianXue525",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-26T11:45:02.000Z",
+        "description": "可以叫我小宁\n我现在对未来没有任何希望｜od｜王者｜大学休学焦抑治疗中｜好说话几乎没有雷点 欢迎来找我聊天呀",
+        "id": "1916096142359810048",
+        "location": "v🚪10（聊天+puq）🚪52半绿/qq免费（不常更）",
+        "name": "冰水母IvySerenity",
+        "pinned_tweet_id": "2035374438393475495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032366307195371520/4GUjoILc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 147,
+          "like_count": 103,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 136
+        },
+        "username": "Manning0119ovo",
+        "verified": false
+      }
+    ]
+  }
+}

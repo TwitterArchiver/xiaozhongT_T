@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634191700712390657",
+    "conversation_id": "2039334284620870054",
+    "created_at": "2026-04-01T13:43:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T14:43:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039337818120745183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1935582910217912320",
+          "start": 0,
+          "username": "ameyorui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039337818120745183",
+    "in_reply_to_user_id": "1935582910217912320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039337311855591488",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ameyorui 我还挺喜欢这种的，特地拿苹果6拍的！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634191700712390657",
+        "conversation_id": "2039334284620870054",
+        "created_at": "2026-04-01T13:43:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T14:43:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039337818120745183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1935582910217912320",
+              "start": 0,
+              "username": "ameyorui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039337818120745183",
+        "in_reply_to_user_id": "1935582910217912320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039337311855591488",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ameyorui 我还挺喜欢这种的，特地拿苹果6拍的！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935582910217912320",
+        "conversation_id": "2039334284620870054",
+        "created_at": "2026-04-01T13:41:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T14:41:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039337311855591488"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1634191700712390657",
+              "start": 0,
+              "username": "xiaozhongT_T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039337311855591488",
+        "in_reply_to_user_id": "1634191700712390657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039334284620870054",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaozhongT_T 好有年代感的画质呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "「我不奢求你会说爱我，只要轻轻抱着我就好」",
+        "id": "1634191700712390657",
+        "location": "月亮",
+        "name": "柊凜川",
+        "pinned_tweet_id": "2038056405970657570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038818955574542336/QZb1rWM0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 214,
+          "like_count": 1102,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 546
+        },
+        "username": "xiaozhongT_T",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-19T06:19:07.000Z",
+        "description": "在虚无与幻灭中刻下属于自己的痕迹吧。🌿一只无性人偶🍃＆ 澄澈/荒诞/凄美/交融/戏剧性缥缈♬ 东方厨☯️ 🍥与你相遇亦是缘☘️ (欢迎互fo哦 ps偶尔发病) 小天使@zhoyuluo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 83,
+                "username": "zhoyuluo"
+              }
+            ]
+          }
+        },
+        "id": "1935582910217912320",
+        "location": "彼岸乐园",
+        "name": "雨夜兰陵行路人",
+        "pinned_tweet_id": "2034518955495391385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1935583269468110849/1rP4Zh0x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 91,
+          "following_count": 2473,
+          "like_count": 17741,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 668
+        },
+        "username": "ameyorui",
+        "verified": false
+      }
+    ]
+  }
+}

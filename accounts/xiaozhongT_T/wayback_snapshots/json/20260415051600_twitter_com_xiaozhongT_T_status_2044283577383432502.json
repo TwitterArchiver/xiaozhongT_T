@@ -1,0 +1,184 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2044283539093630987"
+      ]
+    },
+    "author_id": "1634191700712390657",
+    "conversation_id": "2044283577383432502",
+    "created_at": "2026-04-15T05:16:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T06:16:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044283577383432502"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/u3XgzpWIIV",
+          "end": 43,
+          "expanded_url": "https://x.com/xiaozhongT_T/status/2044283577383432502/video/1",
+          "media_key": "7_2044283539093630987",
+          "start": 20,
+          "url": "https://t.co/u3XgzpWIIV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044283577383432502",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "bgm是我当时在放的感觉很配所以没换掉 https://t.co/u3XgzpWIIV"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 22105,
+        "height": 960,
+        "media_key": "7_2044283539093630987",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2044283539093630987/pu/img/zs_M2aPsUVz7jzfb.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2044283539093630987/pu/vid/avc1/320x426/WjBxeX7hyWoeJcUa.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2044283539093630987/pu/vid/avc1/480x640/3ASgDckjeSiHW1nB.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2044283539093630987/pu/vid/avc1/720x960/xOZaqkkjWWV9lBtf.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2044283539093630987/pu/pl/XbyE421kTN6RRMNI.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2044283539093630987"
+          ]
+        },
+        "author_id": "1634191700712390657",
+        "conversation_id": "2044283577383432502",
+        "created_at": "2026-04-15T05:16:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T06:16:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044283577383432502"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/u3XgzpWIIV",
+              "end": 43,
+              "expanded_url": "https://x.com/xiaozhongT_T/status/2044283577383432502/video/1",
+              "media_key": "7_2044283539093630987",
+              "start": 20,
+              "url": "https://t.co/u3XgzpWIIV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044283577383432502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "bgm是我当时在放的感觉很配所以没换掉 https://t.co/u3XgzpWIIV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "向死而生\n我喜欢我的群友 @Alistai33955292 @luoaa_072  @bloodmeiii @O817Xiao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 13,
+                "username": "Alistai33955292"
+              },
+              {
+                "end": 40,
+                "start": 30,
+                "username": "luoaa_072"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "bloodmeiii"
+              },
+              {
+                "end": 63,
+                "start": 54,
+                "username": "O817Xiao"
+              }
+            ]
+          }
+        },
+        "id": "1634191700712390657",
+        "location": "月亮",
+        "name": "柊檩川",
+        "pinned_tweet_id": "2038056405970657570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043360211638104064/3rfknD6o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 384,
+          "following_count": 339,
+          "like_count": 2029,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 966
+        },
+        "username": "xiaozhongT_T",
+        "verified": false
+      }
+    ]
+  }
+}

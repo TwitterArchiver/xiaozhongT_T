@@ -1,0 +1,200 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634191700712390657",
+    "conversation_id": "2040357814108094476",
+    "created_at": "2026-04-04T09:16:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-04T10:16:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040357814108094476"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2024195400442531841",
+          "start": 3,
+          "username": "zhngy228309"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040357814108094476",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 60
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040281738228965565",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zhngy228309: 400fo抽奖喵！😾\n一等奖一瓶白兔*1（可折现85r）\n二等奖一盒红普*2（可折现20r）\n三等奖一盒愈美*3（可折现9r）\n感谢大家！转发/评论参与喵😽🫳🏻"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634191700712390657",
+        "conversation_id": "2040357814108094476",
+        "created_at": "2026-04-04T09:16:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T10:16:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040357814108094476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2024195400442531841",
+              "start": 3,
+              "username": "zhngy228309"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040357814108094476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 60
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040281738228965565",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zhngy228309: 400fo抽奖喵！😾\n一等奖一瓶白兔*1（可折现85r）\n二等奖一盒红普*2（可折现20r）\n三等奖一盒愈美*3（可折现9r）\n感谢大家！转发/评论参与喵😽🫳🏻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024195400442531841",
+        "conversation_id": "2040281738228965565",
+        "created_at": "2026-04-04T04:14:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-04T05:14:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040281738228965565"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2040281738228965565",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3460,
+          "like_count": 72,
+          "quote_count": 2,
+          "reply_count": 71,
+          "retweet_count": 60
+        },
+        "reply_settings": "everyone",
+        "text": "400fo抽奖喵！😾\n一等奖一瓶白兔*1（可折现85r）\n二等奖一盒红普*2（可折现20r）\n三等奖一盒愈美*3（可折现9r）\n感谢大家！转发/评论参与喵😽🫳🏻"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "08已成年已退学/欢迎收看家里蹲挂壁生活/焦虑焦虑焦虑/ed/od/你能碰到清醒的我该庆幸/单机搞oc",
+        "id": "1634191700712390657",
+        "location": "月亮",
+        "name": "柊凜川",
+        "pinned_tweet_id": "2038056405970657570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038818955574542336/QZb1rWM0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 234,
+          "following_count": 253,
+          "like_count": 1412,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 706
+        },
+        "username": "xiaozhongT_T",
+        "verified": false
+      },
+      {
+        "created_at": "2026-02-18T18:53:04.000Z",
+        "description": "🩸痂痂 请多夸我(•̀ϖ•́ ) \n同类互fo 直fo就是喜歡你 \n我会发情 介意请私信🥺\nod｜自残｜抽烟\n10｜162cm｜40kg 可以叫我小予喵🥺\n第二人格@zyuyuouo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 91,
+                "start": 82,
+                "username": "zyuyuouo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E7%97%82",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E7%97%82",
+                "start": 0,
+                "url": "https://t.co/FgU3Ypa1us"
+              }
+            ]
+          }
+        },
+        "id": "2024195400442531841",
+        "location": "🚪70好友位",
+        "name": "痂",
+        "pinned_tweet_id": "2030616431369633873",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025337650073534464/-h1idxzh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 471,
+          "following_count": 327,
+          "like_count": 3355,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 1034
+        },
+        "url": "https://t.co/FgU3Ypa1us",
+        "username": "zhngy228309",
+        "verified": false
+      }
+    ]
+  }
+}

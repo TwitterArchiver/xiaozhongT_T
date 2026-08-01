@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634191700712390657",
+    "conversation_id": "2038899173001752584",
+    "created_at": "2026-03-31T08:40:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T09:40:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038899173001752584"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1831328988960034816",
+          "start": 3,
+          "username": "55ghcgxc"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038899173001752584",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031454610016370865",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @55ghcgxc: scared 2 be lonely\n\n可以叫我阿予或者竹雨\n同性恋｜喜欢我的我也喜欢你，讨厌我的可以私信骂我了\n穷逼餐券姝｜目前家里蹲\n18岁\n音企or少女乐队爱好者｜也打音游\n单机人尝试社交中……\n可能有语气冷冷的只是我不会说话并无其他意思\n喜欢…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634191700712390657",
+        "conversation_id": "2038899173001752584",
+        "created_at": "2026-03-31T08:40:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T09:40:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038899173001752584"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1831328988960034816",
+              "start": 3,
+              "username": "55ghcgxc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038899173001752584",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031454610016370865",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @55ghcgxc: scared 2 be lonely\n\n可以叫我阿予或者竹雨\n同性恋｜喜欢我的我也喜欢你，讨厌我的可以私信骂我了\n穷逼餐券姝｜目前家里蹲\n18岁\n音企or少女乐队爱好者｜也打音游\n单机人尝试社交中……\n可能有语气冷冷的只是我不会说话并无其他意思\n喜欢…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831328988960034816",
+        "conversation_id": "2031454610016370865",
+        "created_at": "2026-03-10T19:38:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T20:38:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2031454610016370865"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2031454610016370865",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 591,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "scared 2 be lonely\n\n可以叫我阿予或者竹雨\n同性恋｜喜欢我的我也喜欢你，讨厌我的可以私信骂我了\n穷逼餐券姝｜目前家里蹲\n18岁\n音企or少女乐队爱好者｜也打音游\n单机人尝试社交中……\n可能有语气冷冷的只是我不会说话并无其他意思\n喜欢和列表互动，欢迎同类来互fo，会查主页"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "「我不奢求你会说爱我，只要轻轻抱着我就好」",
+        "id": "1634191700712390657",
+        "location": "月亮",
+        "name": "柊凜川",
+        "pinned_tweet_id": "2038056405970657570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038818955574542336/QZb1rWM0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 201,
+          "like_count": 923,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 435
+        },
+        "username": "xiaozhongT_T",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-04T13:50:51.000Z",
+        "description": "女的｜08辍学精神病｜抽烟喝酒od割手｜想发什么就发什么少对别人指指点点｜",
+        "id": "1831328988960034816",
+        "name": "如果把表面的爱称作爱的话",
+        "pinned_tweet_id": "2031454610016370865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991562214021758977/qdM_ok-B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 212,
+          "like_count": 730,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 256
+        },
+        "username": "55ghcgxc",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1821844718516568064",
+        "3_1821844723838930944"
+      ]
+    },
+    "author_id": "1634191700712390657",
+    "conversation_id": "1821844728284955007",
+    "created_at": "2024-08-09T09:43:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-09T10:43:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1821844728284955007"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/hmtuu2sjk5",
+          "end": 29,
+          "expanded_url": "https://twitter.com/xiaozhongT_T/status/1821844728284955007/photo/1",
+          "media_key": "3_1821844718516568064",
+          "start": 6,
+          "url": "https://t.co/hmTuu2SJk5"
+        },
+        {
+          "display_url": "pic.x.com/hmtuu2sjk5",
+          "end": 29,
+          "expanded_url": "https://twitter.com/xiaozhongT_T/status/1821844728284955007/photo/1",
+          "media_key": "3_1821844723838930944",
+          "start": 6,
+          "url": "https://t.co/hmTuu2SJk5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1821844728284955007",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这是我和我 https://t.co/hmTuu2SJk5"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1821844728284955007].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1821844728284955007",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1821844728284955007"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1821844718516568064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GUh-HnMaAAAkkJH.jpg",
+        "width": 960
+      },
+      {
+        "height": 1280,
+        "media_key": "3_1821844723838930944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GUh-H7BW0AA28Sf.jpg",
+        "width": 960
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "刺身",
+        "id": "1634191700712390657",
+        "location": "月亮",
+        "name": "小柊",
+        "pinned_tweet_id": "1781353543435444261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784271167748292608/5ESxNbC6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 91,
+          "like_count": 428,
+          "listed_count": 0,
+          "tweet_count": 120
+        },
+        "username": "xiaozhongT_T",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634191700712390657",
+    "conversation_id": "2039539261930901861",
+    "created_at": "2026-04-02T03:05:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T04:05:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039539627112251457"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1827203342436855812",
+          "start": 0,
+          "username": "nanaj00_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039539627112251457",
+    "in_reply_to_user_id": "1827203342436855812",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039539261930901861",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nanaj00_ おめでとう！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634191700712390657",
+        "conversation_id": "2039539261930901861",
+        "created_at": "2026-04-02T03:05:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T04:05:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039539627112251457"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1827203342436855812",
+              "start": 0,
+              "username": "nanaj00_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039539627112251457",
+        "in_reply_to_user_id": "1827203342436855812",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039539261930901861",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nanaj00_ おめでとう！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1827203342436855812",
+        "conversation_id": "2039539261930901861",
+        "created_at": "2026-04-02T03:03:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T04:03:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039539261930901861"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039539261930901861",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "5000!!嬉しい…ほんとに嬉しい(；；)"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "「我不奢求你会说爱我，只要轻轻抱着我就好」",
+        "id": "1634191700712390657",
+        "location": "月亮",
+        "name": "柊凜川",
+        "pinned_tweet_id": "2038056405970657570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038818955574542336/QZb1rWM0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 217,
+          "like_count": 1190,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 585
+        },
+        "username": "xiaozhongT_T",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-24T04:36:54.000Z",
+        "description": "Unauthorized use prohibited┊︎ Dreamcore🧬🍬",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/nanas70",
+                "end": 23,
+                "expanded_url": "https://lit.link/nanas70",
+                "start": 0,
+                "url": "https://t.co/CsyqLwBTOx"
+              }
+            ]
+          }
+        },
+        "id": "1827203342436855812",
+        "location": "AI・トレス・無断転載・参考×",
+        "name": "七時",
+        "pinned_tweet_id": "2039513584510881792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037526101468336128/WIoMVTnJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5002,
+          "following_count": 25,
+          "like_count": 29936,
+          "listed_count": 9,
+          "media_count": 16,
+          "tweet_count": 379
+        },
+        "url": "https://t.co/CsyqLwBTOx",
+        "username": "nanaj00_",
+        "verified": false
+      }
+    ]
+  }
+}

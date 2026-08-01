@@ -1,0 +1,192 @@
+{
+  "data": {
+    "attachments": {},
+    "author_id": "1634191700712390657",
+    "conversation_id": "1796522300369723654",
+    "created_at": "2024-05-31T14:23:45.000Z",
+    "edit_controls": {
+      "editable_until": "2024-05-31T15:23:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1796548122208092322"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1541781120605462528",
+          "start": 0,
+          "username": "Tina4800036"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1796548122208092322",
+    "in_reply_to_user_id": "1541781120605462528",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1796547674650649013",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tina4800036 哦天哪最近有开空调吗 可能是着凉了 有时候会有类似呕吐声的咳嗽 应该不是什么大问题"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "attachments": {},
+        "author_id": "1634191700712390657",
+        "conversation_id": "1796522300369723654",
+        "created_at": "2024-05-31T14:23:45.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-31T15:23:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1796548122208092322"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1541781120605462528",
+              "start": 0,
+              "username": "Tina4800036"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796548122208092322",
+        "in_reply_to_user_id": "1541781120605462528",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1796547674650649013",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tina4800036 哦天哪最近有开空调吗 可能是着凉了 有时候会有类似呕吐声的咳嗽 应该不是什么大问题"
+      },
+      {
+        "attachments": {},
+        "author_id": "1541781120605462528",
+        "conversation_id": "1796522300369723654",
+        "created_at": "2024-05-31T14:21:58.000Z",
+        "edit_controls": {
+          "editable_until": "2024-05-31T15:21:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1796547674650649013"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1634191700712390657",
+              "start": 0,
+              "username": "xiaozhongT_T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796547674650649013",
+        "in_reply_to_user_id": "1634191700712390657",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1796534102113542162",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaozhongT_T 是干的🥺，，而且特别没精神"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "三文魚是世界上最好吃的東西",
+        "id": "1634191700712390657",
+        "location": "月亮",
+        "name": "小柊",
+        "pinned_tweet_id": "1781353543435444261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784271167748292608/5ESxNbC6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 96,
+          "like_count": 406,
+          "listed_count": 0,
+          "tweet_count": 104
+        },
+        "username": "xiaozhongT_T",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-28T13:50:51.000Z",
+        "description": "我是Tina \n备用号@tinadexiaohao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "tinadexiaohao"
+              }
+            ]
+          }
+        },
+        "id": "1541781120605462528",
+        "location": "🍛🍜🍝🍟🍣🍢🍦🍰🍱🍲🍤🎂🥓",
+        "name": "Tina",
+        "pinned_tweet_id": "1794723596914626594",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1783748867454029824/ERfFHnGZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5914,
+          "following_count": 358,
+          "like_count": 7223,
+          "listed_count": 5,
+          "tweet_count": 13087
+        },
+        "username": "Tina4800036",
+        "verified": false
+      }
+    ]
+  }
+}

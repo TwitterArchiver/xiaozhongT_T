@@ -1,0 +1,194 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2045188071780667392"
+      ]
+    },
+    "author_id": "1634191700712390657",
+    "conversation_id": "2045188140676059352",
+    "created_at": "2026-04-17T17:10:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T18:10:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045188140676059352"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/E8i8gHT1zM",
+          "end": 34,
+          "expanded_url": "https://x.com/xiaozhongT_T/status/2045188140676059352/video/1",
+          "media_key": "7_2045188071780667392",
+          "start": 11,
+          "url": "https://t.co/E8i8gHT1zM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045188140676059352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我的反应力是猫的七倍 https://t.co/E8i8gHT1zM"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17877,
+        "height": 1920,
+        "media_key": "7_2045188071780667392",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2045188071780667392/pu/img/XraSv_ju0S3aZTeK.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2045188071780667392/pu/vid/avc1/720x1280/iqBB7KSlmryK_BbC.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2045188071780667392/pu/vid/avc1/1080x1920/uxBbyq8ed0SNP7HS.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2045188071780667392/pu/vid/avc1/480x852/zskbvLPYL2l3sDcA.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2045188071780667392/pu/vid/avc1/320x568/5b1w5KwqtSb1Xqxt.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2045188071780667392/pu/pl/J85uyHJhLpH6mzWC.m3u8"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2045188071780667392"
+          ]
+        },
+        "author_id": "1634191700712390657",
+        "conversation_id": "2045188140676059352",
+        "created_at": "2026-04-17T17:10:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T18:10:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045188140676059352"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/E8i8gHT1zM",
+              "end": 34,
+              "expanded_url": "https://x.com/xiaozhongT_T/status/2045188140676059352/video/1",
+              "media_key": "7_2045188071780667392",
+              "start": 11,
+              "url": "https://t.co/E8i8gHT1zM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045188140676059352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的反应力是猫的七倍 https://t.co/E8i8gHT1zM"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "向死而生\n我喜欢我的群友 @Alistai33955292 @luoaa_072 @bloodmeiii @O817Xiao @usiisjkj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 13,
+                "username": "Alistai33955292"
+              },
+              {
+                "end": 40,
+                "start": 30,
+                "username": "luoaa_072"
+              },
+              {
+                "end": 52,
+                "start": 41,
+                "username": "bloodmeiii"
+              },
+              {
+                "end": 62,
+                "start": 53,
+                "username": "O817Xiao"
+              },
+              {
+                "end": 72,
+                "start": 63,
+                "username": "usiisjkj"
+              }
+            ]
+          }
+        },
+        "id": "1634191700712390657",
+        "location": "月亮",
+        "name": "柊檩川",
+        "pinned_tweet_id": "2038056405970657570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043360211638104064/3rfknD6o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 369,
+          "like_count": 2123,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 1079
+        },
+        "username": "xiaozhongT_T",
+        "verified": true
+      }
+    ]
+  }
+}

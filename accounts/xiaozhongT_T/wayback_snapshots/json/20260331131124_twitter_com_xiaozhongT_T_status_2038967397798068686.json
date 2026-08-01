@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634191700712390657",
+    "conversation_id": "2038954196767031381",
+    "created_at": "2026-03-31T13:11:24.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T14:11:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038967397798068686"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2028766249002696705",
+          "start": 0,
+          "username": "T9XJFKjDbd61141"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038967397798068686",
+    "in_reply_to_user_id": "2028766249002696705",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038967251433623684",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@T9XJFKjDbd61141 这个还是算了吧！！！！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634191700712390657",
+        "conversation_id": "2038954196767031381",
+        "created_at": "2026-03-31T13:11:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T14:11:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038967397798068686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2028766249002696705",
+              "start": 0,
+              "username": "T9XJFKjDbd61141"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038967397798068686",
+        "in_reply_to_user_id": "2028766249002696705",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038967251433623684",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@T9XJFKjDbd61141 这个还是算了吧！！！！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028766249002696705",
+        "conversation_id": "2038954196767031381",
+        "created_at": "2026-03-31T13:10:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T14:10:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038967251433623684"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1634191700712390657",
+              "start": 0,
+              "username": "xiaozhongT_T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038967251433623684",
+        "in_reply_to_user_id": "1634191700712390657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038966458211045724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaozhongT_T 😭😭😭我们一起去卖得了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "「我不奢求你会说爱我，只要轻轻抱着我就好」",
+        "id": "1634191700712390657",
+        "location": "月亮",
+        "name": "柊凜川",
+        "pinned_tweet_id": "2038056405970657570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038818955574542336/QZb1rWM0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 201,
+          "like_count": 1010,
+          "listed_count": 0,
+          "media_count": 51,
+          "tweet_count": 495
+        },
+        "username": "xiaozhongT_T",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-03T09:36:47.000Z",
+        "description": "目田/mtf小药娘/平板锁/锅盖锁/鉴证型人格/擦边/媚黑♠️/抽烟/喝酒/infj/m属性大爆发/分享自己h纯满足自己/\n建制品客还有毛左不许用我的照片打手冲，因为你毛爷爷和习大大正在失望的看着你",
+        "id": "2028766249002696705",
+        "name": "🍑味水果🍬8964🏳️‍⚧️🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029100175596359680/mDR6vYKp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 43,
+          "following_count": 95,
+          "like_count": 333,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 299
+        },
+        "username": "T9XJFKjDbd61141",
+        "verified": false
+      }
+    ]
+  }
+}

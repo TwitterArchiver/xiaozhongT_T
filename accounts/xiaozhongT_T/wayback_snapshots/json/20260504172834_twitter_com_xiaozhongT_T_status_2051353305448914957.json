@@ -1,0 +1,336 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2051332459535683584"
+      ],
+      "media_source_tweet_id": [
+        "2051332470042493164"
+      ]
+    },
+    "author_id": "1634191700712390657",
+    "conversation_id": "2051353305448914957",
+    "created_at": "2026-05-04T17:28:34.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T18:28:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051353305448914957"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "349054800",
+          "start": 3,
+          "username": "nyalra"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/UIJbUAGJmU",
+          "end": 54,
+          "expanded_url": "https://x.com/nyalra/status/2051332470042493164/video/1",
+          "media_key": "7_2051332459535683584",
+          "start": 31,
+          "url": "https://t.co/UIJbUAGJmU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051353305448914957",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 510
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051332470042493164",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @nyalra: Happy birthday Ame https://t.co/UIJbUAGJmU"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2858,
+        "height": 600,
+        "media_key": "7_2051332459535683584",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2051332459535683584/pu/img/dnHt08kGLZRA4lri.jpg",
+        "public_metrics": {
+          "view_count": 5248
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2051332459535683584/pu/vid/avc1/360x270/dUMUmg3UrFQUtlca.mp4?tag=25"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2051332459535683584/pu/vid/avc1/480x360/6kXupnEgOf2EFAj_.mp4?tag=25"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2051332459535683584/pu/vid/avc1/800x600/vMLSb30EQtJcNvGh.mp4?tag=25"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2051332459535683584/pu/pl/mj3barXyzQfXOGiC.m3u8?tag=25"
+          }
+        ],
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2051332459535683584"
+          ],
+          "media_source_tweet_id": [
+            "2051332470042493164"
+          ]
+        },
+        "author_id": "1634191700712390657",
+        "conversation_id": "2051353305448914957",
+        "created_at": "2026-05-04T17:28:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T18:28:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051353305448914957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "349054800",
+              "start": 3,
+              "username": "nyalra"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/UIJbUAGJmU",
+              "end": 54,
+              "expanded_url": "https://x.com/nyalra/status/2051332470042493164/video/1",
+              "media_key": "7_2051332459535683584",
+              "start": 31,
+              "url": "https://t.co/UIJbUAGJmU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051353305448914957",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 510
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051332470042493164",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @nyalra: Happy birthday Ame https://t.co/UIJbUAGJmU"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2051332459535683584"
+          ]
+        },
+        "author_id": "349054800",
+        "conversation_id": "2051332470042493164",
+        "created_at": "2026-05-04T16:05:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T17:05:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051332470042493164"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/UIJbUAGJmU",
+              "end": 42,
+              "expanded_url": "https://x.com/nyalra/status/2051332470042493164/video/1",
+              "media_key": "7_2051332459535683584",
+              "start": 19,
+              "url": "https://t.co/UIJbUAGJmU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051332470042493164",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 129,
+          "impression_count": 14750,
+          "like_count": 1849,
+          "quote_count": 15,
+          "reply_count": 23,
+          "retweet_count": 510
+        },
+        "reply_settings": "everyone",
+        "text": "Happy birthday Ame https://t.co/UIJbUAGJmU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "向死而生\n我喜欢我的群友 @Alistai33955292 @luoaa_072 @bloodmeiii @O817Xiao @usiisjkj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 13,
+                "username": "Alistai33955292"
+              },
+              {
+                "end": 40,
+                "start": 30,
+                "username": "luoaa_072"
+              },
+              {
+                "end": 52,
+                "start": 41,
+                "username": "bloodmeiii"
+              },
+              {
+                "end": 62,
+                "start": 53,
+                "username": "O817Xiao"
+              },
+              {
+                "end": 72,
+                "start": 63,
+                "username": "usiisjkj"
+              }
+            ]
+          }
+        },
+        "id": "1634191700712390657",
+        "location": "月亮",
+        "name": "柊檩川",
+        "pinned_tweet_id": "2038056405970657570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045797211447971840/iX7ajiBl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 523,
+          "following_count": 419,
+          "like_count": 2255,
+          "listed_count": 1,
+          "media_count": 123,
+          "tweet_count": 1218
+        },
+        "username": "xiaozhongT_T",
+        "verified": true
+      },
+      {
+        "created_at": "2011-08-05T13:27:45.000Z",
+        "description": "・English Discord: https://t.co/fJc4u1ozhY ・JP Discord: https://t.co/NcOBRGMgpH ・English blog: https://t.co/gjbksg56Kf ・Game: https://t.co/X1H8te4zM9",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "discord.gg/3NtruU94pt",
+                "end": 41,
+                "expanded_url": "http://discord.gg/3NtruU94pt",
+                "start": 18,
+                "url": "https://t.co/fJc4u1ozhY"
+              },
+              {
+                "display_url": "discord.gg/gqtE3qT2N5",
+                "end": 78,
+                "expanded_url": "http://discord.gg/gqtE3qT2N5",
+                "start": 55,
+                "url": "https://t.co/NcOBRGMgpH"
+              },
+              {
+                "display_url": "hazedenki.net",
+                "end": 117,
+                "expanded_url": "http://hazedenki.net",
+                "start": 94,
+                "url": "https://t.co/gjbksg56Kf"
+              },
+              {
+                "display_url": "store.steampowered.com/app/4240150/_/",
+                "end": 148,
+                "expanded_url": "http://store.steampowered.com/app/4240150/_/",
+                "start": 125,
+                "url": "https://t.co/X1H8te4zM9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "nyalra.net",
+                "end": 23,
+                "expanded_url": "https://nyalra.net",
+                "start": 0,
+                "url": "https://t.co/2RlDkCVQ1o"
+              }
+            ]
+          }
+        },
+        "id": "349054800",
+        "name": "nyalra",
+        "pinned_tweet_id": "2005988774371864634",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1806370210762657792/GjnpN4qn_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 163989,
+          "following_count": 666,
+          "like_count": 393294,
+          "listed_count": 1108,
+          "media_count": 4174,
+          "tweet_count": 43370
+        },
+        "url": "https://t.co/2RlDkCVQ1o",
+        "username": "nyalra",
+        "verified": true
+      }
+    ]
+  }
+}

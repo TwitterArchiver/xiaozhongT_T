@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634191700712390657",
+    "conversation_id": "2041512797486608624",
+    "created_at": "2026-04-07T13:49:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T14:49:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041513619322720692"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1638959586140098560",
+          "start": 0,
+          "username": "jiuyouforwhite"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041513619322720692",
+    "in_reply_to_user_id": "1638959586140098560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041512797486608624",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiuyouforwhite 哦原来发出来了）刚刚那条不用再回了！感谢小十七回复。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1223,
+        "media_key": "3_2041512700090654720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFTo-_1aIAAcGmX.jpg",
+        "width": 1235
+      },
+      {
+        "height": 1235,
+        "media_key": "3_2041512745154293760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFTpBntasAAGYcN.jpg",
+        "width": 1236
+      },
+      {
+        "height": 1235,
+        "media_key": "3_2041512755816194050",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFTpCPbaYAIQ9Dz.jpg",
+        "width": 1236
+      },
+      {
+        "height": 1235,
+        "media_key": "3_2041512772291407872",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFTpDMzaMAAeHaj.jpg",
+        "width": 1236
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634191700712390657",
+        "conversation_id": "2041512797486608624",
+        "created_at": "2026-04-07T13:49:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T14:49:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041513619322720692"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1638959586140098560",
+              "start": 0,
+              "username": "jiuyouforwhite"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041513619322720692",
+        "in_reply_to_user_id": "1638959586140098560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041512797486608624",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiuyouforwhite 哦原来发出来了）刚刚那条不用再回了！感谢小十七回复。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041512700090654720",
+            "3_2041512745154293760",
+            "3_2041512755816194050",
+            "3_2041512772291407872"
+          ]
+        },
+        "author_id": "1638959586140098560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2041512797486608624",
+        "created_at": "2026-04-07T13:45:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T14:45:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041512797486608624"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/93239Q7yvT",
+              "end": 163,
+              "expanded_url": "https://x.com/jiuyouforwhite/status/2041512797486608624/photo/1",
+              "media_key": "3_2041512700090654720",
+              "start": 140,
+              "url": "https://t.co/93239Q7yvT"
+            },
+            {
+              "display_url": "pic.x.com/93239Q7yvT",
+              "end": 163,
+              "expanded_url": "https://x.com/jiuyouforwhite/status/2041512797486608624/photo/1",
+              "media_key": "3_2041512745154293760",
+              "start": 140,
+              "url": "https://t.co/93239Q7yvT"
+            },
+            {
+              "display_url": "pic.x.com/93239Q7yvT",
+              "end": 163,
+              "expanded_url": "https://x.com/jiuyouforwhite/status/2041512797486608624/photo/1",
+              "media_key": "3_2041512755816194050",
+              "start": 140,
+              "url": "https://t.co/93239Q7yvT"
+            },
+            {
+              "display_url": "pic.x.com/93239Q7yvT",
+              "end": 163,
+              "expanded_url": "https://x.com/jiuyouforwhite/status/2041512797486608624/photo/1",
+              "media_key": "3_2041512772291407872",
+              "start": 140,
+              "url": "https://t.co/93239Q7yvT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041512797486608624",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "p1 是的，机制主要就是抑制GABA + 激动/激活NMDA受体，我个人没有尝试过\np2 这个要根据药物具体半衰期，像氟西汀那种半衰期长的要停的久一点，西酞普兰那种不需要停太久，综合来看一两周吧\np3 ssri吧，别尝试od药物了你没有到那一步\np4 你好呀。是的，没有交叉耐受 https://t.co/93239Q7yvT"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "08已成年已退学/欢迎收看家里蹲挂壁生活/焦虑焦虑焦虑/ed/od/你能碰到清醒的我该庆幸/单机搞oc",
+        "id": "1634191700712390657",
+        "location": "月亮",
+        "name": "柊檩川",
+        "pinned_tweet_id": "2038056405970657570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038818955574542336/QZb1rWM0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 296,
+          "like_count": 1536,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 751
+        },
+        "username": "xiaozhongT_T",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T17:43:19.000Z",
+        "description": "反胃or十七/无性别enby/哲思/内心探索/intp/od\n/回fo/免费药理知识帮助\n/Thrillingly pointless",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiuyouforwhite",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiuyouforwhite",
+                "start": 0,
+                "url": "https://t.co/70X6nkO8V4"
+              }
+            ]
+          }
+        },
+        "id": "1638959586140098560",
+        "location": "第三高原",
+        "name": "反胃的Sisyphus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037208041607868416/uMSZtK-p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 995,
+          "following_count": 889,
+          "like_count": 2195,
+          "listed_count": 2,
+          "media_count": 186,
+          "tweet_count": 1293
+        },
+        "url": "https://t.co/70X6nkO8V4",
+        "username": "jiuyouforwhite",
+        "verified": false
+      }
+    ]
+  }
+}

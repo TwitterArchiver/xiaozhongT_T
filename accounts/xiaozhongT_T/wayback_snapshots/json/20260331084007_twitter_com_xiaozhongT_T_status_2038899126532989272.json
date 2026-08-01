@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634191700712390657",
+    "conversation_id": "2038899126532989272",
+    "created_at": "2026-03-31T08:40:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T09:40:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038899126532989272"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1929070811241132032",
+          "start": 3,
+          "username": "GGGisena"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038899126532989272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 14
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038501788001976807",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @GGGisena: 自介！\n我是Ella，10年生，我搞欧美hpOR\n属性是惨妹oder Cantonese自豪种族自豪\n拒激进见证\n我刻薄但是我爱你们。\n我需要小钱钱赞赏我我会感激涕零的。\n门槛🚪52纯绿（可能爆点擦边吧。\nip广东珠三角，熟人可以线下一起嗑药药呀 h…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2038501780162793472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEo2kZCa0AAPZo0.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2038501780141846528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEo2kY9bMAA1lv8.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634191700712390657",
+        "conversation_id": "2038899126532989272",
+        "created_at": "2026-03-31T08:40:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T09:40:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038899126532989272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1929070811241132032",
+              "start": 3,
+              "username": "GGGisena"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038899126532989272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038501788001976807",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @GGGisena: 自介！\n我是Ella，10年生，我搞欧美hpOR\n属性是惨妹oder Cantonese自豪种族自豪\n拒激进见证\n我刻薄但是我爱你们。\n我需要小钱钱赞赏我我会感激涕零的。\n门槛🚪52纯绿（可能爆点擦边吧。\nip广东珠三角，熟人可以线下一起嗑药药呀 h…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038501780162793472",
+            "3_2038501780141846528"
+          ]
+        },
+        "author_id": "1929070811241132032",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2038501788001976807",
+        "created_at": "2026-03-30T06:21:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T07:21:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038501788001976807"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ApCn8yFneD",
+              "end": 147,
+              "expanded_url": "https://x.com/GGGisena/status/2038501788001976807/photo/1",
+              "media_key": "3_2038501780162793472",
+              "start": 124,
+              "url": "https://t.co/ApCn8yFneD"
+            },
+            {
+              "display_url": "pic.x.com/ApCn8yFneD",
+              "end": 147,
+              "expanded_url": "https://x.com/GGGisena/status/2038501788001976807/photo/1",
+              "media_key": "3_2038501780141846528",
+              "start": 124,
+              "url": "https://t.co/ApCn8yFneD"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038501788001976807",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1134,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "自介！\n我是Ella，10年生，我搞欧美hpOR\n属性是惨妹oder Cantonese自豪种族自豪\n拒激进见证\n我刻薄但是我爱你们。\n我需要小钱钱赞赏我我会感激涕零的。\n门槛🚪52纯绿（可能爆点擦边吧。\nip广东珠三角，熟人可以线下一起嗑药药呀 https://t.co/ApCn8yFneD"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "「我不奢求你会说爱我，只要轻轻抱着我就好」",
+        "id": "1634191700712390657",
+        "location": "月亮",
+        "name": "柊凜川",
+        "pinned_tweet_id": "2038056405970657570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038818955574542336/QZb1rWM0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 201,
+          "like_count": 923,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 434
+        },
+        "username": "xiaozhongT_T",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-01T07:01:45.000Z",
+        "description": "我是ElleWu Age12 我最爱我自己然后是@ekj5615 互fo直关就可看成分回 属性就：餐卷两栖od 欧美 拒激进见证",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 24,
+                "username": "ekj5615"
+              }
+            ]
+          }
+        },
+        "id": "1929070811241132032",
+        "location": "世界上最幸福的地方",
+        "name": "Ellaaa",
+        "pinned_tweet_id": "2038501788001976807",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028897037845221376/bULSx9lp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 157,
+          "following_count": 138,
+          "like_count": 409,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 345
+        },
+        "username": "GGGisena",
+        "verified": false
+      }
+    ]
+  }
+}

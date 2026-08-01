@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634191700712390657",
+    "conversation_id": "2044239173247479923",
+    "created_at": "2026-04-15T02:19:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T03:19:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044239173247479923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1900487083799830528",
+          "start": 3,
+          "username": "666888qwe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044239173247479923",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043833048526139530",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @666888qwe: 我想和餐券女卢关不嫌弃我追星就行有人帮我转吗，4.17中午12点转发区抽一个5.2r"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634191700712390657",
+        "conversation_id": "2044239173247479923",
+        "created_at": "2026-04-15T02:19:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T03:19:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044239173247479923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1900487083799830528",
+              "start": 3,
+              "username": "666888qwe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044239173247479923",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043833048526139530",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @666888qwe: 我想和餐券女卢关不嫌弃我追星就行有人帮我转吗，4.17中午12点转发区抽一个5.2r"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900487083799830528",
+        "conversation_id": "2043833048526139530",
+        "created_at": "2026-04-13T23:25:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T00:25:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043833048526139530"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2043833048526139530",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1105,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "我想和餐券女卢关不嫌弃我追星就行有人帮我转吗，4.17中午12点转发区抽一个5.2r"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "向死而生\n我喜欢我的群友 @Alistai33955292 @luoaa_072  @bloodmeiii @O817Xiao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 13,
+                "username": "Alistai33955292"
+              },
+              {
+                "end": 40,
+                "start": 30,
+                "username": "luoaa_072"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "bloodmeiii"
+              },
+              {
+                "end": 63,
+                "start": 54,
+                "username": "O817Xiao"
+              }
+            ]
+          }
+        },
+        "id": "1634191700712390657",
+        "location": "月亮",
+        "name": "柊檩川",
+        "pinned_tweet_id": "2038056405970657570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043360211638104064/3rfknD6o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 382,
+          "following_count": 332,
+          "like_count": 2016,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 949
+        },
+        "username": "xiaozhongT_T",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-14T10:00:19.000Z",
+        "description": "大龄家里蹲餐券脑残穷比追星女一枚，高强度冲浪中 同类互fo呀\n如果你知道我是谁，请装作不认识我或者当没看到，谢谢",
+        "id": "1900487083799830528",
+        "location": "天堂",
+        "name": "3c11._fytt",
+        "pinned_tweet_id": "2035555707681177728",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043921209226866689/AfnIiaxy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 70,
+          "like_count": 7179,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 578
+        },
+        "username": "666888qwe",
+        "verified": false
+      }
+    ]
+  }
+}

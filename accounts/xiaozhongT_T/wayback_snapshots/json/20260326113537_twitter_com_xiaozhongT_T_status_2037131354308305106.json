@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634191700712390657",
+    "conversation_id": "2037131354308305106",
+    "created_at": "2026-03-26T11:35:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-26T12:35:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2037131354308305106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1556770191660355585",
+          "start": 3,
+          "username": "webgangst1r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037131354308305106",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037045126254780733",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @webgangst1r: 我们来玩个游戏吧？规则是呼吸 我会让你在安全时闪回体验童年的恐惧丶羞耻与窒息 开启永恒的高度警觉。在爱里看到背叛 在关心中看到控制 无法信任世界 无法感受自己 在渴望联结与厌恶靠近中 永无止境的撕裂。这游戏 一生有效 怎么样？好玩吧？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634191700712390657",
+        "conversation_id": "2037131354308305106",
+        "created_at": "2026-03-26T11:35:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T12:35:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037131354308305106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1556770191660355585",
+              "start": 3,
+              "username": "webgangst1r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037131354308305106",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037045126254780733",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @webgangst1r: 我们来玩个游戏吧？规则是呼吸 我会让你在安全时闪回体验童年的恐惧丶羞耻与窒息 开启永恒的高度警觉。在爱里看到背叛 在关心中看到控制 无法信任世界 无法感受自己 在渴望联结与厌恶靠近中 永无止境的撕裂。这游戏 一生有效 怎么样？好玩吧？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1556770191660355585",
+        "conversation_id": "2037045126254780733",
+        "created_at": "2026-03-26T05:52:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-26T06:52:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037045126254780733"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2037045126254780733",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 686,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "我们来玩个游戏吧？规则是呼吸 我会让你在安全时闪回体验童年的恐惧丶羞耻与窒息 开启永恒的高度警觉。在爱里看到背叛 在关心中看到控制 无法信任世界 无法感受自己 在渴望联结与厌恶靠近中 永无止境的撕裂。这游戏 一生有效 怎么样？好玩吧？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "ed/双相/重度焦虑/自伤/od\n谢谢你来看我 感到不适自行屏蔽",
+        "id": "1634191700712390657",
+        "location": "月亮",
+        "name": "柊凜川",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008184978421456896/6a-QtTVc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 112,
+          "like_count": 606,
+          "listed_count": 0,
+          "media_count": 31,
+          "tweet_count": 244
+        },
+        "username": "xiaozhongT_T",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-08T22:32:04.000Z",
+        "description": "edtwt/shtwt🚪52咨询好友位 188解锁线下 520私信只回复口令 1314 5200可获得电子女友一枚",
+        "id": "1556770191660355585",
+        "name": "瓜",
+        "pinned_tweet_id": "2011372340698083714",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893345266662596609/heQFvQiE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3170,
+          "following_count": 67,
+          "like_count": 305,
+          "listed_count": 16,
+          "media_count": 313,
+          "tweet_count": 809
+        },
+        "username": "webgangst1r",
+        "verified": false
+      }
+    ]
+  }
+}

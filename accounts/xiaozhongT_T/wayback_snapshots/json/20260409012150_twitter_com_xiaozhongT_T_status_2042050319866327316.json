@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634191700712390657",
+    "conversation_id": "2041924579812372655",
+    "created_at": "2026-04-09T01:21:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T02:21:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042050319866327316"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1638959586140098560",
+          "start": 0,
+          "username": "jiuyouforwhite"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042050319866327316",
+    "in_reply_to_user_id": "1638959586140098560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041924579812372655",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiuyouforwhite 空调遥控器管理员来了🚶🏻"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1535,
+        "media_key": "3_2041924557595144192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFZfkQma8AADsGD.jpg",
+        "width": 1236
+      },
+      {
+        "height": 1569,
+        "media_key": "3_2041924558614343680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFZfkUZasAALyHx.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634191700712390657",
+        "conversation_id": "2041924579812372655",
+        "created_at": "2026-04-09T01:21:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T02:21:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042050319866327316"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1638959586140098560",
+              "start": 0,
+              "username": "jiuyouforwhite"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042050319866327316",
+        "in_reply_to_user_id": "1638959586140098560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041924579812372655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiuyouforwhite 空调遥控器管理员来了🚶🏻"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041924557595144192",
+            "3_2041924558614343680"
+          ]
+        },
+        "author_id": "1638959586140098560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2041924579812372655",
+        "created_at": "2026-04-08T17:02:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-08T18:02:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041924579812372655"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zeIgKjMqLg",
+              "end": 174,
+              "expanded_url": "https://x.com/jiuyouforwhite/status/2041924579812372655/photo/1",
+              "media_key": "3_2041924557595144192",
+              "start": 151,
+              "url": "https://t.co/zeIgKjMqLg"
+            },
+            {
+              "display_url": "pic.x.com/zeIgKjMqLg",
+              "end": 174,
+              "expanded_url": "https://x.com/jiuyouforwhite/status/2041924579812372655/photo/1",
+              "media_key": "3_2041924558614343680",
+              "start": 151,
+              "url": "https://t.co/zeIgKjMqLg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041924579812372655",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 869,
+          "like_count": 26,
+          "quote_count": 2,
+          "reply_count": 16,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "17班の致幻晚自习 正式开课！\n本tg群宗旨是：平衡od与生活。\n加入方式：私我领取tg\n内测期间，已经有了40名同学！\n即将抽奖3瓶白兔，转帖评论增加权重哦\n\n无论作为同学还是课代表，这里永远欢迎你，这里有各路老师的嗑药帮助，保障大家学习安全、最高性价比的od\n禁止一切营销、广告行为，违规直接踢。 https://t.co/zeIgKjMqLg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "08已成年已退学家里蹲挂壁中/ed/od/骂我先骂@Alistai33955292 @luoaa_072  @Nanaovo14/单机搞oc",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 25,
+                "username": "Alistai33955292"
+              },
+              {
+                "end": 52,
+                "start": 42,
+                "username": "luoaa_072"
+              },
+              {
+                "end": 64,
+                "start": 54,
+                "username": "Nanaovo14"
+              }
+            ]
+          }
+        },
+        "id": "1634191700712390657",
+        "location": "月亮",
+        "name": "柊檩川",
+        "pinned_tweet_id": "2038056405970657570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038818955574542336/QZb1rWM0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 317,
+          "following_count": 306,
+          "like_count": 1566,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 773
+        },
+        "username": "xiaozhongT_T",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T17:43:19.000Z",
+        "description": "反胃or十七/无性别enby/哲思/内心探索/intp/od\n/回fo/免费药理知识帮助\n/Thrillingly pointless",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiuyouforwhite",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiuyouforwhite",
+                "start": 0,
+                "url": "https://t.co/70X6nkO8V4"
+              }
+            ]
+          }
+        },
+        "id": "1638959586140098560",
+        "location": "17班の致幻晚自习",
+        "name": "反胃的Sisyphus",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041570538485956609/QSk4pqeb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1056,
+          "following_count": 947,
+          "like_count": 2325,
+          "listed_count": 2,
+          "media_count": 192,
+          "tweet_count": 1377
+        },
+        "url": "https://t.co/70X6nkO8V4",
+        "username": "jiuyouforwhite",
+        "verified": false
+      }
+    ]
+  }
+}

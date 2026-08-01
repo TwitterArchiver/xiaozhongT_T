@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634191700712390657",
+    "conversation_id": "2041128913389355337",
+    "created_at": "2026-04-06T12:21:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-06T13:21:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041129148513698245"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1536368818477465602",
+          "start": 0,
+          "username": "O817Xiao"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041129148513698245",
+    "in_reply_to_user_id": "1536368818477465602",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041128913389355337",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@O817Xiao ct太伤嗓子了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634191700712390657",
+        "conversation_id": "2041128913389355337",
+        "created_at": "2026-04-06T12:21:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T13:21:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041129148513698245"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1536368818477465602",
+              "start": 0,
+              "username": "O817Xiao"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041129148513698245",
+        "in_reply_to_user_id": "1536368818477465602",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041128913389355337",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@O817Xiao ct太伤嗓子了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536368818477465602",
+        "conversation_id": "2041128913389355337",
+        "created_at": "2026-04-06T12:20:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T13:20:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041128913389355337"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2041128913389355337",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我催吐没有用过管 谁给我传授下经验 我之前是手抠催吐但是根本吐不干净所以我就一直在吃泻药"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "08已成年已退学/欢迎收看家里蹲挂壁生活/焦虑焦虑焦虑/ed/od/你能碰到清醒的我该庆幸/单机搞oc",
+        "id": "1634191700712390657",
+        "location": "月亮",
+        "name": "柊凜川",
+        "pinned_tweet_id": "2038056405970657570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038818955574542336/QZb1rWM0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 255,
+          "like_count": 1468,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 727
+        },
+        "username": "xiaozhongT_T",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-13T15:24:17.000Z",
+        "description": "小Z/疹 随便发一些什么乱七八糟的 专心经营自己的懵b生活 互fo看见就回",
+        "id": "1536368818477465602",
+        "name": "不可解的小小Z",
+        "pinned_tweet_id": "2038893440323166710",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1588504246085124097/6RNZTony_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 81,
+          "like_count": 172,
+          "listed_count": 1,
+          "media_count": 28,
+          "tweet_count": 202
+        },
+        "username": "O817Xiao",
+        "verified": false
+      }
+    ]
+  }
+}

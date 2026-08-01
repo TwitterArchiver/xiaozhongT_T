@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634191700712390657",
+    "conversation_id": "2046268975269675350",
+    "created_at": "2026-04-20T16:45:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T17:45:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046268975269675350"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2042022908122558464",
+          "start": 3,
+          "username": "Sallyvzc6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046268975269675350",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2046263035053080798",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sallyvzc6: 广州禁毒你等着吧 过段时间就是全民自杀环节了 o友们会为国家青少年自杀率提高做出贡献"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634191700712390657",
+        "conversation_id": "2046268975269675350",
+        "created_at": "2026-04-20T16:45:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T17:45:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046268975269675350"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2042022908122558464",
+              "start": 3,
+              "username": "Sallyvzc6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046268975269675350",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2046263035053080798",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sallyvzc6: 广州禁毒你等着吧 过段时间就是全民自杀环节了 o友们会为国家青少年自杀率提高做出贡献"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042022908122558464",
+        "conversation_id": "2046263035053080798",
+        "created_at": "2026-04-20T16:21:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T17:21:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2046263035053080798"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2046263035053080798",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "广州禁毒你等着吧 过段时间就是全民自杀环节了 o友们会为国家青少年自杀率提高做出贡献"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "向死而生\n我喜欢我的群友 @Alistai33955292 @luoaa_072 @bloodmeiii @O817Xiao @usiisjkj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 13,
+                "username": "Alistai33955292"
+              },
+              {
+                "end": 40,
+                "start": 30,
+                "username": "luoaa_072"
+              },
+              {
+                "end": 52,
+                "start": 41,
+                "username": "bloodmeiii"
+              },
+              {
+                "end": 62,
+                "start": 53,
+                "username": "O817Xiao"
+              },
+              {
+                "end": 72,
+                "start": 63,
+                "username": "usiisjkj"
+              }
+            ]
+          }
+        },
+        "id": "1634191700712390657",
+        "location": "月亮",
+        "name": "柊檩川",
+        "pinned_tweet_id": "2038056405970657570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045797211447971840/iX7ajiBl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 482,
+          "following_count": 392,
+          "like_count": 2309,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 1217
+        },
+        "username": "xiaozhongT_T",
+        "verified": true
+      },
+      {
+        "created_at": "2026-04-08T23:33:27.000Z",
+        "description": "随便发发\n别惹我我只是一个小蚂蚁 想跟我互动的求你们给我钱我喜欢钱 我是个芒果 喜欢的人会回关 很主动",
+        "id": "2042022908122558464",
+        "location": "🚪168/520只收口令和赞赏码 17/173/113/C",
+        "name": "1ta",
+        "pinned_tweet_id": "2046113893844754723",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045977525768339456/-jDGFz2x_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 166,
+          "following_count": 13,
+          "like_count": 63,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 64
+        },
+        "username": "Sallyvzc6",
+        "verified": false
+      }
+    ]
+  }
+}

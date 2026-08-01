@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2045870640876728320"
+      ]
+    },
+    "author_id": "1634191700712390657",
+    "conversation_id": "2045869970660454503",
+    "created_at": "2026-04-19T14:22:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-19T15:22:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045870644081119460"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1849968578881257474",
+          "start": 0,
+          "username": "paomianwang53"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oZEhpEguTt",
+          "end": 45,
+          "expanded_url": "https://x.com/xiaozhongT_T/status/2045870644081119460/photo/1",
+          "media_key": "3_2045870640876728320",
+          "start": 22,
+          "url": "https://t.co/oZEhpEguTt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045870644081119460",
+    "in_reply_to_user_id": "1849968578881257474",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045869970660454503",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@paomianwang53 简直是双胞胎 https://t.co/oZEhpEguTt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2045870640876728320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGRkgiXbsAAIs4s.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2045869967724396544",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGRj5WraQAAD1-8.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045870640876728320"
+          ]
+        },
+        "author_id": "1634191700712390657",
+        "conversation_id": "2045869970660454503",
+        "created_at": "2026-04-19T14:22:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T15:22:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045870644081119460"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1849968578881257474",
+              "start": 0,
+              "username": "paomianwang53"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oZEhpEguTt",
+              "end": 45,
+              "expanded_url": "https://x.com/xiaozhongT_T/status/2045870644081119460/photo/1",
+              "media_key": "3_2045870640876728320",
+              "start": 22,
+              "url": "https://t.co/oZEhpEguTt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045870644081119460",
+        "in_reply_to_user_id": "1849968578881257474",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045869970660454503",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@paomianwang53 简直是双胞胎 https://t.co/oZEhpEguTt"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2045869967724396544"
+          ]
+        },
+        "author_id": "1849968578881257474",
+        "conversation_id": "2045869970660454503",
+        "created_at": "2026-04-19T14:19:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-19T15:19:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045869970660454503"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JmdW7vfNiF",
+              "end": 43,
+              "expanded_url": "https://x.com/paomianwang53/status/2045869970660454503/photo/1",
+              "media_key": "3_2045869967724396544",
+              "start": 20,
+              "url": "https://t.co/JmdW7vfNiF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045869970660454503",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好无聊好无聊，拜托了找个地方带我玩吧。 https://t.co/JmdW7vfNiF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "向死而生\n我喜欢我的群友 @Alistai33955292 @luoaa_072 @bloodmeiii @O817Xiao @usiisjkj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 13,
+                "username": "Alistai33955292"
+              },
+              {
+                "end": 40,
+                "start": 30,
+                "username": "luoaa_072"
+              },
+              {
+                "end": 52,
+                "start": 41,
+                "username": "bloodmeiii"
+              },
+              {
+                "end": 62,
+                "start": 53,
+                "username": "O817Xiao"
+              },
+              {
+                "end": 72,
+                "start": 63,
+                "username": "usiisjkj"
+              }
+            ]
+          }
+        },
+        "id": "1634191700712390657",
+        "location": "月亮",
+        "name": "柊檩川",
+        "pinned_tweet_id": "2038056405970657570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045797211447971840/iX7ajiBl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 386,
+          "like_count": 2255,
+          "listed_count": 0,
+          "media_count": 118,
+          "tweet_count": 1168
+        },
+        "username": "xiaozhongT_T",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-26T00:17:43.000Z",
+        "description": "臭美的老年人\n含有部分🔞🔞🔞🔞内容\n会碎碎念和发自拍，发涩图，含有成人内容，酌情阅读。\n搞一些1爱，4爱。cos什么的。\n会发涩图。因为我觉得我也就好看这么几年。大尺度内容会标记敏感。",
+        "id": "1849968578881257474",
+        "location": "北京",
+        "name": "面师傅",
+        "pinned_tweet_id": "2011741618412666902",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849969380551176192/TIkkLhB-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 594,
+          "following_count": 245,
+          "like_count": 6608,
+          "listed_count": 6,
+          "media_count": 274,
+          "tweet_count": 1556
+        },
+        "username": "paomianwang53",
+        "verified": false
+      }
+    ]
+  }
+}

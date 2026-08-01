@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634191700712390657",
+    "conversation_id": "2042596736498012189",
+    "created_at": "2026-04-10T13:40:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-10T14:40:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042598656604541075"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "description": "Yakui The Maid - Scourge, 视频播放量 100011、弹幕量 12、点赞数 3819、投硬币枚数 1809、收藏人数 4606、转发人数 813, 视频作者 Yakuiyakuiyakui, 作者简介 ，相关视频：【maidcore/Yakui】近地轨道离子炮 / Low Orbit Ion Cannon，￴￴￴￴￴，Ozoi The Maid - vociferate，【maidcore/Yakui】Fukken Mainstream，【maidcore/Yakui】Jisatsu Manyuaru，抑郁のsewerslvt，【俄罗斯女仆阴间乐-Ozoi The Maid x Yakui The Maid】 - Wonderland（专辑+特别收录+instrumentals），[mugen]虹裏女仆格斗游戏_Nijiura Maids，从匿名论坛诞生的企划【Nijiura Maid】女仆介绍（熟肉），你想帮助她，但是……",
+          "display_url": "b23.tv/rvvpIPD",
+          "end": 55,
+          "expanded_url": "https://b23.tv/rvvpIPD",
+          "images": [
+            {
+              "height": 100,
+              "url": "https://pbs.twimg.com/news_img/2042598676280020993/CW4PNHGJ?format=png&name=orig",
+              "width": 100
+            },
+            {
+              "height": 100,
+              "url": "https://pbs.twimg.com/news_img/2042598676280020993/CW4PNHGJ?format=png&name=150x150",
+              "width": 100
+            }
+          ],
+          "start": 32,
+          "status": 200,
+          "title": "Yakui The Maid - Scourge_哔哩哔哩_bilibili",
+          "unwound_url": "https://www.bilibili.com/video/BV1aQ4y1y7DG/?buvid=XU91D6D95947A625E18D7EA96F4D434BB6587&from_spmid=united.player-video-detail.relatedvideo.0&is_story_h5=false&mid=avUyQi0Kz3ZfeE3BAftwKA%3D%3D&p=1&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=b85e299c-19f2-44dd-a7d1-c8ddc30aee84&share_source=COPY&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1775828398&unique_k=rvvpIPD&up_id=1014266515",
+          "url": "https://t.co/Rdgdd2zQmd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042598656604541075",
+    "in_reply_to_user_id": "1634191700712390657",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042596736498012189",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "【Yakui The Maid - Scourge-哔哩哔哩】 https://t.co/Rdgdd2zQmd"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634191700712390657",
+        "conversation_id": "2042596736498012189",
+        "created_at": "2026-04-10T13:40:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T14:40:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042598656604541075"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Yakui The Maid - Scourge, 视频播放量 100011、弹幕量 12、点赞数 3819、投硬币枚数 1809、收藏人数 4606、转发人数 813, 视频作者 Yakuiyakuiyakui, 作者简介 ，相关视频：【maidcore/Yakui】近地轨道离子炮 / Low Orbit Ion Cannon，￴￴￴￴￴，Ozoi The Maid - vociferate，【maidcore/Yakui】Fukken Mainstream，【maidcore/Yakui】Jisatsu Manyuaru，抑郁のsewerslvt，【俄罗斯女仆阴间乐-Ozoi The Maid x Yakui The Maid】 - Wonderland（专辑+特别收录+instrumentals），[mugen]虹裏女仆格斗游戏_Nijiura Maids，从匿名论坛诞生的企划【Nijiura Maid】女仆介绍（熟肉），你想帮助她，但是……",
+              "display_url": "b23.tv/rvvpIPD",
+              "end": 55,
+              "expanded_url": "https://b23.tv/rvvpIPD",
+              "images": [
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/2042598676280020993/CW4PNHGJ?format=png&name=orig",
+                  "width": 100
+                },
+                {
+                  "height": 100,
+                  "url": "https://pbs.twimg.com/news_img/2042598676280020993/CW4PNHGJ?format=png&name=150x150",
+                  "width": 100
+                }
+              ],
+              "start": 32,
+              "status": 200,
+              "title": "Yakui The Maid - Scourge_哔哩哔哩_bilibili",
+              "unwound_url": "https://www.bilibili.com/video/BV1aQ4y1y7DG/?buvid=XU91D6D95947A625E18D7EA96F4D434BB6587&from_spmid=united.player-video-detail.relatedvideo.0&is_story_h5=false&mid=avUyQi0Kz3ZfeE3BAftwKA%3D%3D&p=1&plat_id=116&share_from=ugc&share_medium=android&share_plat=android&share_session_id=b85e299c-19f2-44dd-a7d1-c8ddc30aee84&share_source=COPY&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1775828398&unique_k=rvvpIPD&up_id=1014266515",
+              "url": "https://t.co/Rdgdd2zQmd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042598656604541075",
+        "in_reply_to_user_id": "1634191700712390657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042596736498012189",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "【Yakui The Maid - Scourge-哔哩哔哩】 https://t.co/Rdgdd2zQmd"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634191700712390657",
+        "conversation_id": "2042596736498012189",
+        "created_at": "2026-04-10T13:33:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T14:33:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042596736498012189"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "柊檩川’s Space · 0 listening · Where live audio conversations happen",
+              "display_url": "x.com/i/spaces/1RKZz…",
+              "end": 23,
+              "expanded_url": "https://x.com/i/spaces/1RKZzjkVbMVKB",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2042596738641317890/B576yKn-?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2042596738641317890/B576yKn-?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 0,
+              "status": 200,
+              "title": "Happening now: 喵",
+              "unwound_url": "https://twitter.com/i/spaces/1RKZzjkVbMVKB/peek",
+              "url": "https://t.co/werX2Z9y0W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042596736498012189",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/werX2Z9y0W"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "08已成年已退学家里蹲挂壁中/ed/od/骂我先连坐@Alistai33955292 @luoaa_072  @Nanaovo14/单机搞oc",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "Alistai33955292"
+              },
+              {
+                "end": 53,
+                "start": 43,
+                "username": "luoaa_072"
+              },
+              {
+                "end": 65,
+                "start": 55,
+                "username": "Nanaovo14"
+              }
+            ]
+          }
+        },
+        "id": "1634191700712390657",
+        "location": "月亮",
+        "name": "柊檩川",
+        "pinned_tweet_id": "2038056405970657570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038818955574542336/QZb1rWM0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 305,
+          "like_count": 1600,
+          "listed_count": 0,
+          "media_count": 77,
+          "tweet_count": 799
+        },
+        "username": "xiaozhongT_T",
+        "verified": false
+      }
+    ]
+  }
+}

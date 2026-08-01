@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2038247132743012352"
+      ]
+    },
+    "author_id": "1634191700712390657",
+    "conversation_id": "2038247199096922381",
+    "created_at": "2026-03-29T13:29:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-29T14:29:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2038247199096922381"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/sQWmv45b63",
+          "end": 25,
+          "expanded_url": "https://x.com/xiaozhongT_T/status/2038247199096922381/video/1",
+          "media_key": "7_2038247132743012352",
+          "start": 2,
+          "url": "https://t.co/sQWmv45b63"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038247199096922381",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "额 https://t.co/sQWmv45b63"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10123,
+        "height": 960,
+        "media_key": "7_2038247132743012352",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2038247132743012352/pu/img/PRSEkfGzZej0ISVE.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2038247132743012352/pu/vid/avc1/320x426/oXDDotCKtIGkuvDG.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2038247132743012352/pu/vid/avc1/480x640/6I8nj_ioxQn3Qm5a.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2038247132743012352/pu/vid/avc1/720x960/DI3B29Nh-b9keTRc.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2038247132743012352/pu/pl/Y9J-mV6o-5cnpFT5.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2038247132743012352"
+          ]
+        },
+        "author_id": "1634191700712390657",
+        "conversation_id": "2038247199096922381",
+        "created_at": "2026-03-29T13:29:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-29T14:29:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038247199096922381"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sQWmv45b63",
+              "end": 25,
+              "expanded_url": "https://x.com/xiaozhongT_T/status/2038247199096922381/video/1",
+              "media_key": "7_2038247132743012352",
+              "start": 2,
+              "url": "https://t.co/sQWmv45b63"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038247199096922381",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "额 https://t.co/sQWmv45b63"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "「我不奢求你会说爱我，只要轻轻抱着我就好」",
+        "id": "1634191700712390657",
+        "location": "月亮",
+        "name": "柊凜川",
+        "pinned_tweet_id": "2038056405970657570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008184978421456896/6a-QtTVc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 149,
+          "like_count": 718,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 315
+        },
+        "username": "xiaozhongT_T",
+        "verified": false
+      }
+    ]
+  }
+}

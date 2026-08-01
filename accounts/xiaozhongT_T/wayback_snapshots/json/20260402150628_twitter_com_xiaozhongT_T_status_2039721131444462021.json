@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634191700712390657",
+    "conversation_id": "2039716606566334743",
+    "created_at": "2026-04-02T15:06:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T16:06:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039721131444462021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1914994498440253440",
+          "start": 0,
+          "username": "WeiJackal69885"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039721131444462021",
+    "in_reply_to_user_id": "1914994498440253440",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039716606566334743",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WeiJackal69885 ovo"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2039716600702734336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE6HcQNakAA90bZ.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634191700712390657",
+        "conversation_id": "2039716606566334743",
+        "created_at": "2026-04-02T15:06:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T16:06:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039721131444462021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1914994498440253440",
+              "start": 0,
+              "username": "WeiJackal69885"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039721131444462021",
+        "in_reply_to_user_id": "1914994498440253440",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039716606566334743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WeiJackal69885 ovo"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039716600702734336"
+          ]
+        },
+        "author_id": "1914994498440253440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2039716606566334743",
+        "created_at": "2026-04-02T14:48:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T15:48:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039716606566334743"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2038324114537271296/BDCA_d_l?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2038324114537271296/BDCA_d_l?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/i79Qfh1HAi"
+            },
+            {
+              "display_url": "pic.x.com/JDj9ZXtkEz",
+              "end": 64,
+              "expanded_url": "https://x.com/WeiJackal69885/status/2039716606566334743/photo/1",
+              "media_key": "3_2039716600702734336",
+              "start": 41,
+              "url": "https://t.co/JDj9ZXtkEz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039716606566334743",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/i79Qfh1HAi https://t.co/JDj9ZXtkEz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "「我不奢求你会说爱我，只要轻轻抱着我就好」",
+        "id": "1634191700712390657",
+        "location": "月亮",
+        "name": "柊凜川",
+        "pinned_tweet_id": "2038056405970657570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038818955574542336/QZb1rWM0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 220,
+          "following_count": 249,
+          "like_count": 1316,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 651
+        },
+        "username": "xiaozhongT_T",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-23T10:50:19.000Z",
+        "description": "世界怎麼這麼壞 我一直在哭   🗑️                               Luca ♡|看成分互of💌|自傷🩸|od|12                                                          \n  網路世界是我的歸宿\n小帳@YanRu21718",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 146,
+                "username": "YanRu21718"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yeuhelw",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yeuhelw",
+                "start": 0,
+                "url": "https://t.co/kMK4AqHjrI"
+              }
+            ]
+          }
+        },
+        "id": "1914994498440253440",
+        "name": "甘い",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2032639089137299456/NClD7qpD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38,
+          "following_count": 272,
+          "like_count": 7100,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 487
+        },
+        "url": "https://t.co/kMK4AqHjrI",
+        "username": "WeiJackal69885",
+        "verified": false
+      }
+    ]
+  }
+}

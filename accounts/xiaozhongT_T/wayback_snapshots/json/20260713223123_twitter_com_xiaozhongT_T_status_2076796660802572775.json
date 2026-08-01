@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2076796609527230464"
+      ]
+    },
+    "author_id": "1634191700712390657",
+    "conversation_id": "2076796660802572775",
+    "created_at": "2026-07-13T22:31:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T23:31:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2076796660802572775"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nmO3NEqGQo",
+          "end": 26,
+          "expanded_url": "https://x.com/xiaozhongT_T/status/2076796660802572775/video/1",
+          "media_key": "7_2076796609527230464",
+          "start": 3,
+          "url": "https://t.co/nmO3NEqGQo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076796660802572775",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "啊？ https://t.co/nmO3NEqGQo"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5768,
+        "height": 1920,
+        "media_key": "7_2076796609527230464",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2076796609527230464/pu/img/UULodONKq6vNpMT4.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2076796609527230464/pu/vid/avc1/720x1280/NeySj5fX8VvwS8SP.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2076796609527230464/pu/vid/avc1/1080x1920/0y0DznE1v3Dfc4dp.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2076796609527230464/pu/vid/avc1/480x852/-CdpFwp1R6ny70u7.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2076796609527230464/pu/vid/avc1/320x568/TzbT1dmY2xjpH2aU.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2076796609527230464/pu/pl/Ypd7VxZKU3XyJ0YE.m3u8"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2076796609527230464"
+          ]
+        },
+        "author_id": "1634191700712390657",
+        "conversation_id": "2076796660802572775",
+        "created_at": "2026-07-13T22:31:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T23:31:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076796660802572775"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nmO3NEqGQo",
+              "end": 26,
+              "expanded_url": "https://x.com/xiaozhongT_T/status/2076796660802572775/video/1",
+              "media_key": "7_2076796609527230464",
+              "start": 3,
+              "url": "https://t.co/nmO3NEqGQo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076796660802572775",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "啊？ https://t.co/nmO3NEqGQo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "向死而生\n我喜欢我的群友 @Alistai33955292 @luoaa_072 @meiiiTVT @O817Xiao @usiisjkj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 13,
+                "username": "Alistai33955292"
+              },
+              {
+                "end": 40,
+                "start": 30,
+                "username": "luoaa_072"
+              },
+              {
+                "end": 50,
+                "start": 41,
+                "username": "meiiiTVT"
+              },
+              {
+                "end": 60,
+                "start": 51,
+                "username": "O817Xiao"
+              },
+              {
+                "end": 70,
+                "start": 61,
+                "username": "usiisjkj"
+              }
+            ]
+          }
+        },
+        "id": "1634191700712390657",
+        "location": "月亮",
+        "name": "柊檩川",
+        "pinned_tweet_id": "2038056405970657570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071841145642971136/VofFVqfi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 512,
+          "following_count": 402,
+          "like_count": 2111,
+          "listed_count": 1,
+          "media_count": 130,
+          "tweet_count": 1266
+        },
+        "url": "",
+        "username": "xiaozhongT_T",
+        "verified": true
+      }
+    ]
+  }
+}

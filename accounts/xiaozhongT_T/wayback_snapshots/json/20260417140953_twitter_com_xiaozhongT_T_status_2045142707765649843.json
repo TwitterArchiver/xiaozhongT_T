@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634191700712390657",
+    "conversation_id": "2045103491715387452",
+    "created_at": "2026-04-17T14:09:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T15:09:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045142707765649843"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1297607755000188929",
+          "start": 0,
+          "username": "Rician0911827"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045142707765649843",
+    "in_reply_to_user_id": "1297607755000188929",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045141848252174785",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rician0911827 握草不早说"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634191700712390657",
+        "conversation_id": "2045103491715387452",
+        "created_at": "2026-04-17T14:09:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T15:09:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045142707765649843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1297607755000188929",
+              "start": 0,
+              "username": "Rician0911827"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045142707765649843",
+        "in_reply_to_user_id": "1297607755000188929",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045141848252174785",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rician0911827 握草不早说"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1297607755000188929",
+        "conversation_id": "2045103491715387452",
+        "created_at": "2026-04-17T14:06:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T15:06:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045141848252174785"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1634191700712390657",
+              "start": 0,
+              "username": "xiaozhongT_T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045141848252174785",
+        "in_reply_to_user_id": "1634191700712390657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045103491715387452",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaozhongT_T od 反过来就是 do"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "向死而生\n我喜欢我的群友 @Alistai33955292 @luoaa_072 @bloodmeiii @O817Xiao @usiisjkj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 13,
+                "username": "Alistai33955292"
+              },
+              {
+                "end": 40,
+                "start": 30,
+                "username": "luoaa_072"
+              },
+              {
+                "end": 52,
+                "start": 41,
+                "username": "bloodmeiii"
+              },
+              {
+                "end": 62,
+                "start": 53,
+                "username": "O817Xiao"
+              },
+              {
+                "end": 72,
+                "start": 63,
+                "username": "usiisjkj"
+              }
+            ]
+          }
+        },
+        "id": "1634191700712390657",
+        "location": "月亮",
+        "name": "柊檩川",
+        "pinned_tweet_id": "2038056405970657570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043360211638104064/3rfknD6o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 416,
+          "following_count": 356,
+          "like_count": 2083,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 1027
+        },
+        "username": "xiaozhongT_T",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-23T18:53:00.000Z",
+        "description": "空吧哇，这里是宣雨！18⬆️泛性恋/MTX/infp/9w1，散厨和约厨,worst curse @Radio_Portales ，",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 64,
+                "start": 49,
+                "username": "Radio_Portales"
+              }
+            ]
+          }
+        },
+        "id": "1297607755000188929",
+        "location": "Auckland, New Zealand",
+        "name": "宣雨Rician☃︎",
+        "pinned_tweet_id": "1798654187628339609",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1848993619623264256/tMTDcXkL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 58,
+          "like_count": 110,
+          "listed_count": 0,
+          "media_count": 191,
+          "tweet_count": 3129
+        },
+        "username": "Rician0911827",
+        "verified": false
+      }
+    ]
+  }
+}

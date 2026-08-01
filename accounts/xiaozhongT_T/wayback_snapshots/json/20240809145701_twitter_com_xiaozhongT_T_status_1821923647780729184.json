@@ -1,0 +1,161 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634191700712390657",
+    "conversation_id": "1821906361074241982",
+    "created_at": "2024-08-09T14:57:01.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-09T15:57:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1821923647780729184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1560044491121209344",
+          "start": 0,
+          "username": "akiko_yami2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1821923647780729184",
+    "in_reply_to_user_id": "1560044491121209344",
+    "lang": "zh",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1821906361074241982",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@akiko_yami2 永远的16岁生日快乐😼"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1821906361074241982].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1821906361074241982",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1821906361074241982"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634191700712390657",
+        "conversation_id": "1821906361074241982",
+        "created_at": "2024-08-09T14:57:01.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-09T15:57:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1821923647780729184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1560044491121209344",
+              "start": 0,
+              "username": "akiko_yami2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1821923647780729184",
+        "in_reply_to_user_id": "1560044491121209344",
+        "lang": "zh",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1821906361074241982",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akiko_yami2 永远的16岁生日快乐😼"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "刺身",
+        "id": "1634191700712390657",
+        "location": "月亮",
+        "name": "小柊",
+        "pinned_tweet_id": "1821884366450270637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821858196006547456/9fV5LbJh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 56,
+          "following_count": 94,
+          "like_count": 453,
+          "listed_count": 0,
+          "tweet_count": 128
+        },
+        "username": "xiaozhongT_T",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-17T23:22:56.000Z",
+        "description": "ただ個人的雑垢ので憂鬱て無意味の言葉が多い。AKIKO/KIKIです(・｀ω´・)🦋現役蝶々の魔女。16歳16歳16歳だ(永遠に) …‼️リスカ自傷‼️‼️怖いならご注意。🚪饭饭200纯绿陪聊520(ᵕ  •̥  ·  •̥  ᵕ)\n日常写真 @KiMajoy_kiki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 122,
+                "username": "KiMajoy_kiki"
+              }
+            ]
+          }
+        },
+        "id": "1560044491121209344",
+        "location": "魔女之村第118号人偶当铺🧙キキのことを忘れないで",
+        "name": "KIKI🦋蝶の魔女 ꒰ঌ♡໒꒱",
+        "pinned_tweet_id": "1818316583414194638",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1754543559234240512/Oxujalyj_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 10955,
+          "following_count": 267,
+          "like_count": 11243,
+          "listed_count": 21,
+          "tweet_count": 3659
+        },
+        "username": "akiko_yami2",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634191700712390657",
+    "conversation_id": "2039042967814717877",
+    "created_at": "2026-03-31T18:11:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T19:11:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039042967814717877"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1985250196155142145",
+          "start": 3,
+          "username": "miyngyng155125"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039042967814717877",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039018996805349721",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @miyngyng155125: 额大概是个自介\n大概呢就是一个乐子人 额多的感觉介绍不太了\n已经好久没去医院看医生了所以不知道自己的具体情况\n大概就是网上跟现实不是一个人吧 好自卑好那个啥\n对于情感什么的 可能表现的好那个兴奋其实根本感觉不到什么 额又忘记要说什么了\n很…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1124,
+        "media_key": "3_2039018991369531398",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEwM-C7bMAY_giQ.jpg",
+        "width": 954
+      },
+      {
+        "height": 1720,
+        "media_key": "3_2039018993324077056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEwM-KNbMAAGW64.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2074,
+        "media_key": "3_2039018992455847936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEwM-G-bEAAO8RF.jpg",
+        "width": 1220
+      },
+      {
+        "height": 1171,
+        "media_key": "3_2039018992132878336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEwM-Fxa8AABJGI.jpg",
+        "width": 1171
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634191700712390657",
+        "conversation_id": "2039042967814717877",
+        "created_at": "2026-03-31T18:11:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T19:11:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039042967814717877"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1985250196155142145",
+              "start": 3,
+              "username": "miyngyng155125"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039042967814717877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039018996805349721",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @miyngyng155125: 额大概是个自介\n大概呢就是一个乐子人 额多的感觉介绍不太了\n已经好久没去医院看医生了所以不知道自己的具体情况\n大概就是网上跟现实不是一个人吧 好自卑好那个啥\n对于情感什么的 可能表现的好那个兴奋其实根本感觉不到什么 额又忘记要说什么了\n很…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039018991369531398",
+            "3_2039018993324077056",
+            "3_2039018992455847936",
+            "3_2039018992132878336"
+          ]
+        },
+        "author_id": "1985250196155142145",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2039018996805349721",
+        "created_at": "2026-03-31T16:36:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T17:36:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039018996805349721"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NHzL7VesKh",
+              "end": 166,
+              "expanded_url": "https://x.com/miyngyng155125/status/2039018996805349721/photo/1",
+              "media_key": "3_2039018991369531398",
+              "start": 143,
+              "url": "https://t.co/NHzL7VesKh"
+            },
+            {
+              "display_url": "pic.x.com/NHzL7VesKh",
+              "end": 166,
+              "expanded_url": "https://x.com/miyngyng155125/status/2039018996805349721/photo/1",
+              "media_key": "3_2039018993324077056",
+              "start": 143,
+              "url": "https://t.co/NHzL7VesKh"
+            },
+            {
+              "display_url": "pic.x.com/NHzL7VesKh",
+              "end": 166,
+              "expanded_url": "https://x.com/miyngyng155125/status/2039018996805349721/photo/1",
+              "media_key": "3_2039018992455847936",
+              "start": 143,
+              "url": "https://t.co/NHzL7VesKh"
+            },
+            {
+              "display_url": "pic.x.com/NHzL7VesKh",
+              "end": 166,
+              "expanded_url": "https://x.com/miyngyng155125/status/2039018996805349721/photo/1",
+              "media_key": "3_2039018992132878336",
+              "start": 143,
+              "url": "https://t.co/NHzL7VesKh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039018996805349721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 157,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "额大概是个自介\n大概呢就是一个乐子人 额多的感觉介绍不太了\n已经好久没去医院看医生了所以不知道自己的具体情况\n大概就是网上跟现实不是一个人吧 好自卑好那个啥\n对于情感什么的 可能表现的好那个兴奋其实根本感觉不到什么 额又忘记要说什么了\n很复杂的一个人一个矛盾聚集体 喜欢我跟我互fo喵 https://t.co/NHzL7VesKh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "「我不奢求你会说爱我，只要轻轻抱着我就好」",
+        "id": "1634191700712390657",
+        "location": "月亮",
+        "name": "柊凜川",
+        "pinned_tweet_id": "2038056405970657570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038818955574542336/QZb1rWM0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 161,
+          "following_count": 208,
+          "like_count": 1083,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 526
+        },
+        "username": "xiaozhongT_T",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-03T07:38:39.000Z",
+        "description": "脑子有病 同类互fo呀喵 双相精分焦虑",
+        "id": "1985250196155142145",
+        "name": "未愈合的季風",
+        "pinned_tweet_id": "2039018996805349721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033477587151028224/hn988M7H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 74,
+          "like_count": 564,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 293
+        },
+        "username": "miyngyng155125",
+        "verified": false
+      }
+    ]
+  }
+}

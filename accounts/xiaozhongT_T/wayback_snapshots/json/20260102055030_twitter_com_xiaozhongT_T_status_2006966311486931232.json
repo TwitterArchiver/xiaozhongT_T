@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2006966308399964160",
+        "3_2006966308106285061"
+      ]
+    },
+    "author_id": "1634191700712390657",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2006966311486931232",
+    "created_at": "2026-01-02T05:50:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T06:50:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2006966311486931232"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/goZwI2BKt9",
+          "end": 26,
+          "expanded_url": "https://x.com/xiaozhongT_T/status/2006966311486931232/photo/1",
+          "media_key": "3_2006966308399964160",
+          "start": 3,
+          "url": "https://t.co/goZwI2BKt9"
+        },
+        {
+          "display_url": "pic.x.com/goZwI2BKt9",
+          "end": 26,
+          "expanded_url": "https://x.com/xiaozhongT_T/status/2006966311486931232/photo/1",
+          "media_key": "3_2006966308106285061",
+          "start": 3,
+          "url": "https://t.co/goZwI2BKt9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006966311486931232",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "昨天 https://t.co/goZwI2BKt9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2006966308399964160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9otOWBbYAAU4Uh.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2006966308106285061",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9otOU7aMAU-mtt.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2006966308399964160",
+            "3_2006966308106285061"
+          ]
+        },
+        "author_id": "1634191700712390657",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2006966311486931232",
+        "created_at": "2026-01-02T05:50:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T06:50:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006966311486931232"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/goZwI2BKt9",
+              "end": 26,
+              "expanded_url": "https://x.com/xiaozhongT_T/status/2006966311486931232/photo/1",
+              "media_key": "3_2006966308399964160",
+              "start": 3,
+              "url": "https://t.co/goZwI2BKt9"
+            },
+            {
+              "display_url": "pic.x.com/goZwI2BKt9",
+              "end": 26,
+              "expanded_url": "https://x.com/xiaozhongT_T/status/2006966311486931232/photo/1",
+              "media_key": "3_2006966308106285061",
+              "start": 3,
+              "url": "https://t.co/goZwI2BKt9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006966311486931232",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天 https://t.co/goZwI2BKt9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "ed/双相/重度焦虑/自伤/od\nbmi16.7 谢谢你来看我 感到不适自行屏蔽",
+        "id": "1634191700712390657",
+        "location": "月亮",
+        "name": "柊凜川",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005831507345297408/yo_BghPM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 58,
+          "following_count": 107,
+          "like_count": 626,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 219
+        },
+        "username": "xiaozhongT_T",
+        "verified": false
+      }
+    ]
+  }
+}

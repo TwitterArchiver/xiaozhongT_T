@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1822548828584894464"
+      ]
+    },
+    "author_id": "1634191700712390657",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "1822548868703383579",
+    "created_at": "2024-08-11T08:21:26.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-11T09:21:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1822548868703383579"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 3,
+          "start": 0,
+          "tag": "自残"
+        },
+        {
+          "end": 7,
+          "start": 4,
+          "tag": "自傷"
+        },
+        {
+          "end": 13,
+          "start": 8,
+          "tag": "自残行为"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/npmyexgrfb",
+          "end": 42,
+          "expanded_url": "https://twitter.com/xiaozhongT_T/status/1822548868703383579/video/1",
+          "media_key": "7_1822548828584894464",
+          "start": 19,
+          "url": "https://t.co/NPmyexGrFb"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1822548868703383579",
+    "lang": "ja",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#自残 #自傷 #自残行为 絵を描く https://t.co/NPmyexGrFb"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1822548868703383579].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1822548868703383579",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1822548868703383579"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 32925,
+        "height": 960,
+        "media_key": "7_1822548828584894464",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1822548828584894464/pu/img/1lSHIGQNcGqIF1rC.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1822548828584894464/pu/vid/avc1/320x426/ha3lwmrGm-6CmxCj.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1822548828584894464/pu/vid/avc1/480x640/cWbFcJmu4IC2CqAb.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1822548828584894464/pu/vid/avc1/720x960/PCRbtcEFe8V8Hx__.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1822548828584894464/pu/pl/17Xj9joRb96vtbUS.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "@ragno404把我杀掉了",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "ragno404"
+              }
+            ]
+          }
+        },
+        "id": "1634191700712390657",
+        "location": "月亮",
+        "name": "小柊",
+        "pinned_tweet_id": "1821884366450270637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821858196006547456/9fV5LbJh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 63,
+          "following_count": 98,
+          "like_count": 494,
+          "listed_count": 0,
+          "tweet_count": 140
+        },
+        "username": "xiaozhongT_T",
+        "verified": false
+      }
+    ]
+  }
+}

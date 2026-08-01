@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634191700712390657",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2047546372703088700",
+    "created_at": "2026-04-24T05:21:11.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-24T06:21:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2047546372703088700"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2030832351656493056",
+          "start": 3,
+          "username": "Suintouhea2t"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2047546372703088700",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047504469429227921",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Suintouhea2t: 你说爱我等于爱上了恶俗逼、网蛆、服务员、卖惨小女孩、中专文艺女、保安、摆摊创业青年、od女、假摇滚迷、扣字手、巴结犬，开户小手子、性饥渴、精神病人、传单员、装逼犯……"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634191700712390657",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2047546372703088700",
+        "created_at": "2026-04-24T05:21:11.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T06:21:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2047546372703088700"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2030832351656493056",
+              "start": 3,
+              "username": "Suintouhea2t"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047546372703088700",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047504469429227921",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Suintouhea2t: 你说爱我等于爱上了恶俗逼、网蛆、服务员、卖惨小女孩、中专文艺女、保安、摆摊创业青年、od女、假摇滚迷、扣字手、巴结犬，开户小手子、性饥渴、精神病人、传单员、装逼犯……"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2030832351656493056",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2047504469429227921",
+        "created_at": "2026-04-24T02:34:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-24T03:34:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047504469429227921"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047504469429227921",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 252,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "你说爱我等于爱上了恶俗逼、网蛆、服务员、卖惨小女孩、中专文艺女、保安、摆摊创业青年、od女、假摇滚迷、扣字手、巴结犬，开户小手子、性饥渴、精神病人、传单员、装逼犯……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "向死而生\n我喜欢我的群友 @Alistai33955292 @luoaa_072 @bloodmeiii @O817Xiao @usiisjkj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 13,
+                "username": "Alistai33955292"
+              },
+              {
+                "end": 40,
+                "start": 30,
+                "username": "luoaa_072"
+              },
+              {
+                "end": 52,
+                "start": 41,
+                "username": "bloodmeiii"
+              },
+              {
+                "end": 62,
+                "start": 53,
+                "username": "O817Xiao"
+              },
+              {
+                "end": 72,
+                "start": 63,
+                "username": "usiisjkj"
+              }
+            ]
+          }
+        },
+        "id": "1634191700712390657",
+        "location": "月亮",
+        "name": "柊檩川",
+        "pinned_tweet_id": "2038056405970657570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045797211447971840/iX7ajiBl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 390,
+          "like_count": 2294,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 1218
+        },
+        "username": "xiaozhongT_T",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-09T02:27:34.000Z",
+        "description": "一个患有精神病的用户🧠🤍｜自伤🩸OD💊｜｜ISFP-T (´-ω-`)｜同类回fo🎹𝄞♡🪽提问箱https://t.co/AWOjVlhb0X 老公是将太郎李炤熙，男的别来骚扰我。赞赏的用于买小裙子",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/suintouhea2t",
+                "end": 71,
+                "expanded_url": "http://ngl.link/suintouhea2t",
+                "start": 48,
+                "url": "https://t.co/AWOjVlhb0X"
+              }
+            ]
+          }
+        },
+        "id": "2030832351656493056",
+        "location": "墓地🪦",
+        "name": "Moe8964",
+        "pinned_tweet_id": "2030835174783779307",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047456618309464064/xAwst6AI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 589,
+          "following_count": 465,
+          "like_count": 3018,
+          "listed_count": 0,
+          "media_count": 111,
+          "tweet_count": 2234
+        },
+        "username": "Suintouhea2t",
+        "verified": false
+      }
+    ]
+  }
+}

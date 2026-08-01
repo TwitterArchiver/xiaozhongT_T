@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634191700712390657",
+    "conversation_id": "2045156234550997033",
+    "created_at": "2026-04-17T15:03:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T16:03:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2045156234550997033"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/MarkRodrig6633…",
+          "end": 33,
+          "expanded_url": "https://twitter.com/MarkRodrig66337/status/2045156022222811250",
+          "start": 10,
+          "url": "https://t.co/LkIqfHyvK4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045156234550997033",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045156022222811250",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "有万达广场附近的吗 https://t.co/LkIqfHyvK4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634191700712390657",
+        "conversation_id": "2045156234550997033",
+        "created_at": "2026-04-17T15:03:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T16:03:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2045156234550997033"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/MarkRodrig6633…",
+              "end": 33,
+              "expanded_url": "https://twitter.com/MarkRodrig66337/status/2045156022222811250",
+              "start": 10,
+              "url": "https://t.co/LkIqfHyvK4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045156234550997033",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045156022222811250",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "有万达广场附近的吗 https://t.co/LkIqfHyvK4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2034029213725167617",
+        "conversation_id": "2045103491715387452",
+        "created_at": "2026-04-17T15:02:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T16:02:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045156022222811250"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1634191700712390657",
+              "start": 0,
+              "username": "xiaozhongT_T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045156022222811250",
+        "in_reply_to_user_id": "1634191700712390657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045103491715387452",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaozhongT_T 有哥哥‍线下‌吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "向死而生\n我喜欢我的群友 @Alistai33955292 @luoaa_072 @bloodmeiii @O817Xiao @usiisjkj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 13,
+                "username": "Alistai33955292"
+              },
+              {
+                "end": 40,
+                "start": 30,
+                "username": "luoaa_072"
+              },
+              {
+                "end": 52,
+                "start": 41,
+                "username": "bloodmeiii"
+              },
+              {
+                "end": 62,
+                "start": 53,
+                "username": "O817Xiao"
+              },
+              {
+                "end": 72,
+                "start": 63,
+                "username": "usiisjkj"
+              }
+            ]
+          }
+        },
+        "id": "1634191700712390657",
+        "location": "月亮",
+        "name": "柊檩川",
+        "pinned_tweet_id": "2038056405970657570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043360211638104064/3rfknD6o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 418,
+          "following_count": 360,
+          "like_count": 2096,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 1053
+        },
+        "username": "xiaozhongT_T",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-17T22:08:54.000Z",
+        "description": "已入驻约p平台:👉https://t.co/VivsJBstua只在平台上约推特绝大部分女主播都入驻的平台，安全可靠.下载直接打开不用注册，日常更新具体位置平台都有显示",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "d93g.top",
+                "end": 32,
+                "expanded_url": "http://d93g.top",
+                "start": 9,
+                "url": "https://t.co/VivsJBstua"
+              }
+            ]
+          }
+        },
+        "id": "2034029213725167617",
+        "location": "附近2.88km",
+        "name": "飞荷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045156048135131136/3B7LAdN2_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 10,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 291
+        },
+        "username": "MarkRodrig66337",
+        "verified": false
+      }
+    ]
+  }
+}

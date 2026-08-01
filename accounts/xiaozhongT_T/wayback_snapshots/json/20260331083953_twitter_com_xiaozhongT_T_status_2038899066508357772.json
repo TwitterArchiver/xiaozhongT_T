@@ -1,0 +1,242 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634191700712390657",
+    "conversation_id": "2038899066508357772",
+    "created_at": "2026-03-31T08:39:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T09:39:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038899066508357772"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1600148543125090305",
+          "start": 3,
+          "username": "NakaharaBulbel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038899066508357772",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038865466035503391",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @NakaharaBulbel: 做个自介吧，我是珠芽，是一个mtx，可能在情感方面有些极端，极度缺爱。\n精神状态堪忧，有焦虑性抑郁症。\n本人有点抽烟od的习惯但是在戒了。酒精过敏，所以不喝酒。\n欢迎所有人来互fo，交朋友。\n我交所有朋友都是认真的，也想找人陪我打电话。…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2038865102259306496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEuBAhUbQAA7RxH.jpg",
+        "width": 887
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2038865102850633728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HEuBAjhaMAATiaZ.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634191700712390657",
+        "conversation_id": "2038899066508357772",
+        "created_at": "2026-03-31T08:39:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T09:39:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038899066508357772"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1600148543125090305",
+              "start": 3,
+              "username": "NakaharaBulbel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038899066508357772",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038865466035503391",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @NakaharaBulbel: 做个自介吧，我是珠芽，是一个mtx，可能在情感方面有些极端，极度缺爱。\n精神状态堪忧，有焦虑性抑郁症。\n本人有点抽烟od的习惯但是在戒了。酒精过敏，所以不喝酒。\n欢迎所有人来互fo，交朋友。\n我交所有朋友都是认真的，也想找人陪我打电话。…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2038865102259306496",
+            "3_2038865102850633728"
+          ]
+        },
+        "author_id": "1600148543125090305",
+        "conversation_id": "2038865466035503391",
+        "created_at": "2026-03-31T06:26:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T07:24:57.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038865113143472596",
+          "2038865466035503391"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 127,
+              "start": 123,
+              "tag": "mtx"
+            },
+            {
+              "end": 131,
+              "start": 128,
+              "tag": "男娘"
+            },
+            {
+              "end": 135,
+              "start": 132,
+              "tag": "od"
+            },
+            {
+              "end": 139,
+              "start": 136,
+              "tag": "扩列"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6yLPEXSMYK",
+              "end": 163,
+              "expanded_url": "https://x.com/NakaharaBulbel/status/2038865466035503391/photo/1",
+              "media_key": "3_2038865102259306496",
+              "start": 140,
+              "url": "https://t.co/6yLPEXSMYK"
+            },
+            {
+              "display_url": "pic.x.com/6yLPEXSMYK",
+              "end": 163,
+              "expanded_url": "https://x.com/NakaharaBulbel/status/2038865466035503391/photo/1",
+              "media_key": "3_2038865102850633728",
+              "start": 140,
+              "url": "https://t.co/6yLPEXSMYK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038865466035503391",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 534,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "做个自介吧，我是珠芽，是一个mtx，可能在情感方面有些极端，极度缺爱。\n精神状态堪忧，有焦虑性抑郁症。\n本人有点抽烟od的习惯但是在戒了。酒精过敏，所以不喝酒。\n欢迎所有人来互fo，交朋友。\n我交所有朋友都是认真的，也想找人陪我打电话。\n求转帖\n#mtx #男娘 #od #扩列 https://t.co/6yLPEXSMYK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "「我不奢求你会说爱我，只要轻轻抱着我就好」",
+        "id": "1634191700712390657",
+        "location": "月亮",
+        "name": "柊凜川",
+        "pinned_tweet_id": "2038056405970657570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038818955574542336/QZb1rWM0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 201,
+          "like_count": 923,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 432
+        },
+        "username": "xiaozhongT_T",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-06T15:22:19.000Z",
+        "description": "正在向崩溃发展，急需要爱。",
+        "id": "1600148543125090305",
+        "location": "🚪38，但是我很废",
+        "name": "珠芽（想涨fo中）",
+        "pinned_tweet_id": "2038865466035503391",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037327865541517313/8G4OZpd3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 977,
+          "following_count": 423,
+          "like_count": 9409,
+          "listed_count": 5,
+          "media_count": 146,
+          "tweet_count": 1381
+        },
+        "username": "NakaharaBulbel",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1245715575050891269"
+      ],
+      "media_source_tweet_id": [
+        "1245715696891265024"
+      ]
+    },
+    "author_id": "1634191700712390657",
+    "conversation_id": "1859494201626648946",
+    "created_at": "2024-11-21T07:09:00.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-21T08:09:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1859494201626648946"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 28,
+          "normalized_text": "オレンジ / トーマ",
+          "probability": 0.2207,
+          "start": 19,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "3112919876",
+          "start": 3,
+          "username": "30_voca_music"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/sXNduOtmbj",
+          "end": 53,
+          "expanded_url": "https://x.com/30_voca_music/status/1245715696891265024/video/1",
+          "media_key": "13_1245715575050891269",
+          "start": 30,
+          "url": "https://t.co/sXNduOtmbj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859494201626648946",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 112
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859183206580277476",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @30_voca_music: オレンジ / トーマ\nhttps://t.co/sXNduOtmbj"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 33233,
+        "height": 540,
+        "media_key": "13_1245715575050891269",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1245715575050891269/img/m_mCWa4fy_oXLc6e.jpg",
+        "public_metrics": {
+          "view_count": 188485
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1245715575050891269/vid/480x270/IRIGog4FBjvCwQKV.mp4?tag=13"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1245715575050891269/vid/640x360/Yn6gQvZ1Hk-KE1uj.mp4?tag=13"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1245715575050891269/vid/960x540/bZKzCscTqi6gVp9G.mp4?tag=13"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1245715575050891269/pl/VHV3ereHnczy-NVH.m3u8?tag=13&v=37e"
+          }
+        ],
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1245715575050891269"
+          ],
+          "media_source_tweet_id": [
+            "1245715696891265024"
+          ]
+        },
+        "author_id": "1634191700712390657",
+        "conversation_id": "1859494201626648946",
+        "created_at": "2024-11-21T07:09:00.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-21T08:09:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1859494201626648946"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 28,
+              "normalized_text": "オレンジ / トーマ",
+              "probability": 0.2207,
+              "start": 19,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "3112919876",
+              "start": 3,
+              "username": "30_voca_music"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sXNduOtmbj",
+              "end": 53,
+              "expanded_url": "https://x.com/30_voca_music/status/1245715696891265024/video/1",
+              "media_key": "13_1245715575050891269",
+              "start": 30,
+              "url": "https://t.co/sXNduOtmbj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859494201626648946",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 112
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859183206580277476",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @30_voca_music: オレンジ / トーマ\nhttps://t.co/sXNduOtmbj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1245715575050891269"
+          ],
+          "media_source_tweet_id": [
+            "1245715696891265024"
+          ]
+        },
+        "author_id": "3112919876",
+        "conversation_id": "1859183206580277476",
+        "created_at": "2024-11-20T10:33:13.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-20T11:33:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1859183206580277476"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 9,
+              "normalized_text": "トーマ",
+              "probability": 0.2896,
+              "start": 7,
+              "type": "Person"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/sXNduOtmbj",
+              "end": 34,
+              "expanded_url": "https://x.com/30_voca_music/status/1245715696891265024/video/1",
+              "media_key": "13_1245715575050891269",
+              "start": 11,
+              "url": "https://t.co/sXNduOtmbj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859183206580277476",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 11603,
+          "like_count": 440,
+          "quote_count": 11,
+          "reply_count": 0,
+          "retweet_count": 112
+        },
+        "reply_settings": "everyone",
+        "text": "オレンジ / トーマ\nhttps://t.co/sXNduOtmbj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "因果轮回",
+        "id": "1634191700712390657",
+        "location": "月亮",
+        "name": "小柊",
+        "pinned_tweet_id": "1821884366450270637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821858196006547456/9fV5LbJh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 92,
+          "like_count": 497,
+          "listed_count": 0,
+          "tweet_count": 145
+        },
+        "username": "xiaozhongT_T",
+        "verified": false
+      },
+      {
+        "created_at": "2015-03-28T13:05:48.000Z",
+        "description": "ボーカロイド(たまにUTAU まれにCeVIO等)の楽曲を30秒くらいにして流します。",
+        "id": "3112919876",
+        "name": "30秒ボカロbot",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/903257944392732672/JZWhJls2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103595,
+          "following_count": 3,
+          "like_count": 294,
+          "listed_count": 438,
+          "tweet_count": 38926
+        },
+        "username": "30_voca_music",
+        "verified": false
+      }
+    ]
+  }
+}

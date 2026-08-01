@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634191700712390657",
+    "conversation_id": "2044241634762846515",
+    "created_at": "2026-04-15T09:51:37.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T10:51:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044352937120428086"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1839085606573637632",
+          "start": 0,
+          "username": "qii1969243"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044352937120428086",
+    "in_reply_to_user_id": "1839085606573637632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044241634762846515",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qii1969243 帮转了呀(´▽`ʃƪ)"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634191700712390657",
+        "conversation_id": "2044241634762846515",
+        "created_at": "2026-04-15T09:51:37.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T10:51:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044352937120428086"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1839085606573637632",
+              "start": 0,
+              "username": "qii1969243"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044352937120428086",
+        "in_reply_to_user_id": "1839085606573637632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044241634762846515",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qii1969243 帮转了呀(´▽`ʃƪ)"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839085606573637632",
+        "conversation_id": "2044241634762846515",
+        "created_at": "2026-04-15T02:29:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T03:29:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044241634762846515"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/qii1969243/sta…",
+              "end": 84,
+              "expanded_url": "https://twitter.com/qii1969243/status/2044241360342180304",
+              "start": 61,
+              "url": "https://t.co/x4kIb2EuEO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044241634762846515",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 280,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044241360342180304",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "百fo抽\n1个18.88\n1个13.14\n1个11.4\n1个9.9\n2个8.18\n2个6.66\n2个5.2\n5个2.33 https://t.co/x4kIb2EuEO"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "向死而生\n我喜欢我的群友 @Alistai33955292 @luoaa_072 @bloodmeiii @O817Xiao @usiisjkj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 13,
+                "username": "Alistai33955292"
+              },
+              {
+                "end": 40,
+                "start": 30,
+                "username": "luoaa_072"
+              },
+              {
+                "end": 52,
+                "start": 41,
+                "username": "bloodmeiii"
+              },
+              {
+                "end": 62,
+                "start": 53,
+                "username": "O817Xiao"
+              },
+              {
+                "end": 72,
+                "start": 63,
+                "username": "usiisjkj"
+              }
+            ]
+          }
+        },
+        "id": "1634191700712390657",
+        "location": "月亮",
+        "name": "柊檩川",
+        "pinned_tweet_id": "2038056405970657570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043360211638104064/3rfknD6o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 345,
+          "like_count": 2051,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 981
+        },
+        "username": "xiaozhongT_T",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "叫我岐^山支^之之^都可以/津/友跨/泛性恋/我割我抽/诞生12.21/长期请假中/od持开放态度 不一定碰但是不会反感 不鉴证 喜欢萌妹子 某些男的想加我先v520",
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2044241634762846515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039490693140549632/hYgO0Ks5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 172,
+          "like_count": 178,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 600
+        },
+        "username": "qii1969243",
+        "verified": false
+      }
+    ]
+  }
+}

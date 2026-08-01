@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634191700712390657",
+    "conversation_id": "2039308128660144528",
+    "created_at": "2026-04-01T13:17:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T14:17:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039331321374499127"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2014723682548224000",
+          "start": 0,
+          "username": "FanQie_CaoDamn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039331321374499127",
+    "in_reply_to_user_id": "2014723682548224000",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039308128660144528",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FanQie_CaoDamn 礼貌申请。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1494,
+        "media_key": "3_2039308121198452736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE0T7neaYAAwzx4.jpg",
+        "width": 1031
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634191700712390657",
+        "conversation_id": "2039308128660144528",
+        "created_at": "2026-04-01T13:17:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T14:17:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039331321374499127"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2014723682548224000",
+              "start": 0,
+              "username": "FanQie_CaoDamn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039331321374499127",
+        "in_reply_to_user_id": "2014723682548224000",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039308128660144528",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FanQie_CaoDamn 礼貌申请。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039308121198452736"
+          ]
+        },
+        "author_id": "2014723682548224000",
+        "conversation_id": "2039308128660144528",
+        "created_at": "2026-04-01T11:45:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T12:45:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039308128660144528"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/P37Fh31LAG",
+              "end": 99,
+              "expanded_url": "https://x.com/FanQie_CaoDamn/status/2039308128660144528/photo/1",
+              "media_key": "3_2039308121198452736",
+              "start": 76,
+              "url": "https://t.co/P37Fh31LAG"
+            },
+            {
+              "display_url": "x.com/FanQie_CaoDamn…",
+              "end": 123,
+              "expanded_url": "https://twitter.com/FanQie_CaoDamn/status/2039256755440668774",
+              "start": 100,
+              "url": "https://t.co/L9w0UxYlxg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039308128660144528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 671,
+          "like_count": 12,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 13
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039256755440668774",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "新群——\n申請進群前需要：\n1.關注操蛋\n2.留言這條帖子\n3.群申請時需帶上推特賬號\n4.進群後不可隨便拉人  轉帖隨意\n\n群聊不建政  其他你隨意 https://t.co/P37Fh31LAG https://t.co/L9w0UxYlxg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "「我不奢求你会说爱我，只要轻轻抱着我就好」",
+        "id": "1634191700712390657",
+        "location": "月亮",
+        "name": "柊凜川",
+        "pinned_tweet_id": "2038056405970657570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038818955574542336/QZb1rWM0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 214,
+          "like_count": 1089,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 538
+        },
+        "username": "xiaozhongT_T",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-23T15:35:47.000Z",
+        "description": "11年 順女  LGBTQ全友好   查成分 藍v互關 會亂追人（？）\nhttps://t.co/76AbZG7YzL\n\n家妻@fuyi0816",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 72,
+                "start": 63,
+                "username": "fuyi0816"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/_tomato._.fanq…",
+                "end": 59,
+                "expanded_url": "https://ngl.link/_tomato._.fanqie_",
+                "start": 36,
+                "url": "https://t.co/76AbZG7YzL"
+              }
+            ]
+          }
+        },
+        "id": "2014723682548224000",
+        "location": "🚪",
+        "name": "番茄操蛋5.0",
+        "pinned_tweet_id": "2027179646979334157",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037832407521665024/m9NrbAW-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 798,
+          "following_count": 526,
+          "like_count": 6204,
+          "listed_count": 0,
+          "media_count": 88,
+          "tweet_count": 1938
+        },
+        "username": "FanQie_CaoDamn",
+        "verified": true
+      }
+    ]
+  }
+}

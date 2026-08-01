@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634191700712390657",
+    "conversation_id": "2038899102256447593",
+    "created_at": "2026-03-31T08:40:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T09:40:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038899102256447593"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1845199032660131845",
+          "start": 3,
+          "username": "qingjizhuwo555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038899102256447593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2030959163178979557",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qingjizhuwo555: 我是小祁， 09，16岁，158体重102\n情绪极其不稳定，od割手抽烟喝酒什么都干\n🚪52只有好友位不开放任何\n🚪88好友位➕朋友圈开放，不闲聊\n🚪288好友位➕朋友圈开放➕闲聊➕开放纯绿半绿线下\n🚪520以上全开放➕开放非绿线下\n线下…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2030959153540395008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC9qlvQacAAh9PY.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2030959153544667136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC9qlvRboAAueUW.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2030959153590730752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HC9qlvcagAAJcUr.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634191700712390657",
+        "conversation_id": "2038899102256447593",
+        "created_at": "2026-03-31T08:40:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T09:40:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038899102256447593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1845199032660131845",
+              "start": 3,
+              "username": "qingjizhuwo555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038899102256447593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2030959163178979557",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qingjizhuwo555: 我是小祁， 09，16岁，158体重102\n情绪极其不稳定，od割手抽烟喝酒什么都干\n🚪52只有好友位不开放任何\n🚪88好友位➕朋友圈开放，不闲聊\n🚪288好友位➕朋友圈开放➕闲聊➕开放纯绿半绿线下\n🚪520以上全开放➕开放非绿线下\n线下…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2030959153540395008",
+            "3_2030959153544667136",
+            "3_2030959153590730752"
+          ]
+        },
+        "author_id": "1845199032660131845",
+        "conversation_id": "2030959163178979557",
+        "created_at": "2026-03-09T10:49:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-09T11:49:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2030959163178979557"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/FOYxRm9gw9",
+              "end": 159,
+              "expanded_url": "https://x.com/qingjizhuwo555/status/2030959163178979557/photo/1",
+              "media_key": "3_2030959153540395008",
+              "start": 136,
+              "url": "https://t.co/FOYxRm9gw9"
+            },
+            {
+              "display_url": "pic.x.com/FOYxRm9gw9",
+              "end": 159,
+              "expanded_url": "https://x.com/qingjizhuwo555/status/2030959163178979557/photo/1",
+              "media_key": "3_2030959153544667136",
+              "start": 136,
+              "url": "https://t.co/FOYxRm9gw9"
+            },
+            {
+              "display_url": "pic.x.com/FOYxRm9gw9",
+              "end": 159,
+              "expanded_url": "https://x.com/qingjizhuwo555/status/2030959163178979557/photo/1",
+              "media_key": "3_2030959153590730752",
+              "start": 136,
+              "url": "https://t.co/FOYxRm9gw9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2030959163178979557",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2516,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "我是小祁， 09，16岁，158体重102\n情绪极其不稳定，od割手抽烟喝酒什么都干\n🚪52只有好友位不开放任何\n🚪88好友位➕朋友圈开放，不闲聊\n🚪288好友位➕朋友圈开放➕闲聊➕开放纯绿半绿线下\n🚪520以上全开放➕开放非绿线下\n线下很丑介意误入\n报销路费可以去找你 https://t.co/FOYxRm9gw9"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "「我不奢求你会说爱我，只要轻轻抱着我就好」",
+        "id": "1634191700712390657",
+        "location": "月亮",
+        "name": "柊凜川",
+        "pinned_tweet_id": "2038056405970657570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038818955574542336/QZb1rWM0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 201,
+          "like_count": 923,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 433
+        },
+        "username": "xiaozhongT_T",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-12T20:25:21.000Z",
+        "description": "给钱什么都干",
+        "id": "1845199032660131845",
+        "location": "成都",
+        "name": "我说不太想接触这个世界你说你也是",
+        "pinned_tweet_id": "2030959163178979557",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996163288984625152/wLV3Selj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 168,
+          "like_count": 149,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 240
+        },
+        "username": "qingjizhuwo555",
+        "verified": false
+      }
+    ]
+  }
+}

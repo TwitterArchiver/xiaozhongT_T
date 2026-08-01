@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2009024621354340354"
+      ]
+    },
+    "author_id": "1634191700712390657",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2009024626865913867",
+    "created_at": "2026-01-07T22:09:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-07T23:09:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2009024626865913867"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6jxahAZ2CZ",
+          "end": 28,
+          "expanded_url": "https://x.com/xiaozhongT_T/status/2009024626865913867/photo/1",
+          "media_key": "3_2009024621354340354",
+          "start": 5,
+          "url": "https://t.co/6jxahAZ2CZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2009024626865913867",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我在哭啊 https://t.co/6jxahAZ2CZ"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [2009024626865913867].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "2009024626865913867",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "2009024626865913867"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2009024621354340354",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G-F9P7TW0AIqEeW.jpg",
+        "width": 2048
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "ed/双相/重度焦虑/自伤/od\nbmi16.7 谢谢你来看我 感到不适自行屏蔽",
+        "id": "1634191700712390657",
+        "location": "月亮",
+        "name": "柊凜川",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008184978421456896/6a-QtTVc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59,
+          "following_count": 108,
+          "like_count": 634,
+          "listed_count": 0,
+          "media_count": 27,
+          "tweet_count": 224
+        },
+        "username": "xiaozhongT_T",
+        "verified": false
+      }
+    ]
+  }
+}

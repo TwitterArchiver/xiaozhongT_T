@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634191700712390657",
+    "conversation_id": "2043733659371614459",
+    "created_at": "2026-04-14T12:44:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T13:44:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044034021051740419"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1961388090670653440",
+          "start": 0,
+          "username": "usiisjkj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044034021051740419",
+    "in_reply_to_user_id": "1961388090670653440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044028687734198383",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@usiisjkj 🥺🥺。。。好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634191700712390657",
+        "conversation_id": "2043733659371614459",
+        "created_at": "2026-04-14T12:44:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T13:44:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044034021051740419"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1961388090670653440",
+              "start": 0,
+              "username": "usiisjkj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044034021051740419",
+        "in_reply_to_user_id": "1961388090670653440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044028687734198383",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@usiisjkj 🥺🥺。。。好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1961388090670653440",
+        "conversation_id": "2043733659371614459",
+        "created_at": "2026-04-14T12:23:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T13:23:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044028687734198383"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1634191700712390657",
+              "start": 0,
+              "username": "xiaozhongT_T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044028687734198383",
+        "in_reply_to_user_id": "1634191700712390657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043733659371614459",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaozhongT_T 我想和你在地狱成为朋友"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "向死而生\n我喜欢我的群友 @Alistai33955292 @luoaa_072  @bloodmeiii @O817Xiao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 13,
+                "username": "Alistai33955292"
+              },
+              {
+                "end": 40,
+                "start": 30,
+                "username": "luoaa_072"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "bloodmeiii"
+              },
+              {
+                "end": 63,
+                "start": 54,
+                "username": "O817Xiao"
+              }
+            ]
+          }
+        },
+        "id": "1634191700712390657",
+        "location": "月亮",
+        "name": "柊檩川",
+        "pinned_tweet_id": "2038056405970657570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043360211638104064/3rfknD6o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 318,
+          "like_count": 1979,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 913
+        },
+        "username": "xiaozhongT_T",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-29T11:19:09.000Z",
+        "description": "爱我的人 我爱你",
+        "id": "1961388090670653440",
+        "name": "寒蝉鸣泣之时幸福才会来临",
+        "pinned_tweet_id": "2035409782270836906",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042867589446275077/hjPXoS3r_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 305,
+          "following_count": 238,
+          "like_count": 573,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 746
+        },
+        "username": "usiisjkj",
+        "verified": false
+      }
+    ]
+  }
+}

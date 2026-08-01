@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1989256167043014656"
+      ],
+      "media_source_tweet_id": [
+        "1989256191537729622"
+      ]
+    },
+    "author_id": "1634191700712390657",
+    "conversation_id": "2038547490262393095",
+    "created_at": "2026-03-30T09:22:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-30T10:22:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2038547490262393095"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1748755970636038144",
+          "start": 3,
+          "username": "er_zuo96208"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/o5QPAX3L36",
+          "end": 119,
+          "expanded_url": "https://x.com/er_zuo96208/status/1989256191537729622/photo/1",
+          "media_key": "3_1989256167043014656",
+          "start": 96,
+          "url": "https://t.co/o5QPAX3L36"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2038547490262393095",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 23
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989256191537729622",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @er_zuo96208: 自介\n♱♡°.+┈••┈+.°♡♱\n叫我小愿就好\nod自残 负能量 什么都发\n萌妹子可以跟我互fo 加我wx🉑私信\n不聊骚不约炮不磕炮\n男的骚扰我先v520 https://t.co/o5QPAX3L36"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1989256167043014656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5tB8cPaoAAOhQu.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989256167043014656"
+          ],
+          "media_source_tweet_id": [
+            "1989256191537729622"
+          ]
+        },
+        "author_id": "1634191700712390657",
+        "conversation_id": "2038547490262393095",
+        "created_at": "2026-03-30T09:22:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-30T10:22:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2038547490262393095"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1748755970636038144",
+              "start": 3,
+              "username": "er_zuo96208"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/o5QPAX3L36",
+              "end": 119,
+              "expanded_url": "https://x.com/er_zuo96208/status/1989256191537729622/photo/1",
+              "media_key": "3_1989256167043014656",
+              "start": 96,
+              "url": "https://t.co/o5QPAX3L36"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038547490262393095",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 23
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989256191537729622",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @er_zuo96208: 自介\n♱♡°.+┈••┈+.°♡♱\n叫我小愿就好\nod自残 负能量 什么都发\n萌妹子可以跟我互fo 加我wx🉑私信\n不聊骚不约炮不磕炮\n男的骚扰我先v520 https://t.co/o5QPAX3L36"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989256167043014656"
+          ]
+        },
+        "author_id": "1748755970636038144",
+        "conversation_id": "1989256191537729622",
+        "created_at": "2025-11-14T08:56:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-14T09:56:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989256191537729622"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/o5QPAX3L36",
+              "end": 102,
+              "expanded_url": "https://x.com/er_zuo96208/status/1989256191537729622/photo/1",
+              "media_key": "3_1989256167043014656",
+              "start": 79,
+              "url": "https://t.co/o5QPAX3L36"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989256191537729622",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 30802,
+          "like_count": 172,
+          "quote_count": 2,
+          "reply_count": 37,
+          "retweet_count": 23
+        },
+        "reply_settings": "everyone",
+        "text": "自介\n♱♡°.+┈••┈+.°♡♱\n叫我小愿就好\nod自残 负能量 什么都发\n萌妹子可以跟我互fo 加我wx🉑私信\n不聊骚不约炮不磕炮\n男的骚扰我先v520 https://t.co/o5QPAX3L36"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "「我不奢求你会说爱我，只要轻轻抱着我就好」",
+        "id": "1634191700712390657",
+        "location": "月亮",
+        "name": "柊凜川",
+        "pinned_tweet_id": "2038056405970657570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008184978421456896/6a-QtTVc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 160,
+          "like_count": 733,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 322
+        },
+        "username": "xiaozhongT_T",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-20T17:15:06.000Z",
+        "description": "od自残 看不了血图屏蔽我 爱我请给钱 被b了自己找原因 fo你是喜欢你 脾气不好别犯贱 提问箱⏬️ 欢迎来找我玩",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/%E5%B7%A6%E8%8…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/%E5%B7%A6%E8%80%B31",
+                "start": 0,
+                "url": "https://t.co/T6lnnI9h8q"
+              }
+            ]
+          }
+        },
+        "id": "1748755970636038144",
+        "location": "純綠🚪188/288➕半绿🚪520➕",
+        "name": "老公孩子在天堂",
+        "pinned_tweet_id": "1989256191537729622",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036758811529355265/9KHsZ6r__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 798,
+          "following_count": 485,
+          "like_count": 1223,
+          "listed_count": 1,
+          "media_count": 291,
+          "tweet_count": 1756
+        },
+        "url": "https://t.co/T6lnnI9h8q",
+        "username": "er_zuo96208",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634191700712390657",
+    "conversation_id": "2003387203356070159",
+    "created_at": "2026-01-01T11:56:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T12:56:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006696005799145645"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1448206950903255040",
+          "start": 0,
+          "username": "_Shikieiki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006696005799145645",
+    "in_reply_to_user_id": "1448206950903255040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2003387203356070159",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_Shikieiki 會嘔吐嗎🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 860,
+        "media_key": "3_2003386884211548160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G811wb0bIAAJmKn.jpg",
+        "width": 1690
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634191700712390657",
+        "conversation_id": "2003387203356070159",
+        "created_at": "2026-01-01T11:56:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T12:56:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006696005799145645"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1448206950903255040",
+              "start": 0,
+              "username": "_Shikieiki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006696005799145645",
+        "in_reply_to_user_id": "1448206950903255040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2003387203356070159",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_Shikieiki 會嘔吐嗎🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2003386884211548160"
+          ]
+        },
+        "author_id": "1448206950903255040",
+        "conversation_id": "2003387203356070159",
+        "created_at": "2025-12-23T08:48:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-23T09:48:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2003387203356070159"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "用途： 美金刚最常见的用途是治疗阿尔茨海默病（老年痴呆症），特别是中度至重度阶段。它的目标是改善患者的认知功能、记忆力和生活能力。虽然不能完全治愈，但可以在一定程度上延缓疾病的进展~ 在娱乐方面，其通常被归类为解离剂。 剂量 【以60kg为标准】 医学剂量：5mg逐渐到20mg，每日一次 起效剂量：30mg+ 轻度剂量：30-70mg 中度剂量：70-110mg 高度剂量：110-150mg 重度...",
+              "display_url": "overdose.day/?post=267",
+              "end": 64,
+              "expanded_url": "http://www.overdose.day/?post=267",
+              "start": 41,
+              "status": 200,
+              "title": "美金刚",
+              "unwound_url": "https://www.overdose.day/?post=267",
+              "url": "https://t.co/7cAmwdPB0R"
+            },
+            {
+              "display_url": "pic.x.com/G2LTQrR4Cm",
+              "end": 88,
+              "expanded_url": "https://x.com/_Shikieiki/status/2003387203356070159/photo/1",
+              "media_key": "3_2003386884211548160",
+              "start": 65,
+              "url": "https://t.co/G2LTQrR4Cm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2003387203356070159",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 4141,
+          "like_count": 33,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "美金刚重写版 有兴趣的阔以看一看 有可以改进的地方/疑问可以向我提出！我会修改的\nhttps://t.co/7cAmwdPB0R https://t.co/G2LTQrR4Cm"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "ed/双相/重度焦虑/自伤/od\nbmi16.7 谢谢你来看我 感到不适自行屏蔽",
+        "id": "1634191700712390657",
+        "location": "月亮",
+        "name": "柊凜川",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005831507345297408/yo_BghPM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 97,
+          "like_count": 622,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 213
+        },
+        "username": "xiaozhongT_T",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-13T08:40:27.000Z",
+        "description": "四季大人我有罪啊啊啊啊",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shikieiki1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shikieiki1",
+                "start": 0,
+                "url": "https://t.co/Qn6EHYtmpP"
+              }
+            ]
+          }
+        },
+        "id": "1448206950903255040",
+        "location": "彼岸",
+        "name": "Shikieiki Yamaxanadu",
+        "pinned_tweet_id": "2003496567303766495",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1449781801912840192/JG7qKb04_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 481,
+          "like_count": 11991,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 665
+        },
+        "url": "https://t.co/Qn6EHYtmpP",
+        "username": "_Shikieiki",
+        "verified": false
+      }
+    ]
+  }
+}

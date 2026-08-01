@@ -1,0 +1,149 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1796999974661865472"
+      ]
+    },
+    "author_id": "1634191700712390657",
+    "conversation_id": "1796999995344015597",
+    "created_at": "2024-06-01T20:19:20.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-01T21:19:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1796999995344015597"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/NVTKNLcO2D",
+          "end": 23,
+          "expanded_url": "https://twitter.com/xiaozhongT_T/status/1796999995344015597/video/1",
+          "media_key": "7_1796999974661865472",
+          "start": 0,
+          "url": "https://t.co/NVTKNLcO2D"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1796999995344015597",
+    "lang": "zxx",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/NVTKNLcO2D"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5781,
+        "height": 1270,
+        "media_key": "7_1796999974661865472",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1796999974661865472/pu/img/g9gz3fnzlPj7y1Z4.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1796999974661865472/pu/vid/avc1/320x564/mLL7X-aLZoCm0ipd.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1796999974661865472/pu/vid/avc1/480x846/IFKDYWs9ISCOCGrA.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1796999974661865472/pu/vid/avc1/720x1270/30dAohftLgFQeDlc.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1796999974661865472/pu/pl/ohpdEttZw__hPHgJ.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1796999974661865472"
+          ]
+        },
+        "author_id": "1634191700712390657",
+        "conversation_id": "1796999995344015597",
+        "created_at": "2024-06-01T20:19:20.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-01T21:19:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1796999995344015597"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/NVTKNLcO2D",
+              "end": 23,
+              "expanded_url": "https://twitter.com/xiaozhongT_T/status/1796999995344015597/video/1",
+              "media_key": "7_1796999974661865472",
+              "start": 0,
+              "url": "https://t.co/NVTKNLcO2D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1796999995344015597",
+        "lang": "zxx",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/NVTKNLcO2D"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "三文魚是世界上最好吃的東西",
+        "id": "1634191700712390657",
+        "location": "月亮",
+        "name": "小柊",
+        "pinned_tweet_id": "1781353543435444261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784271167748292608/5ESxNbC6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46,
+          "following_count": 96,
+          "like_count": 428,
+          "listed_count": 0,
+          "tweet_count": 110
+        },
+        "username": "xiaozhongT_T",
+        "verified": false
+      }
+    ]
+  }
+}

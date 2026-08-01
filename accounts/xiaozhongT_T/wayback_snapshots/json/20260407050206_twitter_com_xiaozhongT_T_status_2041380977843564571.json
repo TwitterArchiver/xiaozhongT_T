@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634191700712390657",
+    "conversation_id": "2041277409991991300",
+    "created_at": "2026-04-07T05:02:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-07T06:02:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2041380977843564571"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1906009079182766080",
+          "start": 0,
+          "username": "9FPWlmvbGI47761"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2041380977843564571",
+    "in_reply_to_user_id": "1906009079182766080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041277409991991300",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@9FPWlmvbGI47761 喜欢你呢。。"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1000,
+        "media_key": "3_2041277406997262336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFQS_IwaMAAufuf.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634191700712390657",
+        "conversation_id": "2041277409991991300",
+        "created_at": "2026-04-07T05:02:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-07T06:02:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2041380977843564571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1906009079182766080",
+              "start": 0,
+              "username": "9FPWlmvbGI47761"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041380977843564571",
+        "in_reply_to_user_id": "1906009079182766080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041277409991991300",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@9FPWlmvbGI47761 喜欢你呢。。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2041277406997262336"
+          ]
+        },
+        "author_id": "1906009079182766080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2041277409991991300",
+        "created_at": "2026-04-06T22:10:34.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-06T23:10:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2041277409991991300"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This feature visually maps out your interactions, placing you in the center, with your closest interactions forming an inner circle, less frequent ones in the middle, and the occasional interactions in the outer circle.",
+              "display_url": "infinitetweet.me/interaction-ci…",
+              "end": 40,
+              "expanded_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "images": [
+                {
+                  "height": 1884,
+                  "url": "https://pbs.twimg.com/news_img/2040863149130452992/bvkh82yM?format=jpg&name=orig",
+                  "width": 3600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2040863149130452992/bvkh82yM?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 17,
+              "status": 200,
+              "title": "Interaction Circle • Infinitweet",
+              "unwound_url": "https://infinitetweet.me/interaction-circle?lang=zh",
+              "url": "https://t.co/lHZzQKDmQk"
+            },
+            {
+              "display_url": "pic.x.com/dmec75DiU5",
+              "end": 64,
+              "expanded_url": "https://x.com/9FPWlmvbGI47761/status/2041277409991991300/photo/1",
+              "media_key": "3_2041277406997262336",
+              "start": 41,
+              "url": "https://t.co/dmec75DiU5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2041277409991991300",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 56,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我的Twitter互动圈\n\n➡️ https://t.co/lHZzQKDmQk https://t.co/dmec75DiU5"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "08已成年已退学/欢迎收看家里蹲挂壁生活/焦虑焦虑焦虑/ed/od/你能碰到清醒的我该庆幸/单机搞oc",
+        "id": "1634191700712390657",
+        "location": "月亮",
+        "name": "柊檩川",
+        "pinned_tweet_id": "2038056405970657570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038818955574542336/QZb1rWM0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 252,
+          "following_count": 267,
+          "like_count": 1511,
+          "listed_count": 0,
+          "media_count": 68,
+          "tweet_count": 736
+        },
+        "username": "xiaozhongT_T",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-29T15:42:55.000Z",
+        "description": "06 ♂\nod自伤｜🚪52\n不回人机 目前已出院\n爱我就给我打钱 我喜欢你们",
+        "id": "1906009079182766080",
+        "location": "https://ngl.link/kiko65001",
+        "name": "ここ",
+        "pinned_tweet_id": "2039416206017397116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037583900877451264/MqnkQucN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 126,
+          "like_count": 1914,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 495
+        },
+        "username": "9FPWlmvbGI47761",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-29T15:42:55.000Z",
+        "description": "06 ♂\nod自伤｜🚪52\n不回人机 目前已出院\n爱我就给我打钱 我喜欢你们",
+        "id": "1906009079182766080",
+        "location": "https://ngl.link/kiko65001",
+        "name": "ここ",
+        "pinned_tweet_id": "2039416206017397116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037583900877451264/MqnkQucN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 100,
+          "following_count": 126,
+          "like_count": 1914,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 495
+        },
+        "username": "9FPWlmvbGI47761",
+        "verified": true
+      }
+    ]
+  }
+}

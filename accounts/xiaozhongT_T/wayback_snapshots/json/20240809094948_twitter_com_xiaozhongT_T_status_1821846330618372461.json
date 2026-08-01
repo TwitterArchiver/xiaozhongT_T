@@ -1,0 +1,122 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1821846314386120704",
+        "3_1821846326927355910"
+      ]
+    },
+    "author_id": "1634191700712390657",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "1821846330618372461",
+    "created_at": "2024-08-09T09:49:48.000Z",
+    "edit_controls": {
+      "editable_until": "2024-08-09T10:49:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1821846330618372461"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/0gznoymdfl",
+          "end": 29,
+          "expanded_url": "https://twitter.com/xiaozhongT_T/status/1821846330618372461/photo/1",
+          "media_key": "3_1821846314386120704",
+          "start": 6,
+          "url": "https://t.co/0gznoymdfl"
+        },
+        {
+          "display_url": "pic.x.com/0gznoymdfl",
+          "end": 29,
+          "expanded_url": "https://twitter.com/xiaozhongT_T/status/1821846330618372461/photo/1",
+          "media_key": "3_1821846326927355910",
+          "start": 6,
+          "url": "https://t.co/0gznoymdfl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1821846330618372461",
+    "lang": "zh",
+    "possibly_sensitive": true,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这是我和她 https://t.co/0gznoymdfl"
+  },
+  "errors": [
+    {
+      "detail": "Could not find tweet with edit_history_tweet_ids: [1821846330618372461].",
+      "parameter": "edit_history_tweet_ids",
+      "resource_id": "1821846330618372461",
+      "resource_type": "tweet",
+      "title": "Not Found Error",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "1821846330618372461"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1821846314386120704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GUh_kgRW4AAhBU9.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1821846326927355910",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GUh_lO_a8AYh3CP.jpg",
+        "width": 1536
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "刺身",
+        "id": "1634191700712390657",
+        "location": "月亮",
+        "name": "小柊",
+        "pinned_tweet_id": "1781353543435444261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784271167748292608/5ESxNbC6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 91,
+          "like_count": 428,
+          "listed_count": 0,
+          "tweet_count": 122
+        },
+        "username": "xiaozhongT_T",
+        "verified": false
+      }
+    ]
+  }
+}

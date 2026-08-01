@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634191700712390657",
+    "conversation_id": "2044053073908400142",
+    "created_at": "2026-04-14T14:00:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T15:00:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2044053073908400142"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/SenRui26166/st…",
+          "end": 93,
+          "expanded_url": "https://twitter.com/SenRui26166/status/2044044967438647534",
+          "start": 70,
+          "url": "https://t.co/xbXPhUAFcL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044053073908400142",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044044967438647534",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我看到这条不会抑郁只会觉得你是条疯狗，整天在互联网上发泄情绪找存在感好玩吗，实际上你耗尽你可悲的词汇量也根本无人在意你，和你现实生活中一样 https://t.co/xbXPhUAFcL"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634191700712390657",
+        "conversation_id": "2044053073908400142",
+        "created_at": "2026-04-14T14:00:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T15:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044053073908400142"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/SenRui26166/st…",
+              "end": 93,
+              "expanded_url": "https://twitter.com/SenRui26166/status/2044044967438647534",
+              "start": 70,
+              "url": "https://t.co/xbXPhUAFcL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044053073908400142",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044044967438647534",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我看到这条不会抑郁只会觉得你是条疯狗，整天在互联网上发泄情绪找存在感好玩吗，实际上你耗尽你可悲的词汇量也根本无人在意你，和你现实生活中一样 https://t.co/xbXPhUAFcL"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1864480554248491010",
+        "conversation_id": "2043759457688330268",
+        "created_at": "2026-04-14T13:27:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T14:27:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044044967438647534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1634191700712390657",
+              "start": 0,
+              "username": "xiaozhongT_T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044044967438647534",
+        "in_reply_to_user_id": "1634191700712390657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043759457688330268",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaozhongT_T 你妈了个你妈了个逼，你抑郁你就死，操你妈自杀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "向死而生\n我喜欢我的群友 @Alistai33955292 @luoaa_072  @bloodmeiii @O817Xiao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 13,
+                "username": "Alistai33955292"
+              },
+              {
+                "end": 40,
+                "start": 30,
+                "username": "luoaa_072"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "bloodmeiii"
+              },
+              {
+                "end": 63,
+                "start": 54,
+                "username": "O817Xiao"
+              }
+            ]
+          }
+        },
+        "id": "1634191700712390657",
+        "location": "月亮",
+        "name": "柊檩川",
+        "pinned_tweet_id": "2038056405970657570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043360211638104064/3rfknD6o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358,
+          "following_count": 318,
+          "like_count": 1979,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 918
+        },
+        "username": "xiaozhongT_T",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-05T01:23:33.000Z",
+        "description": "",
+        "id": "1864480554248491010",
+        "location": "Tsuen Wan District, Hong Kong",
+        "name": "ami",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900668996695060481/-sm9xmff_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 46,
+          "like_count": 4,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 13
+        },
+        "username": "SenRui26166",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "data": {
+    "attachments": {
+      "media_keys": [
+        "7_1797588136010375168"
+      ]
+    },
+    "author_id": "1634191700712390657",
+    "conversation_id": "1797588181145280690",
+    "created_at": "2024-06-03T11:16:34.000Z",
+    "edit_controls": {
+      "editable_until": "2024-06-03T12:16:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1797588181145280690"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 3,
+          "start": 0,
+          "tag": "自残"
+        },
+        {
+          "end": 7,
+          "start": 4,
+          "tag": "自傷"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.twitter.com/hIlwChYQUj",
+          "end": 31,
+          "expanded_url": "https://twitter.com/xiaozhongT_T/status/1797588181145280690/video/1",
+          "media_key": "7_1797588136010375168",
+          "start": 8,
+          "url": "https://t.co/hIlwChYQUj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1797588181145280690",
+    "lang": "qme",
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "#自残 #自傷 https://t.co/hIlwChYQUj"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19713,
+        "height": 720,
+        "media_key": "7_1797588136010375168",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1797588136010375168/pu/img/bHgoTuApP3OyzOES.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1797588136010375168/pu/vid/avc1/480x270/ArDraQQ_B8WU63-Z.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1797588136010375168/pu/vid/avc1/640x360/bQ26j5EDq4bafbr9.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1797588136010375168/pu/vid/avc1/1280x720/M3Hj3IsaCBqx4Pfd.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1797588136010375168/pu/pl/3qIph-abvthY1qEL.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "attachments": {
+          "media_keys": [
+            "7_1797588136010375168"
+          ]
+        },
+        "author_id": "1634191700712390657",
+        "conversation_id": "1797588181145280690",
+        "created_at": "2024-06-03T11:16:34.000Z",
+        "edit_controls": {
+          "editable_until": "2024-06-03T12:16:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1797588181145280690"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "自残"
+            },
+            {
+              "end": 7,
+              "start": 4,
+              "tag": "自傷"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.twitter.com/hIlwChYQUj",
+              "end": 31,
+              "expanded_url": "https://twitter.com/xiaozhongT_T/status/1797588181145280690/video/1",
+              "media_key": "7_1797588136010375168",
+              "start": 8,
+              "url": "https://t.co/hIlwChYQUj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1797588181145280690",
+        "lang": "qme",
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "#自残 #自傷 https://t.co/hIlwChYQUj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "刺身",
+        "id": "1634191700712390657",
+        "location": "月亮",
+        "name": "小柊",
+        "pinned_tweet_id": "1781353543435444261",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1784271167748292608/5ESxNbC6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 97,
+          "like_count": 438,
+          "listed_count": 0,
+          "tweet_count": 115
+        },
+        "username": "xiaozhongT_T",
+        "verified": false
+      }
+    ]
+  }
+}

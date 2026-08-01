@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634191700712390657",
+    "conversation_id": "2044332190444499223",
+    "created_at": "2026-04-16T02:57:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-16T03:57:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044611224021963178"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1906009079182766080",
+          "start": 0,
+          "username": "9FPWlmvbGI47761"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044611224021963178",
+    "in_reply_to_user_id": "1906009079182766080",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044513808908227044",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@9FPWlmvbGI47761 抱抱🫂🫂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634191700712390657",
+        "conversation_id": "2044332190444499223",
+        "created_at": "2026-04-16T02:57:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-16T03:57:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044611224021963178"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1906009079182766080",
+              "start": 0,
+              "username": "9FPWlmvbGI47761"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044611224021963178",
+        "in_reply_to_user_id": "1906009079182766080",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044513808908227044",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@9FPWlmvbGI47761 抱抱🫂🫂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1906009079182766080",
+        "conversation_id": "2044332190444499223",
+        "created_at": "2026-04-15T20:30:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T21:30:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044513808908227044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1634191700712390657",
+              "start": 0,
+              "username": "xiaozhongT_T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044513808908227044",
+        "in_reply_to_user_id": "1634191700712390657",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044332190444499223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaozhongT_T 抱抱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "向死而生\n我喜欢我的群友 @Alistai33955292 @luoaa_072 @bloodmeiii @O817Xiao @usiisjkj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 13,
+                "username": "Alistai33955292"
+              },
+              {
+                "end": 40,
+                "start": 30,
+                "username": "luoaa_072"
+              },
+              {
+                "end": 52,
+                "start": 41,
+                "username": "bloodmeiii"
+              },
+              {
+                "end": 62,
+                "start": 53,
+                "username": "O817Xiao"
+              },
+              {
+                "end": 72,
+                "start": 63,
+                "username": "usiisjkj"
+              }
+            ]
+          }
+        },
+        "id": "1634191700712390657",
+        "location": "月亮",
+        "name": "柊檩川",
+        "pinned_tweet_id": "2038056405970657570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043360211638104064/3rfknD6o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 348,
+          "like_count": 2055,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 992
+        },
+        "username": "xiaozhongT_T",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-29T15:42:55.000Z",
+        "description": "06 ♂\nod自伤｜🚪52\n不回人机 目前已出院\n爱我就给我打钱 我喜欢你们",
+        "id": "1906009079182766080",
+        "location": "https://ngl.link/kiko65001",
+        "name": "ここ",
+        "pinned_tweet_id": "2039416206017397116",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037583900877451264/MqnkQucN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 105,
+          "following_count": 139,
+          "like_count": 2290,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 576
+        },
+        "username": "9FPWlmvbGI47761",
+        "verified": false
+      }
+    ]
+  }
+}

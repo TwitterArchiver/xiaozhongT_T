@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634191700712390657",
+    "conversation_id": "1859479092434960831",
+    "created_at": "2024-11-21T06:08:57.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-21T07:08:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1859479092434960831"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Ashui_111/stat…",
+          "end": 46,
+          "expanded_url": "https://twitter.com/Ashui_111/status/1859437809117036810",
+          "start": 23,
+          "url": "https://t.co/5qfpTaIHOQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1859479092434960831",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1859437809117036810",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这人就这样说自己要蛋断我说那你一天不得十八个 https://t.co/5qfpTaIHOQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634191700712390657",
+        "conversation_id": "1859479092434960831",
+        "created_at": "2024-11-21T06:08:57.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-21T07:08:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1859479092434960831"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Ashui_111/stat…",
+              "end": 46,
+              "expanded_url": "https://twitter.com/Ashui_111/status/1859437809117036810",
+              "start": 23,
+              "url": "https://t.co/5qfpTaIHOQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1859479092434960831",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1859437809117036810",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这人就这样说自己要蛋断我说那你一天不得十八个 https://t.co/5qfpTaIHOQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1717106260422918144",
+        "conversation_id": "1859437809117036810",
+        "created_at": "2024-11-21T03:24:55.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-21T04:24:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1859437809117036810"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1859437809117036810",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 101,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "听说吃鸡蛋可以减肥但是我一口气能吃六个鸡蛋啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "因果轮回",
+        "id": "1634191700712390657",
+        "location": "月亮",
+        "name": "小柊",
+        "pinned_tweet_id": "1821884366450270637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821858196006547456/9fV5LbJh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 92,
+          "like_count": 488,
+          "listed_count": 0,
+          "tweet_count": 150
+        },
+        "username": "xiaozhongT_T",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-25T09:10:47.000Z",
+        "description": "那就叫我阿水吧",
+        "id": "1717106260422918144",
+        "location": "՞⸝⸝'ᜊ'⸝⸝՞  ",
+        "name": "沝",
+        "pinned_tweet_id": "1801951684719231169",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1780674423558959106/ew9zeLIx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6111,
+          "following_count": 176,
+          "like_count": 1855,
+          "listed_count": 18,
+          "tweet_count": 2001
+        },
+        "username": "Ashui_111",
+        "verified": false
+      }
+    ]
+  }
+}

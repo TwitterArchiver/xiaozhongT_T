@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634191700712390657",
+    "conversation_id": "2043891973246070790",
+    "created_at": "2026-04-14T08:51:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-14T09:51:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043975446753357952"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1599377355503726592",
+          "start": 0,
+          "username": "bloodmeiii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043975446753357952",
+    "in_reply_to_user_id": "1599377355503726592",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2043891973246070790",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bloodmeiii 你就是我的婆娘。"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 28866,
+        "height": 1280,
+        "media_key": "13_2043891851602898944",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2043891851602898944/img/Kx6uEIhleiFBQqx9.jpg",
+        "public_metrics": {
+          "view_count": 36
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043891851602898944/vid/avc1/320x568/PTi4bOKjwCrqNEzj.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043891851602898944/vid/avc1/480x852/_bLz-EWqoYCAYx3N.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2043891851602898944/vid/avc1/720x1280/qve9YIL8AT_OrlnW.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2043891851602898944/pl/7W396WkTrNLtStzp.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634191700712390657",
+        "conversation_id": "2043891973246070790",
+        "created_at": "2026-04-14T08:51:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T09:51:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043975446753357952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1599377355503726592",
+              "start": 0,
+              "username": "bloodmeiii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043975446753357952",
+        "in_reply_to_user_id": "1599377355503726592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2043891973246070790",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bloodmeiii 你就是我的婆娘。"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2043891851602898944"
+          ]
+        },
+        "author_id": "1599377355503726592",
+        "conversation_id": "2043891973246070790",
+        "created_at": "2026-04-14T03:19:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-14T04:19:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2043891973246070790"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V1FgCwly4l",
+              "end": 27,
+              "expanded_url": "https://x.com/bloodmeiii/status/2043891973246070790/video/1",
+              "media_key": "13_2043891851602898944",
+              "start": 4,
+              "url": "https://t.co/V1FgCwly4l"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043891973246070790",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 117,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "TvT https://t.co/V1FgCwly4l"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "向死而生\n我喜欢我的群友 @Alistai33955292 @luoaa_072  @bloodmeiii @O817Xiao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 13,
+                "username": "Alistai33955292"
+              },
+              {
+                "end": 40,
+                "start": 30,
+                "username": "luoaa_072"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "bloodmeiii"
+              },
+              {
+                "end": 63,
+                "start": 54,
+                "username": "O817Xiao"
+              }
+            ]
+          }
+        },
+        "id": "1634191700712390657",
+        "location": "月亮",
+        "name": "柊檩川",
+        "pinned_tweet_id": "2038056405970657570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043360211638104064/3rfknD6o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 316,
+          "like_count": 1950,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 899
+        },
+        "username": "xiaozhongT_T",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-04T12:17:45.000Z",
+        "description": "我是小莓🍓｜07重抑中焦ed｜互fo欢迎｜🚪50纯绿｜@DEnyoffshshsh爱你",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 27,
+                "username": "DEnyoffshshsh"
+              }
+            ]
+          }
+        },
+        "id": "1599377355503726592",
+        "name": "meiii",
+        "pinned_tweet_id": "2037903436201734285",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042784820842070016/X6oTAHP0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 422,
+          "like_count": 1481,
+          "listed_count": 0,
+          "media_count": 199,
+          "tweet_count": 1950
+        },
+        "username": "bloodmeiii",
+        "verified": false
+      }
+    ]
+  }
+}

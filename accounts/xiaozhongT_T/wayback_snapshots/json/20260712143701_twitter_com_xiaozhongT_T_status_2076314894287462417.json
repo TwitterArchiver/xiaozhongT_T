@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634191700712390657",
+    "conversation_id": "2076314894287462417",
+    "created_at": "2026-07-12T14:37:01.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T15:37:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076314894287462417"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1652985793290604545",
+          "start": 3,
+          "username": "TuTri77"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076314894287462417",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 112
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075910396754428193",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @TuTri77: 抱歉女士，你因为手上有疤，这边判定你为没有抗压能力且情绪极端，社会已经不需要你了，进厂都没门，你去跳楼吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634191700712390657",
+        "conversation_id": "2076314894287462417",
+        "created_at": "2026-07-12T14:37:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T15:37:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076314894287462417"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1652985793290604545",
+              "start": 3,
+              "username": "TuTri77"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076314894287462417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 112
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075910396754428193",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @TuTri77: 抱歉女士，你因为手上有疤，这边判定你为没有抗压能力且情绪极端，社会已经不需要你了，进厂都没门，你去跳楼吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1652985793290604545",
+        "conversation_id": "2075910396754428193",
+        "created_at": "2026-07-11T11:49:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T12:49:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075910396754428193"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075910396754428193",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 27512,
+          "like_count": 813,
+          "quote_count": 7,
+          "reply_count": 53,
+          "retweet_count": 112
+        },
+        "reply_settings": "everyone",
+        "text": "抱歉女士，你因为手上有疤，这边判定你为没有抗压能力且情绪极端，社会已经不需要你了，进厂都没门，你去跳楼吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "向死而生\n我喜欢我的群友 @Alistai33955292 @luoaa_072 @meiiiTVT @O817Xiao @usiisjkj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 13,
+                "username": "Alistai33955292"
+              },
+              {
+                "end": 40,
+                "start": 30,
+                "username": "luoaa_072"
+              },
+              {
+                "end": 50,
+                "start": 41,
+                "username": "meiiiTVT"
+              },
+              {
+                "end": 60,
+                "start": 51,
+                "username": "O817Xiao"
+              },
+              {
+                "end": 70,
+                "start": 61,
+                "username": "usiisjkj"
+              }
+            ]
+          }
+        },
+        "id": "1634191700712390657",
+        "location": "月亮",
+        "name": "柊檩川",
+        "pinned_tweet_id": "2038056405970657570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071841145642971136/VofFVqfi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 510,
+          "following_count": 401,
+          "like_count": 2111,
+          "listed_count": 1,
+          "media_count": 129,
+          "tweet_count": 1264
+        },
+        "url": "",
+        "username": "xiaozhongT_T",
+        "verified": true
+      },
+      {
+        "created_at": "2023-05-01T10:38:28.000Z",
+        "description": "世界是孕育痛苦的子宫 https://t.co/TmlcYNAd4j",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nini96993",
+                "end": 34,
+                "expanded_url": "https://ngl.link/nini96993",
+                "start": 11,
+                "url": "https://t.co/TmlcYNAd4j"
+              }
+            ]
+          }
+        },
+        "id": "1652985793290604545",
+        "location": "🚪88纯绿",
+        "name": "nini",
+        "pinned_tweet_id": "2073017263624687782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058929674445811712/AaZ5P8FQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12371,
+          "following_count": 267,
+          "like_count": 3429,
+          "listed_count": 22,
+          "media_count": 611,
+          "tweet_count": 2597
+        },
+        "url": "",
+        "username": "TuTri77",
+        "verified": false
+      }
+    ]
+  }
+}

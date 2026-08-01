@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634191700712390657",
+    "conversation_id": "2038056405970657570",
+    "created_at": "2026-04-01T07:34:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-01T08:34:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039245119203979521"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2029854517685284864",
+          "start": 0,
+          "username": "d0llface_shioko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039245119203979521",
+    "in_reply_to_user_id": "2029854517685284864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039225399918637432",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@d0llface_shioko 好呀好呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634191700712390657",
+        "conversation_id": "2038056405970657570",
+        "created_at": "2026-04-01T07:34:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T08:34:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039245119203979521"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2029854517685284864",
+              "start": 0,
+              "username": "d0llface_shioko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039245119203979521",
+        "in_reply_to_user_id": "2029854517685284864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039225399918637432",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@d0llface_shioko 好呀好呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029854517685284864",
+        "conversation_id": "2038056405970657570",
+        "created_at": "2026-04-01T06:16:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-01T07:16:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039225399918637432"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1634191700712390657",
+              "start": 0,
+              "username": "xiaozhongT_T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039225399918637432",
+        "in_reply_to_user_id": "1634191700712390657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038056405970657570",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaozhongT_T 你好萌呀, 可以申請嗎？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "「我不奢求你会说爱我，只要轻轻抱着我就好」",
+        "id": "1634191700712390657",
+        "location": "月亮",
+        "name": "柊凜川",
+        "pinned_tweet_id": "2038056405970657570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038818955574542336/QZb1rWM0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 211,
+          "like_count": 1079,
+          "listed_count": 0,
+          "media_count": 53,
+          "tweet_count": 529
+        },
+        "username": "xiaozhongT_T",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-06T09:40:17.000Z",
+        "description": "#刃 ♡ #地雷系 ♡ #夢女 ♡‧₊˚ ┊❤︎ INTERNET ANGEL | 中文/日本語/ENG #hsrtwt #arttwt #studytwt⁺˖ ⸝⸝ insta/discord: d0llface_shioko ⁺໒꒱ི༝ priv: @shios_archive ꒱ིྀ༝⁺",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 2,
+                "start": 0,
+                "tag": "刃"
+              },
+              {
+                "end": 9,
+                "start": 5,
+                "tag": "地雷系"
+              },
+              {
+                "end": 15,
+                "start": 12,
+                "tag": "夢女"
+              },
+              {
+                "end": 60,
+                "start": 53,
+                "tag": "hsrtwt"
+              },
+              {
+                "end": 68,
+                "start": 61,
+                "tag": "arttwt"
+              },
+              {
+                "end": 78,
+                "start": 69,
+                "tag": "studytwt"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 141,
+                "start": 127,
+                "username": "shios_archive"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/d0llface_shioko",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/d0llface_shioko",
+                "start": 0,
+                "url": "https://t.co/mI2hDEu6DK"
+              }
+            ]
+          }
+        },
+        "id": "2029854517685284864",
+        "location": "internet heaven | 🇭🇰",
+        "name": "SHIOKO/刃の愛 ☆‧₊˚",
+        "pinned_tweet_id": "2030530682930466982",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029854930283139072/VFet0LK7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1653,
+          "following_count": 998,
+          "like_count": 2097,
+          "listed_count": 28,
+          "media_count": 180,
+          "tweet_count": 1085
+        },
+        "url": "https://t.co/mI2hDEu6DK",
+        "username": "d0llface_shioko",
+        "verified": false
+      }
+    ]
+  }
+}

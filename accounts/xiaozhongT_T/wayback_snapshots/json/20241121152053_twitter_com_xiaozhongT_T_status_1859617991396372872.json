@@ -1,0 +1,93 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634191700712390657",
+    "conversation_id": "1859617991396372872",
+    "created_at": "2024-11-21T15:20:53.000Z",
+    "edit_controls": {
+      "editable_until": "2024-11-21T16:20:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1859617991396372872"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "1859617991396372872",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "小鸟是我遇见过的最好最好的，女孩子。和朋友聊起跨的逆天作为的时候总会想起他，然后插嘴加上句其实跨也不全是这样，她真的很好很好。\n几乎从我刚进推就陪在我身边，见证了这么多个时期，帮助了这么多人，即使只是互关，也完全不一样了\n就算病推最后要么注销要么自杀，我也希望听说你的时候只是撞名。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634191700712390657",
+        "conversation_id": "1859617991396372872",
+        "created_at": "2024-11-21T15:20:53.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-21T16:20:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1859617991396372872"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1859617991396372872",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小鸟是我遇见过的最好最好的，女孩子。和朋友聊起跨的逆天作为的时候总会想起他，然后插嘴加上句其实跨也不全是这样，她真的很好很好。\n几乎从我刚进推就陪在我身边，见证了这么多个时期，帮助了这么多人，即使只是互关，也完全不一样了\n就算病推最后要么注销要么自杀，我也希望听说你的时候只是撞名。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "因果轮回",
+        "id": "1634191700712390657",
+        "location": "月亮",
+        "name": "小柊",
+        "pinned_tweet_id": "1821884366450270637",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1821858196006547456/9fV5LbJh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 92,
+          "like_count": 497,
+          "listed_count": 0,
+          "tweet_count": 146
+        },
+        "username": "xiaozhongT_T",
+        "verified": false
+      }
+    ]
+  }
+}

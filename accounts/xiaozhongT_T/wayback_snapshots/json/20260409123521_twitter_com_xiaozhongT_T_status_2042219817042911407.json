@@ -1,0 +1,239 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634191700712390657",
+    "conversation_id": "2042190813686534221",
+    "created_at": "2026-04-09T12:35:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-09T13:35:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042219817042911407"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1691273370858401792",
+          "start": 0,
+          "username": "ge_qiang1582"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042219817042911407",
+    "in_reply_to_user_id": "1691273370858401792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042194692692124150",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ge_qiang1582 我喜欢你。。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634191700712390657",
+        "conversation_id": "2042190813686534221",
+        "created_at": "2026-04-09T12:35:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T13:35:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042219817042911407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1691273370858401792",
+              "start": 0,
+              "username": "ge_qiang1582"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042219817042911407",
+        "in_reply_to_user_id": "1691273370858401792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042194692692124150",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ge_qiang1582 我喜欢你。。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1691273370858401792",
+        "conversation_id": "2042190813686534221",
+        "created_at": "2026-04-09T10:55:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-09T11:55:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042194692692124150"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1634191700712390657",
+              "start": 0,
+              "username": "xiaozhongT_T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042194692692124150",
+        "in_reply_to_user_id": "1634191700712390657",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042190813686534221",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaozhongT_T 萌萌～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "08已成年已退学家里蹲挂壁中/ed/od/骂我先连坐@Alistai33955292 @luoaa_072  @Nanaovo14/单机搞oc",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 26,
+                "username": "Alistai33955292"
+              },
+              {
+                "end": 53,
+                "start": 43,
+                "username": "luoaa_072"
+              },
+              {
+                "end": 65,
+                "start": 55,
+                "username": "Nanaovo14"
+              }
+            ]
+          }
+        },
+        "id": "1634191700712390657",
+        "location": "月亮",
+        "name": "柊檩川",
+        "pinned_tweet_id": "2038056405970657570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038818955574542336/QZb1rWM0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 319,
+          "following_count": 306,
+          "like_count": 1583,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 780
+        },
+        "username": "xiaozhongT_T",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-15T02:19:40.000Z",
+        "description": "我猜有个小可爱正在看鸽鸽的简介♡=•ㅅ＜=)欢迎光临鸽鸽的日记（其实还是更喜欢你们叫我小强），私信找我互fo喵，爱你们～❤️ 美好人格@gg45174157",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 67,
+                "username": "gg45174157"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pigeon44697",
+                "end": 23,
+                "expanded_url": "http://ngl.link/pigeon44697",
+                "start": 0,
+                "url": "https://t.co/BTRO9KOYFi"
+              }
+            ]
+          }
+        },
+        "id": "1691273370858401792",
+        "location": "啊",
+        "name": "鸽鸽（小强邪恶版）",
+        "pinned_tweet_id": "2028130382369976413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028379780253646848/YFtLQRiW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 195,
+          "following_count": 215,
+          "like_count": 399,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 434
+        },
+        "url": "https://t.co/BTRO9KOYFi",
+        "username": "ge_qiang1582",
+        "verified": false
+      }
+    ]
+  }
+}

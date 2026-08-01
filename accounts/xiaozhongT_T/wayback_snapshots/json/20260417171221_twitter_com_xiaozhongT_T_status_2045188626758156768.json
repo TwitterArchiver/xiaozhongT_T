@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634191700712390657",
+    "conversation_id": "2045105013635383456",
+    "created_at": "2026-04-17T17:12:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T18:12:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045188626758156768"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1766377133558169600",
+          "start": 0,
+          "username": "oxygen_alive"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045188626758156768",
+    "in_reply_to_user_id": "1766377133558169600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045179520379215997",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@oxygen_alive 我已严肃婉拒 不申请这个逼证了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634191700712390657",
+        "conversation_id": "2045105013635383456",
+        "created_at": "2026-04-17T17:12:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T18:12:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045188626758156768"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1766377133558169600",
+              "start": 0,
+              "username": "oxygen_alive"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045188626758156768",
+        "in_reply_to_user_id": "1766377133558169600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045179520379215997",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@oxygen_alive 我已严肃婉拒 不申请这个逼证了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766377133558169600",
+        "conversation_id": "2045105013635383456",
+        "created_at": "2026-04-17T16:36:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T17:36:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045179520379215997"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1634191700712390657",
+              "start": 0,
+              "username": "xiaozhongT_T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045179520379215997",
+        "in_reply_to_user_id": "1634191700712390657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045105013635383456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaozhongT_T 會有記錄以後做一些事情好像會有限制 而且給的也不多 還是謹慎思考一下吧"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "向死而生\n我喜欢我的群友 @Alistai33955292 @luoaa_072 @bloodmeiii @O817Xiao @usiisjkj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 13,
+                "username": "Alistai33955292"
+              },
+              {
+                "end": 40,
+                "start": 30,
+                "username": "luoaa_072"
+              },
+              {
+                "end": 52,
+                "start": 41,
+                "username": "bloodmeiii"
+              },
+              {
+                "end": 62,
+                "start": 53,
+                "username": "O817Xiao"
+              },
+              {
+                "end": 72,
+                "start": 63,
+                "username": "usiisjkj"
+              }
+            ]
+          }
+        },
+        "id": "1634191700712390657",
+        "location": "月亮",
+        "name": "柊檩川",
+        "pinned_tweet_id": "2038056405970657570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043360211638104064/3rfknD6o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 428,
+          "following_count": 369,
+          "like_count": 2124,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 1080
+        },
+        "username": "xiaozhongT_T",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-09T08:15:16.000Z",
+        "description": "謹慎關注｜我很溫良的｜私信關了｜不喜歡和別人爭吵 ｜社恐焦慮抑鬱｜English 普通话 粵語｜泛性戀｜喜愛幻覺 我需要靈感｜ 🍐🚗🍎| 精神狀態很差 #shwtw 只發在ig上｜🇯🇵🇺🇸🇭🇰🇹🇼",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 82,
+                "start": 76,
+                "tag": "shwtw"
+              }
+            ]
+          }
+        },
+        "id": "1766377133558169600",
+        "location": "New York, USA",
+        "name": "Oxygen",
+        "pinned_tweet_id": "2032122336430952528",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1982837060957343744/EO8vzeLz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 825,
+          "like_count": 17374,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 294
+        },
+        "username": "oxygen_alive",
+        "verified": false
+      }
+    ]
+  }
+}

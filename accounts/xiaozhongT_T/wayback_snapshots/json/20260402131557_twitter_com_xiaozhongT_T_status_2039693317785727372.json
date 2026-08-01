@@ -1,0 +1,396 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2039693308205875200",
+        "3_2039693311053864960",
+        "3_2039693314795184128",
+        "3_2039693313411043328"
+      ]
+    },
+    "author_id": "1634191700712390657",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2039693317785727372",
+    "created_at": "2026-04-02T13:15:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-02T14:15:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2039693317785727372"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 30,
+          "id": "1714008587012612097",
+          "start": 16,
+          "username": "angelkawaii2P"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/tve6mD4tL7",
+          "end": 63,
+          "expanded_url": "https://x.com/xiaozhongT_T/status/2039693317785727372/photo/1",
+          "media_key": "3_2039693308205875200",
+          "start": 40,
+          "url": "https://t.co/tve6mD4tL7"
+        },
+        {
+          "display_url": "pic.x.com/tve6mD4tL7",
+          "end": 63,
+          "expanded_url": "https://x.com/xiaozhongT_T/status/2039693317785727372/photo/1",
+          "media_key": "3_2039693311053864960",
+          "start": 40,
+          "url": "https://t.co/tve6mD4tL7"
+        },
+        {
+          "display_url": "pic.x.com/tve6mD4tL7",
+          "end": 63,
+          "expanded_url": "https://x.com/xiaozhongT_T/status/2039693317785727372/photo/1",
+          "media_key": "3_2039693314795184128",
+          "start": 40,
+          "url": "https://t.co/tve6mD4tL7"
+        },
+        {
+          "display_url": "pic.x.com/tve6mD4tL7",
+          "end": 63,
+          "expanded_url": "https://x.com/xiaozhongT_T/status/2039693317785727372/photo/1",
+          "media_key": "3_2039693313411043328",
+          "start": 40,
+          "url": "https://t.co/tve6mD4tL7"
+        },
+        {
+          "display_url": "x.com/xiaozhongT_T/s…",
+          "end": 87,
+          "expanded_url": "https://twitter.com/xiaozhongT_T/status/2039684193698124151",
+          "start": 64,
+          "url": "https://t.co/HLA8e5w5uf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039693317785727372",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039684193698124151",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "甘い没办法领奖所以这个名额随到了@angelkawaii2P ovo已全部发完 https://t.co/tve6mD4tL7 https://t.co/HLA8e5w5uf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1988,
+        "media_key": "3_2039693308205875200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE5yQc5aQAA6NLQ.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1461,
+        "media_key": "3_2039693311053864960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE5yQngbIAAO7cx.jpg",
+        "width": 1080
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2039693314795184128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE5yQ1cbIAAPm6b.jpg",
+        "width": 964
+      },
+      {
+        "height": 1102,
+        "media_key": "3_2039693313411043328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE5yQwSa0AAW5Y6.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1515,
+        "media_key": "3_2039684191399575552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HE5p9yJaAAAzX-K.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039693308205875200",
+            "3_2039693311053864960",
+            "3_2039693314795184128",
+            "3_2039693313411043328"
+          ]
+        },
+        "author_id": "1634191700712390657",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2039693317785727372",
+        "created_at": "2026-04-02T13:15:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T14:15:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039693317785727372"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 30,
+              "id": "1714008587012612097",
+              "start": 16,
+              "username": "angelkawaii2P"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/tve6mD4tL7",
+              "end": 63,
+              "expanded_url": "https://x.com/xiaozhongT_T/status/2039693317785727372/photo/1",
+              "media_key": "3_2039693308205875200",
+              "start": 40,
+              "url": "https://t.co/tve6mD4tL7"
+            },
+            {
+              "display_url": "pic.x.com/tve6mD4tL7",
+              "end": 63,
+              "expanded_url": "https://x.com/xiaozhongT_T/status/2039693317785727372/photo/1",
+              "media_key": "3_2039693311053864960",
+              "start": 40,
+              "url": "https://t.co/tve6mD4tL7"
+            },
+            {
+              "display_url": "pic.x.com/tve6mD4tL7",
+              "end": 63,
+              "expanded_url": "https://x.com/xiaozhongT_T/status/2039693317785727372/photo/1",
+              "media_key": "3_2039693314795184128",
+              "start": 40,
+              "url": "https://t.co/tve6mD4tL7"
+            },
+            {
+              "display_url": "pic.x.com/tve6mD4tL7",
+              "end": 63,
+              "expanded_url": "https://x.com/xiaozhongT_T/status/2039693317785727372/photo/1",
+              "media_key": "3_2039693313411043328",
+              "start": 40,
+              "url": "https://t.co/tve6mD4tL7"
+            },
+            {
+              "display_url": "x.com/xiaozhongT_T/s…",
+              "end": 87,
+              "expanded_url": "https://twitter.com/xiaozhongT_T/status/2039684193698124151",
+              "start": 64,
+              "url": "https://t.co/HLA8e5w5uf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039693317785727372",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039684193698124151",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "甘い没办法领奖所以这个名额随到了@angelkawaii2P ovo已全部发完 https://t.co/tve6mD4tL7 https://t.co/HLA8e5w5uf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2039684191399575552"
+          ]
+        },
+        "author_id": "1634191700712390657",
+        "conversation_id": "2039684193698124151",
+        "created_at": "2026-04-02T12:39:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-02T13:39:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039684193698124151"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1522862031795372032",
+              "start": 6,
+              "username": "Alouette_zzz"
+            },
+            {
+              "end": 31,
+              "id": "1599377355503726592",
+              "start": 20,
+              "username": "bloodmeiii"
+            },
+            {
+              "end": 41,
+              "id": "1812304729432838144",
+              "start": 32,
+              "username": "huimu420"
+            },
+            {
+              "end": 57,
+              "id": "1914994498440253440",
+              "start": 42,
+              "username": "WeiJackal69885"
+            },
+            {
+              "end": 71,
+              "id": "2037776208436269056",
+              "start": 58,
+              "username": "CEtoilet8360"
+            },
+            {
+              "end": 79,
+              "id": "1958519029313748992",
+              "start": 72,
+              "username": "ziye6C"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HA30cZRNTG",
+              "end": 131,
+              "expanded_url": "https://x.com/xiaozhongT_T/status/2039684193698124151/photo/1",
+              "media_key": "3_2039684191399575552",
+              "start": 108,
+              "url": "https://t.co/HA30cZRNTG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039684193698124151",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 97,
+          "like_count": 6,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "最后中奖的是@Alouette_zzz @bloodmeiii @huimu420 @WeiJackal69885 @CEtoilet8360 @ziye6C ！！主页有收款码的我会稍后打款，没有的话请主动私信我呀 https://t.co/HA30cZRNTG"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "「我不奢求你会说爱我，只要轻轻抱着我就好」",
+        "id": "1634191700712390657",
+        "location": "月亮",
+        "name": "柊凜川",
+        "pinned_tweet_id": "2038056405970657570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2038818955574542336/QZb1rWM0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 241,
+          "like_count": 1270,
+          "listed_count": 0,
+          "media_count": 63,
+          "tweet_count": 637
+        },
+        "username": "xiaozhongT_T",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-16T20:01:18.000Z",
+        "description": "",
+        "id": "1714008587012612097",
+        "location": "天国",
+        "name": "天国ナミダ",
+        "pinned_tweet_id": "2039170935308296533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039537706737528832/pY9ONXFY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 403,
+          "following_count": 254,
+          "like_count": 1289,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 1723
+        },
+        "username": "angelkawaii2P",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_2037998135424004096"
+      ]
+    },
+    "author_id": "1634191700712390657",
+    "conversation_id": "2037998181250937225",
+    "created_at": "2026-03-28T21:00:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-28T22:00:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2037998181250937225"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/q3lPUaKvku",
+          "end": 30,
+          "expanded_url": "https://x.com/xiaozhongT_T/status/2037998181250937225/video/1",
+          "media_key": "7_2037998135424004096",
+          "start": 7,
+          "url": "https://t.co/q3lPUaKvku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2037998181250937225",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "很久之前拍的 https://t.co/q3lPUaKvku"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2368,
+        "height": 960,
+        "media_key": "7_2037998135424004096",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2037998135424004096/pu/img/qCv5hYxMPeJl_9uq.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2037998135424004096/pu/vid/avc1/320x426/RObxspp-DIrMEohv.mp4?tag=12"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2037998135424004096/pu/vid/avc1/480x640/1e9jZMNO1hnWttAG.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2037998135424004096/pu/vid/avc1/720x960/h5aUUiWqCHBMqPPY.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2037998135424004096/pu/pl/gDeFYBHPQuDHLt1N.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2037998135424004096"
+          ]
+        },
+        "author_id": "1634191700712390657",
+        "conversation_id": "2037998181250937225",
+        "created_at": "2026-03-28T21:00:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-28T22:00:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2037998181250937225"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/q3lPUaKvku",
+              "end": 30,
+              "expanded_url": "https://x.com/xiaozhongT_T/status/2037998181250937225/video/1",
+              "media_key": "7_2037998135424004096",
+              "start": 7,
+              "url": "https://t.co/q3lPUaKvku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037998181250937225",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很久之前拍的 https://t.co/q3lPUaKvku"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "ed/双相/重度焦虑/自伤/od\n谢谢你来看我 感到不适自行屏蔽",
+        "id": "1634191700712390657",
+        "location": "月亮",
+        "name": "柊凜川",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008184978421456896/6a-QtTVc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 120,
+          "like_count": 632,
+          "listed_count": 0,
+          "media_count": 34,
+          "tweet_count": 274
+        },
+        "username": "xiaozhongT_T",
+        "verified": false
+      }
+    ]
+  }
+}

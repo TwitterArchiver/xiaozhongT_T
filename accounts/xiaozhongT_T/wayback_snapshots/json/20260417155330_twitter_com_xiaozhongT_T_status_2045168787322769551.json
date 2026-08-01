@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634191700712390657",
+    "conversation_id": "2045105013635383456",
+    "created_at": "2026-04-17T15:53:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-17T16:53:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2045168787322769551"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1935582910217912320",
+          "start": 0,
+          "username": "ameyorui"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2045168787322769551",
+    "in_reply_to_user_id": "1935582910217912320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045167584421855592",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ameyorui 这样吗！那看来还是算了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634191700712390657",
+        "conversation_id": "2045105013635383456",
+        "created_at": "2026-04-17T15:53:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T16:53:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045168787322769551"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1935582910217912320",
+              "start": 0,
+              "username": "ameyorui"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045168787322769551",
+        "in_reply_to_user_id": "1935582910217912320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045167584421855592",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ameyorui 这样吗！那看来还是算了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1935582910217912320",
+        "conversation_id": "2045105013635383456",
+        "created_at": "2026-04-17T15:48:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-17T16:48:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2045167584421855592"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1634191700712390657",
+              "start": 0,
+              "username": "xiaozhongT_T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2045167584421855592",
+        "in_reply_to_user_id": "1634191700712390657",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045105013635383456",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaozhongT_T 精神残证评的蛮严的，而且只有确诊了法律条文上的六类重型精神疾病的才给办，而且会记入个人档案，收到管制也多。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "向死而生\n我喜欢我的群友 @Alistai33955292 @luoaa_072 @bloodmeiii @O817Xiao @usiisjkj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 13,
+                "username": "Alistai33955292"
+              },
+              {
+                "end": 40,
+                "start": 30,
+                "username": "luoaa_072"
+              },
+              {
+                "end": 52,
+                "start": 41,
+                "username": "bloodmeiii"
+              },
+              {
+                "end": 62,
+                "start": 53,
+                "username": "O817Xiao"
+              },
+              {
+                "end": 72,
+                "start": 63,
+                "username": "usiisjkj"
+              }
+            ]
+          }
+        },
+        "id": "1634191700712390657",
+        "location": "月亮",
+        "name": "柊檩川",
+        "pinned_tweet_id": "2038056405970657570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043360211638104064/3rfknD6o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 424,
+          "following_count": 368,
+          "like_count": 2106,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 1062
+        },
+        "username": "xiaozhongT_T",
+        "verified": true
+      },
+      {
+        "created_at": "2025-06-19T06:19:07.000Z",
+        "description": "在虚无与幻灭中刻下属于自己的痕迹吧。🌿一只无性人偶🍃＆ 澄澈/荒诞/凄美/交融/戏剧性缥缈♬ 东方厨☯️ 🍥与你相遇亦是缘☘️ (欢迎互fo哦 ps偶尔发病) 小天使@zhoyuluo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 92,
+                "start": 83,
+                "username": "zhoyuluo"
+              }
+            ]
+          }
+        },
+        "id": "1935582910217912320",
+        "location": "彼岸乐园",
+        "name": "雨夜兰陵行路人🫒",
+        "pinned_tweet_id": "2034518955495391385",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040816897239986176/VApJ6kiI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 146,
+          "following_count": 2758,
+          "like_count": 22024,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 1131
+        },
+        "username": "ameyorui",
+        "verified": false
+      }
+    ]
+  }
+}

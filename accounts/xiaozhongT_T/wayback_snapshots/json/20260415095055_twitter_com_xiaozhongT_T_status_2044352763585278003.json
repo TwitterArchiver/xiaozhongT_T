@@ -1,0 +1,383 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2044241356160389120",
+        "3_2044241355011174400",
+        "3_2044241357439741952"
+      ],
+      "media_source_tweet_id": [
+        "2044241360342180304",
+        "2044241360342180304",
+        "2044241360342180304"
+      ]
+    },
+    "author_id": "1634191700712390657",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2044352763585278003",
+    "created_at": "2026-04-15T09:50:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-15T10:50:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2044352763585278003"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1839085606573637632",
+          "start": 3,
+          "username": "qii1969243"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/uqX9aXX7de",
+          "end": 82,
+          "expanded_url": "https://x.com/qii1969243/status/2044241360342180304/photo/1",
+          "media_key": "3_2044241356160389120",
+          "start": 59,
+          "url": "https://t.co/uqX9aXX7de"
+        },
+        {
+          "display_url": "pic.x.com/uqX9aXX7de",
+          "end": 82,
+          "expanded_url": "https://x.com/qii1969243/status/2044241360342180304/photo/1",
+          "media_key": "3_2044241355011174400",
+          "start": 59,
+          "url": "https://t.co/uqX9aXX7de"
+        },
+        {
+          "display_url": "pic.x.com/uqX9aXX7de",
+          "end": 82,
+          "expanded_url": "https://x.com/qii1969243/status/2044241360342180304/photo/1",
+          "media_key": "3_2044241357439741952",
+          "start": 59,
+          "url": "https://t.co/uqX9aXX7de"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2044352763585278003",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2044241360342180304",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @qii1969243: 欢迎互fo ◍˃ᵕ˂◍什么人都可以来互fo   同类更是欢迎 帖子大部分都是吐槽日常 https://t.co/uqX9aXX7de"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2256,
+        "media_key": "3_2044241356160389120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF6arr0aUAAt7RO.jpg",
+        "width": 2000
+      },
+      {
+        "height": 1190,
+        "media_key": "3_2044241355011174400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF6arniasAAj5oX.jpg",
+        "width": 1190
+      },
+      {
+        "height": 916,
+        "media_key": "3_2044241357439741952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HF6arwlbsAAhFia.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044241356160389120",
+            "3_2044241355011174400",
+            "3_2044241357439741952"
+          ],
+          "media_source_tweet_id": [
+            "2044241360342180304",
+            "2044241360342180304",
+            "2044241360342180304"
+          ]
+        },
+        "author_id": "1634191700712390657",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2044352763585278003",
+        "created_at": "2026-04-15T09:50:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T10:50:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2044352763585278003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1839085606573637632",
+              "start": 3,
+              "username": "qii1969243"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/uqX9aXX7de",
+              "end": 82,
+              "expanded_url": "https://x.com/qii1969243/status/2044241360342180304/photo/1",
+              "media_key": "3_2044241356160389120",
+              "start": 59,
+              "url": "https://t.co/uqX9aXX7de"
+            },
+            {
+              "display_url": "pic.x.com/uqX9aXX7de",
+              "end": 82,
+              "expanded_url": "https://x.com/qii1969243/status/2044241360342180304/photo/1",
+              "media_key": "3_2044241355011174400",
+              "start": 59,
+              "url": "https://t.co/uqX9aXX7de"
+            },
+            {
+              "display_url": "pic.x.com/uqX9aXX7de",
+              "end": 82,
+              "expanded_url": "https://x.com/qii1969243/status/2044241360342180304/photo/1",
+              "media_key": "3_2044241357439741952",
+              "start": 59,
+              "url": "https://t.co/uqX9aXX7de"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044352763585278003",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2044241360342180304",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @qii1969243: 欢迎互fo ◍˃ᵕ˂◍什么人都可以来互fo   同类更是欢迎 帖子大部分都是吐槽日常 https://t.co/uqX9aXX7de"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2044241356160389120",
+            "3_2044241355011174400",
+            "3_2044241357439741952"
+          ]
+        },
+        "author_id": "1839085606573637632",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2044241360342180304",
+        "created_at": "2026-04-15T02:28:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-15T03:28:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2044241360342180304"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uqX9aXX7de",
+              "end": 66,
+              "expanded_url": "https://x.com/qii1969243/status/2044241360342180304/photo/1",
+              "media_key": "3_2044241356160389120",
+              "start": 43,
+              "url": "https://t.co/uqX9aXX7de"
+            },
+            {
+              "display_url": "pic.x.com/uqX9aXX7de",
+              "end": 66,
+              "expanded_url": "https://x.com/qii1969243/status/2044241360342180304/photo/1",
+              "media_key": "3_2044241355011174400",
+              "start": 43,
+              "url": "https://t.co/uqX9aXX7de"
+            },
+            {
+              "display_url": "pic.x.com/uqX9aXX7de",
+              "end": 66,
+              "expanded_url": "https://x.com/qii1969243/status/2044241360342180304/photo/1",
+              "media_key": "3_2044241357439741952",
+              "start": 43,
+              "url": "https://t.co/uqX9aXX7de"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2044241360342180304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 421,
+          "like_count": 5,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "欢迎互fo ◍˃ᵕ˂◍什么人都可以来互fo   同类更是欢迎 帖子大部分都是吐槽日常 https://t.co/uqX9aXX7de"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "向死而生\n我喜欢我的群友 @Alistai33955292 @luoaa_072 @bloodmeiii @O817Xiao @usiisjkj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 13,
+                "username": "Alistai33955292"
+              },
+              {
+                "end": 40,
+                "start": 30,
+                "username": "luoaa_072"
+              },
+              {
+                "end": 52,
+                "start": 41,
+                "username": "bloodmeiii"
+              },
+              {
+                "end": 62,
+                "start": 53,
+                "username": "O817Xiao"
+              },
+              {
+                "end": 72,
+                "start": 63,
+                "username": "usiisjkj"
+              }
+            ]
+          }
+        },
+        "id": "1634191700712390657",
+        "location": "月亮",
+        "name": "柊檩川",
+        "pinned_tweet_id": "2038056405970657570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043360211638104064/3rfknD6o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 395,
+          "following_count": 345,
+          "like_count": 2051,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 980
+        },
+        "username": "xiaozhongT_T",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-25T23:32:44.000Z",
+        "description": "叫我岐^山支^之之^都可以/津/友跨/泛性恋/我割我抽/诞生12.21/长期请假中/od持开放态度 不一定碰但是不会反感 不鉴证 喜欢萌妹子 某些男的想加我先v520",
+        "id": "1839085606573637632",
+        "location": "蓝色宇宙",
+        "name": "cafe114",
+        "pinned_tweet_id": "2044241634762846515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039490693140549632/hYgO0Ks5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 172,
+          "like_count": 178,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 600
+        },
+        "username": "qii1969243",
+        "verified": false
+      }
+    ]
+  }
+}
