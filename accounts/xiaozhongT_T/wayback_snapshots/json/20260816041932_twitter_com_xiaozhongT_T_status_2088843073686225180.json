@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2088842775047639041",
+        "13_2088842955436253184"
+      ]
+    },
+    "author_id": "1634191700712390657",
+    "conversation_id": "2088843073686225180",
+    "created_at": "2026-08-16T04:19:32.000Z",
+    "display_text_range": [
+      0,
+      7
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T05:19:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088843073686225180"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/4av7XiLiwY",
+          "end": 31,
+          "expanded_url": "https://x.com/xiaozhongT_T/status/2088843073686225180/video/1",
+          "media_key": "13_2088842775047639041",
+          "start": 8,
+          "url": "https://t.co/4av7XiLiwY"
+        },
+        {
+          "display_url": "pic.x.com/4av7XiLiwY",
+          "end": 31,
+          "expanded_url": "https://x.com/xiaozhongT_T/status/2088843073686225180/video/1",
+          "media_key": "13_2088842955436253184",
+          "start": 8,
+          "url": "https://t.co/4av7XiLiwY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088843073686225180",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2088842775047639041"
+      },
+      {
+        "media_key": "13_2088842955436253184"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "十分钟暴力清图 https://t.co/4av7XiLiwY"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10181,
+        "height": 720,
+        "media_key": "13_2088842775047639041",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2088842775047639041/img/ft3__sMqUsc_GG1y.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088842775047639041/vid/avc1/480x270/Lu_KEl5vcLSc9Nwj.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088842775047639041/vid/avc1/640x360/CV5Z_ZoG22fQkE9K.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088842775047639041/vid/avc1/1280x720/Q7syORuXpNdxVqcf.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2088842775047639041/pl/c0btnm0se6Lhcz-o.m3u8"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "duration_ms": 6269,
+        "height": 1280,
+        "media_key": "13_2088842955436253184",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2088842955436253184/img/urZM8rDFLh1TVD5r.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088842955436253184/vid/avc1/320x568/TrYi4p2HiB-jaD9A.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088842955436253184/vid/avc1/480x852/B4WMcMypnP4pEMa0.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2088842955436253184/vid/avc1/720x1280/a49lYKd58Sbr7O9R.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2088842955436253184/pl/K06yK0DrRERFUemG.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2088842775047639041",
+            "13_2088842955436253184"
+          ]
+        },
+        "author_id": "1634191700712390657",
+        "conversation_id": "2088843073686225180",
+        "created_at": "2026-08-16T04:19:32.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T05:19:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088843073686225180"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4av7XiLiwY",
+              "end": 31,
+              "expanded_url": "https://x.com/xiaozhongT_T/status/2088843073686225180/video/1",
+              "media_key": "13_2088842775047639041",
+              "start": 8,
+              "url": "https://t.co/4av7XiLiwY"
+            },
+            {
+              "display_url": "pic.x.com/4av7XiLiwY",
+              "end": 31,
+              "expanded_url": "https://x.com/xiaozhongT_T/status/2088843073686225180/video/1",
+              "media_key": "13_2088842955436253184",
+              "start": 8,
+              "url": "https://t.co/4av7XiLiwY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088843073686225180",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2088842775047639041"
+          },
+          {
+            "media_key": "13_2088842955436253184"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "十分钟暴力清图 https://t.co/4av7XiLiwY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "向死而生\n我喜欢我的群友 @Alistai33955292 @luoaa_072 @meiiiTVT @O817Xiao @usiisjkj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 13,
+                "username": "Alistai33955292"
+              },
+              {
+                "end": 40,
+                "start": 30,
+                "username": "luoaa_072"
+              },
+              {
+                "end": 50,
+                "start": 41,
+                "username": "meiiiTVT"
+              },
+              {
+                "end": 60,
+                "start": 51,
+                "username": "O817Xiao"
+              },
+              {
+                "end": 70,
+                "start": 61,
+                "username": "usiisjkj"
+              }
+            ]
+          }
+        },
+        "id": "1634191700712390657",
+        "is_identity_verified": false,
+        "location": "月亮",
+        "most_recent_tweet_id": "2088843073686225180",
+        "name": "柊檩川",
+        "pinned_tweet_id": "2080263111546912901",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1634191700712390657/1786527960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071841145642971136/VofFVqfi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 515,
+          "following_count": 390,
+          "like_count": 2075,
+          "listed_count": 1,
+          "media_count": 134,
+          "tweet_count": 1285
+        },
+        "url": "",
+        "username": "xiaozhongT_T",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
