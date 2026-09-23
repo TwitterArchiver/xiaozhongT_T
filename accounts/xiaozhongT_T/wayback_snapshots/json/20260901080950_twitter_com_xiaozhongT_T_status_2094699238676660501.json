@@ -1,0 +1,421 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634191700712390657",
+    "conversation_id": "2094423949233058055",
+    "created_at": "2026-09-01T08:09:50.000Z",
+    "display_text_range": [
+      12,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T09:09:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094699238676660501"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1665304321066684416",
+          "start": 0,
+          "username": "OoOooo0518"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094699238676660501",
+    "in_reply_to_user_id": "1665304321066684416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094423949233058055",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OoOooo0518 主人抽我我严肃支持您生意"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2094423938801778688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRDjecFawAAaZTS.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2094423938810146816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRDjecHacAAQmFJ.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2094423938810142720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRDjecHaYAAks9J.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1919,
+        "media_key": "3_2094423938797535232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRDjecEaAAAKxGl.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634191700712390657",
+        "conversation_id": "2094423949233058055",
+        "created_at": "2026-09-01T08:09:50.000Z",
+        "display_text_range": [
+          12,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T09:09:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094699238676660501"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1665304321066684416",
+              "start": 0,
+              "username": "OoOooo0518"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094699238676660501",
+        "in_reply_to_user_id": "1665304321066684416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094423949233058055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OoOooo0518 主人抽我我严肃支持您生意"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094423938801778688",
+            "3_2094423938810146816",
+            "3_2094423938810142720",
+            "3_2094423938797535232"
+          ]
+        },
+        "author_id": "1665304321066684416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2094423949233058055",
+        "created_at": "2026-08-31T13:55:56.000Z",
+        "display_text_range": [
+          0,
+          153
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T14:55:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094423949233058055"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 3,
+              "start": 0,
+              "tag": "od"
+            },
+            {
+              "end": 13,
+              "start": 4,
+              "tag": "overdose"
+            },
+            {
+              "end": 17,
+              "start": 14,
+              "tag": "抽奖"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aWrzjyqILY",
+              "end": 177,
+              "expanded_url": "https://x.com/OoOooo0518/status/2094423949233058055/photo/1",
+              "media_key": "3_2094423938801778688",
+              "start": 154,
+              "url": "https://t.co/aWrzjyqILY"
+            },
+            {
+              "display_url": "pic.x.com/aWrzjyqILY",
+              "end": 177,
+              "expanded_url": "https://x.com/OoOooo0518/status/2094423949233058055/photo/1",
+              "media_key": "3_2094423938810146816",
+              "start": 154,
+              "url": "https://t.co/aWrzjyqILY"
+            },
+            {
+              "display_url": "pic.x.com/aWrzjyqILY",
+              "end": 177,
+              "expanded_url": "https://x.com/OoOooo0518/status/2094423949233058055/photo/1",
+              "media_key": "3_2094423938810142720",
+              "start": 154,
+              "url": "https://t.co/aWrzjyqILY"
+            },
+            {
+              "display_url": "pic.x.com/aWrzjyqILY",
+              "end": 177,
+              "expanded_url": "https://x.com/OoOooo0518/status/2094423949233058055/photo/1",
+              "media_key": "3_2094423938797535232",
+              "start": 154,
+              "url": "https://t.co/aWrzjyqILY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094423949233058055",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094423938801778688"
+          },
+          {
+            "media_key": "3_2094423938810146816"
+          },
+          {
+            "media_key": "3_2094423938810142720"
+          },
+          {
+            "media_key": "3_2094423938797535232"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 3,
+                "start": 0,
+                "tag": "od"
+              },
+              {
+                "end": 13,
+                "start": 4,
+                "tag": "overdose"
+              },
+              {
+                "end": 17,
+                "start": 14,
+                "tag": "抽奖"
+              },
+              {
+                "end": 319,
+                "start": 316,
+                "tag": "药商"
+              },
+              {
+                "end": 324,
+                "start": 320,
+                "tag": "愈美片"
+              },
+              {
+                "end": 330,
+                "start": 325,
+                "tag": "普瑞巴林"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/melody_tik",
+                "end": 262,
+                "expanded_url": "http://t.me/melody_tik",
+                "start": 239,
+                "url": "https://t.co/hleBBuImWI"
+              }
+            ]
+          },
+          "text": "#od #overdose #抽奖 \n为表达歉意再给大家抽点奖吧\n一等奖x1 - 愈美片3盒\n二等奖x2 - 愈美片2盒\n三等奖x3 - 超天酱拼豆周边(自选）\n\n关注➕转发➕点赞➕评论🟰参与\n\n重新开始接愈美片代购 找到新渠道了给大家大降价啦\n云药的 25r一盒 已经接近成本价了，我自己也是重度oder 想办法尽量便宜的价格给真正有需要的朋友们\n本账号600fo+我妹账号2700fo担保\n请放心购买\n因之前的wx账号收款太多被暂时封禁\n所以需要药的朋友们暂时可以电报联系我https://t.co/hleBBuImWI或者推特私信我(有时候会被过滤我看不见) 另外，普瑞巴林的渠道我也在想办法搞了 请大家耐心等待 非常感谢!\n#药商 #愈美片 #普瑞巴林"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 1522,
+          "like_count": 75,
+          "quote_count": 1,
+          "reply_count": 55,
+          "retweet_count": 55
+        },
+        "reply_settings": "everyone",
+        "text": "#od #overdose #抽奖 \n为表达歉意再给大家抽点奖吧\n一等奖x1 - 愈美片3盒\n二等奖x2 - 愈美片2盒\n三等奖x3 - 超天酱拼豆周边(自选）\n\n关注➕转发➕点赞➕评论🟰参与\n\n重新开始接愈美片代购 找到新渠道了给大家大降价啦\n云药的 25r一盒 已经接近成本价了，我自己也是重度oder https://t.co/aWrzjyqILY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "向死而生\n我喜欢我的群友 @Alistai33955292 @luoaa_072 @meiiiTVT @O817Xiao @usiisjkj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 13,
+                "username": "Alistai33955292"
+              },
+              {
+                "end": 40,
+                "start": 30,
+                "username": "luoaa_072"
+              },
+              {
+                "end": 50,
+                "start": 41,
+                "username": "meiiiTVT"
+              },
+              {
+                "end": 60,
+                "start": 51,
+                "username": "O817Xiao"
+              },
+              {
+                "end": 70,
+                "start": 61,
+                "username": "usiisjkj"
+              }
+            ]
+          }
+        },
+        "id": "1634191700712390657",
+        "is_identity_verified": false,
+        "location": "月亮",
+        "most_recent_tweet_id": "2094699238676660501",
+        "name": "柊檩川",
+        "pinned_tweet_id": "2080263111546912901",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1634191700712390657/1786527960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071841145642971136/VofFVqfi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 383,
+          "like_count": 2068,
+          "listed_count": 1,
+          "media_count": 134,
+          "tweet_count": 1289
+        },
+        "url": "",
+        "username": "xiaozhongT_T",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-04T10:27:54.000Z",
+        "description": "mtf 重抑重焦 无证含糖 你可以叫我O泡（大一休学中 欢迎互fo 我再次重生的妹妹:@OE3IIGFQRQ9473 永久25r/盒卖云药愈美片以及免费咨询药物推荐电报联系https://t.co/CIpMy1FYM9或X私信\n我不太懂药理学但是能o和不能o的药我都尝试过了，嗑药前可以先问问我！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 43,
+                "username": "OE3IIGFQRQ9473"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/melody_tik",
+                "end": 109,
+                "expanded_url": "https://t.me/melody_tik",
+                "start": 86,
+                "url": "https://t.co/CIpMy1FYM9"
+              }
+            ]
+          }
+        },
+        "id": "1665304321066684416",
+        "is_identity_verified": false,
+        "location": "杭州",
+        "most_recent_tweet_id": "2094677359891021830",
+        "name": "OoOooo",
+        "pinned_tweet_id": "2083268021070786824",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1665304321066684416/1770916243",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082407067441381376/qdkgUI2W_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 725,
+          "following_count": 337,
+          "like_count": 2745,
+          "listed_count": 2,
+          "media_count": 194,
+          "tweet_count": 956
+        },
+        "url": "",
+        "username": "OoOooo0518",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

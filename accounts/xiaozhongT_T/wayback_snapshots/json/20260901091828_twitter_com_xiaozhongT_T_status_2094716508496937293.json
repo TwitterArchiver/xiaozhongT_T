@@ -1,0 +1,404 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2070813611820457984"
+      ],
+      "media_source_tweet_id": [
+        "2070813691285782879"
+      ]
+    },
+    "author_id": "1634191700712390657",
+    "conversation_id": "2094716508496937293",
+    "created_at": "2026-09-01T09:18:28.000Z",
+    "display_text_range": [
+      0,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T10:18:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094716508496937293"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1782034265733201921",
+          "start": 3,
+          "username": "jremangelo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3L80aau9PF",
+          "end": 39,
+          "expanded_url": "https://x.com/paswify/status/2070813691285782879/video/1",
+          "media_key": "13_2070813611820457984",
+          "start": 16,
+          "url": "https://t.co/3L80aau9PF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094716508496937293",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "13_2070813611820457984"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 363
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093999894831010259",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @jremangelo: https://t.co/3L80aau9PF"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16460,
+        "height": 1280,
+        "media_key": "13_2070813611820457984",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2070813611820457984/img/jGt5FMppwZzM1vbk.jpg",
+        "public_metrics": {
+          "view_count": 1739776
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070813611820457984/vid/avc1/320x568/0rMVsmIxFFxMg8in.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070813611820457984/vid/avc1/480x852/WJiOGtDtdH84zmsJ.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2070813611820457984/vid/avc1/720x1280/4l6TBCC55pDyaKHX.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2070813611820457984/pl/aiDsq9bWr1oWLolz.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2070813611820457984"
+          ],
+          "media_source_tweet_id": [
+            "2070813691285782879"
+          ]
+        },
+        "author_id": "1634191700712390657",
+        "conversation_id": "2094716508496937293",
+        "created_at": "2026-09-01T09:18:28.000Z",
+        "display_text_range": [
+          0,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T10:18:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094716508496937293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1782034265733201921",
+              "start": 3,
+              "username": "jremangelo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3L80aau9PF",
+              "end": 39,
+              "expanded_url": "https://x.com/paswify/status/2070813691285782879/video/1",
+              "media_key": "13_2070813611820457984",
+              "start": 16,
+              "url": "https://t.co/3L80aau9PF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094716508496937293",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2070813611820457984"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 363
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093999894831010259",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @jremangelo: https://t.co/3L80aau9PF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2070813611820457984"
+          ],
+          "media_source_tweet_id": [
+            "2070813691285782879"
+          ]
+        },
+        "author_id": "1782034265733201921",
+        "conversation_id": "2093999894831010259",
+        "created_at": "2026-08-30T09:50:54.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T10:50:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093999894831010259"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3L80aau9PF",
+              "end": 23,
+              "expanded_url": "https://x.com/paswify/status/2070813691285782879/video/1",
+              "media_key": "13_2070813611820457984",
+              "start": 0,
+              "url": "https://t.co/3L80aau9PF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093999894831010259",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "13_2070813611820457984"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2688,
+          "impression_count": 30345,
+          "like_count": 6370,
+          "quote_count": 10,
+          "reply_count": 0,
+          "retweet_count": 363
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "https://t.co/3L80aau9PF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2070813611820457984"
+          ]
+        },
+        "author_id": "1842844105795350528",
+        "conversation_id": "2070813691285782879",
+        "created_at": "2026-06-27T10:17:12.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-06-27T11:17:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070813691285782879"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 3,
+              "tag": "nsfw"
+            },
+            {
+              "end": 14,
+              "start": 9,
+              "tag": "yern"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HHiQA0jOka",
+              "end": 38,
+              "expanded_url": "https://x.com/paswify/status/2070813691285782879/video/1",
+              "media_key": "13_2070813611820457984",
+              "start": 15,
+              "url": "https://t.co/HHiQA0jOka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070813691285782879",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "13_2070813611820457984"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": true,
+        "public_metrics": {
+          "bookmark_count": 14550,
+          "impression_count": 1549896,
+          "like_count": 27359,
+          "quote_count": 134,
+          "reply_count": 57,
+          "retweet_count": 2352
+        },
+        "reply_settings": "everyone",
+        "text": "🕷️ #nsfw #yern https://t.co/HHiQA0jOka"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "向死而生\n我喜欢我的群友 @Alistai33955292 @luoaa_072 @meiiiTVT @O817Xiao @usiisjkj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 13,
+                "username": "Alistai33955292"
+              },
+              {
+                "end": 40,
+                "start": 30,
+                "username": "luoaa_072"
+              },
+              {
+                "end": 50,
+                "start": 41,
+                "username": "meiiiTVT"
+              },
+              {
+                "end": 60,
+                "start": 51,
+                "username": "O817Xiao"
+              },
+              {
+                "end": 70,
+                "start": 61,
+                "username": "usiisjkj"
+              }
+            ]
+          }
+        },
+        "id": "1634191700712390657",
+        "is_identity_verified": false,
+        "location": "月亮",
+        "most_recent_tweet_id": "2094716508496937293",
+        "name": "柊檩川",
+        "pinned_tweet_id": "2080263111546912901",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1634191700712390657/1786527960",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071841145642971136/VofFVqfi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 383,
+          "like_count": 2067,
+          "listed_count": 1,
+          "media_count": 135,
+          "tweet_count": 1293
+        },
+        "url": "",
+        "username": "xiaozhongT_T",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-21T13:11:06.000Z",
+        "description": "",
+        "id": "1782034265733201921",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094444484348223725",
+        "name": "Jay",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1782034265733201921/1786033131",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085423277292638208/c11dVITm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6574,
+          "following_count": 4,
+          "like_count": 8731,
+          "listed_count": 3,
+          "media_count": 50,
+          "tweet_count": 203
+        },
+        "url": "",
+        "username": "jremangelo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
