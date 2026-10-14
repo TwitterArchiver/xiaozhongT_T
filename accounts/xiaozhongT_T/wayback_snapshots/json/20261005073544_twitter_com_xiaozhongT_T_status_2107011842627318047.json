@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634191700712390657",
+    "conversation_id": "2106877918333010228",
+    "created_at": "2026-10-05T07:35:44.000Z",
+    "display_text_range": [
+      14,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-05T08:35:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107011842627318047"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2060786188680884224",
+          "start": 0,
+          "username": "methYLphENdA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107011842627318047",
+    "in_reply_to_user_id": "2060786188680884224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106938743479587315",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@methYLphENdA 握草活爹来了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634191700712390657",
+        "conversation_id": "2106877918333010228",
+        "created_at": "2026-10-05T07:35:44.000Z",
+        "display_text_range": [
+          14,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T08:35:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107011842627318047"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2060786188680884224",
+              "start": 0,
+              "username": "methYLphENdA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107011842627318047",
+        "in_reply_to_user_id": "2060786188680884224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106938743479587315",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@methYLphENdA 握草活爹来了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2060786188680884224",
+        "conversation_id": "2106877918333010228",
+        "created_at": "2026-10-05T02:45:16.000Z",
+        "display_text_range": [
+          14,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T03:45:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106938743479587315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1634191700712390657",
+              "start": 0,
+              "username": "xiaozhongT_T"
+            }
+          ],
+          "urls": [
+            {
+              "description": "From breaking news and entertainment to sports and politics, get the full story with all the live commentary.",
+              "display_url": "x.com/i/chat/group_j…",
+              "end": 37,
+              "expanded_url": "https://x.com/i/chat/group_join/g2103304670102143026/w3ZioJ3V7l",
+              "images": [
+                {
+                  "height": 1024,
+                  "url": "https://pbs.twimg.com/news_img/2106967199457918976/moHfOihN?format=png&name=orig",
+                  "width": 1024
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2106967199457918976/moHfOihN?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 14,
+              "status": 200,
+              "title": "X. It’s what’s happening",
+              "unwound_url": "https://x.com/",
+              "url": "https://t.co/w6CWPvyTgv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106938743479587315",
+        "in_reply_to_user_id": "1634191700712390657",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 285,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106877918333010228",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaozhongT_T https://t.co/w6CWPvyTgv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "向死而生\n我喜欢我的群友 @Alistai33955292 @luoaa_072 @meiiiTVT @O817Xiao @usiisjkj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 13,
+                "username": "Alistai33955292"
+              },
+              {
+                "end": 40,
+                "start": 30,
+                "username": "luoaa_072"
+              },
+              {
+                "end": 50,
+                "start": 41,
+                "username": "meiiiTVT"
+              },
+              {
+                "end": 60,
+                "start": 51,
+                "username": "O817Xiao"
+              },
+              {
+                "end": 70,
+                "start": 61,
+                "username": "usiisjkj"
+              }
+            ]
+          }
+        },
+        "id": "1634191700712390657",
+        "is_identity_verified": false,
+        "location": "月亮",
+        "most_recent_tweet_id": "2107011842627318047",
+        "name": "柊檩川",
+        "pinned_tweet_id": "2045794932137336885",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1634191700712390657/1790766396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105253440796360704/Srmr7ow9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 506,
+          "following_count": 379,
+          "like_count": 2067,
+          "listed_count": 1,
+          "media_count": 139,
+          "tweet_count": 1316
+        },
+        "url": "",
+        "username": "xiaozhongT_T",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-30T18:17:25.000Z",
+        "description": "",
+        "id": "2060786188680884224",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2106972740066660798",
+        "name": "EAK 巨能充",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2060786188680884224/1781835718",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060788975284219904/3_DL8hOn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 41,
+          "following_count": 254,
+          "like_count": 8487,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 336
+        },
+        "url": "",
+        "username": "methYLphENdA",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

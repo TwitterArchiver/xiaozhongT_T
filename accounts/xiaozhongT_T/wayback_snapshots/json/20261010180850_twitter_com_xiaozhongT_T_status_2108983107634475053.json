@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634191700712390657",
+    "conversation_id": "2108982156953587945",
+    "created_at": "2026-10-10T18:08:50.000Z",
+    "display_text_range": [
+      14,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-10T19:08:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108983107634475053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2083858416402079745",
+          "start": 0,
+          "username": "EvansRichter"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108983107634475053",
+    "in_reply_to_user_id": "2083858416402079745",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108982156953587945",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EvansRichter 就最近。。。因为一堆ai短剧都是同一个套路刷屏所以火了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634191700712390657",
+        "conversation_id": "2108982156953587945",
+        "created_at": "2026-10-10T18:08:50.000Z",
+        "display_text_range": [
+          14,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T19:08:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108983107634475053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2083858416402079745",
+              "start": 0,
+              "username": "EvansRichter"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108983107634475053",
+        "in_reply_to_user_id": "2083858416402079745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108982156953587945",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EvansRichter 就最近。。。因为一堆ai短剧都是同一个套路刷屏所以火了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2083858416402079745",
+        "conversation_id": "2108982156953587945",
+        "created_at": "2026-10-10T18:05:03.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T19:05:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108982156953587945"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2108982156953587945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "烧心这个梗什么时候火的...我是不老了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "向死而生\n我喜欢我的群友 @Alistai33955292 @luoaa_072 @meiiiTVT @O817Xiao @usiisjkj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 13,
+                "username": "Alistai33955292"
+              },
+              {
+                "end": 40,
+                "start": 30,
+                "username": "luoaa_072"
+              },
+              {
+                "end": 50,
+                "start": 41,
+                "username": "meiiiTVT"
+              },
+              {
+                "end": 60,
+                "start": 51,
+                "username": "O817Xiao"
+              },
+              {
+                "end": 70,
+                "start": 61,
+                "username": "usiisjkj"
+              }
+            ]
+          }
+        },
+        "id": "1634191700712390657",
+        "is_identity_verified": false,
+        "location": "月亮",
+        "most_recent_tweet_id": "2108983107634475053",
+        "name": "柊檩川",
+        "pinned_tweet_id": "2045794932137336885",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1634191700712390657/1790766396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2108502863978860544/v2NgSnAI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 514,
+          "following_count": 386,
+          "like_count": 2087,
+          "listed_count": 1,
+          "media_count": 141,
+          "tweet_count": 1315
+        },
+        "url": "",
+        "username": "xiaozhongT_T",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-02T10:13:53.000Z",
+        "description": "男 19岁\n自由意识共产主义\n马克思主义\nLGBTQ+全友好\n🇵🇸🕊️\nENFP\n欢迎互fo，互fo欢迎扩列",
+        "id": "2083858416402079745",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108982156953587945",
+        "name": "穿靴子的猫",
+        "pinned_tweet_id": "2101715146641211874",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2083858416402079745/1785666289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098376155514724352/Dmxindkp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 361,
+          "following_count": 951,
+          "like_count": 14544,
+          "listed_count": 0,
+          "media_count": 126,
+          "tweet_count": 3523
+        },
+        "url": "",
+        "username": "EvansRichter",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

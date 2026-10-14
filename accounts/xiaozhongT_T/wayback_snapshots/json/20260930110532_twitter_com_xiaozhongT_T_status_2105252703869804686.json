@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634191700712390657",
+    "conversation_id": "2104396627117269486",
+    "created_at": "2026-09-30T11:05:32.000Z",
+    "display_text_range": [
+      13,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T12:05:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105252703869804686"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2084910172464685056",
+          "start": 0,
+          "username": "yctf_520qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105252703869804686",
+    "in_reply_to_user_id": "2084910172464685056",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104396627117269486",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yctf_520qwq 老公我想要pr。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634191700712390657",
+        "conversation_id": "2104396627117269486",
+        "created_at": "2026-09-30T11:05:32.000Z",
+        "display_text_range": [
+          13,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T12:05:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105252703869804686"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2084910172464685056",
+              "start": 0,
+              "username": "yctf_520qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105252703869804686",
+        "in_reply_to_user_id": "2084910172464685056",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104396627117269486",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yctf_520qwq 老公我想要pr。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2084910172464685056",
+        "conversation_id": "2104396627117269486",
+        "created_at": "2026-09-28T02:23:48.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T03:23:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104396627117269486"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104396627117269486",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 515,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "买到了好多药呀15盒愈美10盒普瑞这个月貌似要吃土了。。。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "向死而生\n我喜欢我的群友 @Alistai33955292 @luoaa_072 @meiiiTVT @O817Xiao @usiisjkj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 13,
+                "username": "Alistai33955292"
+              },
+              {
+                "end": 40,
+                "start": 30,
+                "username": "luoaa_072"
+              },
+              {
+                "end": 50,
+                "start": 41,
+                "username": "meiiiTVT"
+              },
+              {
+                "end": 60,
+                "start": 51,
+                "username": "O817Xiao"
+              },
+              {
+                "end": 70,
+                "start": 61,
+                "username": "usiisjkj"
+              }
+            ]
+          }
+        },
+        "id": "1634191700712390657",
+        "is_identity_verified": false,
+        "location": "月亮",
+        "most_recent_tweet_id": "2105252703869804686",
+        "name": "柊檩川",
+        "pinned_tweet_id": "2080263111546912901",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1634191700712390657/1790176278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071841145642971136/VofFVqfi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497,
+          "following_count": 373,
+          "like_count": 2062,
+          "listed_count": 1,
+          "media_count": 137,
+          "tweet_count": 1298
+        },
+        "url": "",
+        "username": "xiaozhongT_T",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-05T07:52:10.000Z",
+        "description": "🕯郁咲愛奈🕯",
+        "id": "2084910172464685056",
+        "is_identity_verified": false,
+        "location": "天国",
+        "most_recent_tweet_id": "2105230189324370121",
+        "name": "郁咲愛奈",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2084910172464685056/1790562469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091122309579116544/lDuJuAgC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 61,
+          "like_count": 1540,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 54
+        },
+        "url": "",
+        "username": "yctf_520qwq",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

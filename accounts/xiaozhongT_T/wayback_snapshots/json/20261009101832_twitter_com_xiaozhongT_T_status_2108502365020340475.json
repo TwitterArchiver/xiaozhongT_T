@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1634191700712390657",
+    "conversation_id": "2108502365020340475",
+    "created_at": "2026-10-09T10:18:32.000Z",
+    "display_text_range": [
+      0,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-09T11:18:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2108502365020340475"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/WuYiyi115/stat…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/WuYiyi115/status/2108502182475747481",
+          "start": 12,
+          "url": "https://t.co/idDs091duz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108502365020340475",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108502182475747481",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我们到死都纠缠在一起吧 https://t.co/idDs091duz"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634191700712390657",
+        "conversation_id": "2108502365020340475",
+        "created_at": "2026-10-09T10:18:32.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T11:18:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108502365020340475"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/WuYiyi115/stat…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/WuYiyi115/status/2108502182475747481",
+              "start": 12,
+              "url": "https://t.co/idDs091duz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108502365020340475",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108502182475747481",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我们到死都纠缠在一起吧 https://t.co/idDs091duz"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2074137520233918466",
+        "conversation_id": "2108502182475747481",
+        "created_at": "2026-10-09T10:17:49.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T11:17:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108502182475747481"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1634191700712390657",
+              "start": 6,
+              "username": "xiaozhongT_T"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108502182475747481",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我永远爱你。@xiaozhongT_T"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2023-03-10T13:57:26.000Z",
+        "description": "向死而生\n我喜欢我的群友 @Alistai33955292 @luoaa_072 @meiiiTVT @O817Xiao @usiisjkj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 13,
+                "username": "Alistai33955292"
+              },
+              {
+                "end": 40,
+                "start": 30,
+                "username": "luoaa_072"
+              },
+              {
+                "end": 50,
+                "start": 41,
+                "username": "meiiiTVT"
+              },
+              {
+                "end": 60,
+                "start": 51,
+                "username": "O817Xiao"
+              },
+              {
+                "end": 70,
+                "start": 61,
+                "username": "usiisjkj"
+              }
+            ]
+          }
+        },
+        "id": "1634191700712390657",
+        "is_identity_verified": false,
+        "location": "月亮",
+        "most_recent_tweet_id": "2108502365020340475",
+        "name": "柊檩川",
+        "pinned_tweet_id": "2045794932137336885",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1634191700712390657/1790766396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2107677946739863552/IiGjCRUY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 509,
+          "following_count": 383,
+          "like_count": 2070,
+          "listed_count": 1,
+          "media_count": 141,
+          "tweet_count": 1323
+        },
+        "url": "",
+        "username": "xiaozhongT_T",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-06T14:26:00.000Z",
+        "description": "",
+        "id": "2074137520233918466",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108502182475747481",
+        "name": "Wuyiyi",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2074137520233918466/1791541016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2108501913285140480/VW_1EaRG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 22,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 3
+        },
+        "url": "",
+        "username": "WuYiyi115",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
